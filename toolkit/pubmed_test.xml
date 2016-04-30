@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2016//EN" "./pubmed_160101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27091967</PMID>
+        <DateCreated>
+            <Year>2016</Year>
+            <Month>4</Month>
+            <Day>19</Day>
+        </DateCreated>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>4</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1091-6490</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Apr</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Re-silencing of silent synapses unmasks anti-relapse effects of environmental enrichment.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn/>
+            </Pagination>
+            <ELocationID EIdType="pii">201524739</ELocationID>
+            <Abstract>
+                <AbstractText NlmCategory="UNASSIGNED">Environmental enrichment (EE) has long been postulated as a behavioral treatment for drug addiction based on its preventive effects in animal models: rodents experiencing prior EE exhibit increased resistance to establishing drug taking and seeking. However, the therapeutic effects of EE, namely, the effects of EE when applied after drug exposure, are often marginal and transient. Using incubation of cue-induced cocaine craving, a rat relapse model depicting progressive intensification of cocaine seeking after withdrawal from cocaine self-administration, our present study reveals that after cocaine withdrawal, in vivo circuit-specific long-term depression (LTD) unmasks the therapeutic power of EE to achieve long-lasting anti-relapse effects. Specifically, our previous results show that cocaine self-administration generates AMPA receptor (AMPAR)-silent excitatory synapses within the basolateral amygdala (BLA) to nucleus accumbens (NAc) projection, and maturation of these silent synapses via recruiting calcium-permeable (CP) AMPARs contributes to incubation of cocaine craving. Here, we show that after cocaine withdrawal and maturation of silent synapses, the BLA-to-NAc projection became highly resistant to EE. However, optogenetic LTD applied to this projection in vivo transiently re-silenced these silent synapses by removing CP-AMPARs. During this transient window, application of EE resulted in the insertion of nonCP-AMPARs, thereby remodeling the &quot;incubated&quot; BLA-to-NAc projection. Consequently, incubation of cocaine craving was decreased persistently. These results reveal a mechanistic basis through which the persistent anti-relapse effects of EE can be unleashed after drug withdrawal.</AbstractText>
+            </Abstract>
+            <AuthorList>
+                <Author>
+                    <LastName>Ma</LastName>
+                    <ForeName>Yao-Ying</ForeName>
+                    <Initials>YY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuroscience, University of Pittsburgh, PA 15260;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Wang</LastName>
+                    <ForeName>Xiusong</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, University of Pittsburgh, PA 15260;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Huang</LastName>
+                    <ForeName>Yanhua</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, University of Pittsburgh, PA 15260;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Marie</LastName>
+                    <ForeName>Helene</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut de Pharmacologie Moléculaire et Cellulaire, CNRS, Université de Nice Sophia Antipolis, UMR 7275, 06250 Valbonne, France;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Nestler</LastName>
+                    <ForeName>Eric J</ForeName>
+                    <Initials>EJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fishberg Department of Neuroscience and Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York, NY 10029.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Schlüter</LastName>
+                    <ForeName>Oliver M</ForeName>
+                    <Initials>OM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuroscience, University of Pittsburgh, PA 15260;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author>
+                    <LastName>Dong</LastName>
+                    <ForeName>Yan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuroscience, University of Pittsburgh, PA 15260; Department of Psychiatry, University of Pittsburgh, PA 15260; yandong@pitt.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ENG</Language>
+            <PublicationTypeList>
+                <PublicationType UI="">JOURNAL ARTICLE</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">accumbens</Keyword>
+            <Keyword MajorTopicYN="N">cocaine</Keyword>
+            <Keyword MajorTopicYN="N">environmental enrichment</Keyword>
+            <Keyword MajorTopicYN="N">incubation</Keyword>
+            <Keyword MajorTopicYN="N">silent synapse</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pii">1524739113</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.1524739113</ArticleId>
+            <ArticleId IdType="pubmed">27091967</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>

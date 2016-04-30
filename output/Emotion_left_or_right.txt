@@ -1,0 +1,94 @@
+26217205|We demonstrated that the left and right amygdalae were sensitive to changes in emotional intensity , activating more in response to stimuli with higher intensity .
+
+25713527|Results show that emotional discrimination in the right amygdala precedes that in the left amygdala and that emotional discrimination in both those regions precedes that in the right anterior VLPFC .
+
+25629899|However , the engagement of the left and right amygdala during the early perceptual processing of different emotional faces remains unclear .
+
+25605886|Asymmetrical effects of unilateral right or left amygdala damage on auditory cortical processing of vocal emotions . .
+
+25576174|The right central nucleus of the amygdala -LRB- CeA -RRB- is critical for the lateral spinal ascending pain pathway , regulates descending pain pathways and is key in the emotional-affective components of pain .
+
+25298173|In this study , we used a pre - and post-treatment -LRB- escitalopram -RRB- design to analyze the relative differences between neural activity in the right and left amygdalae during exposure to emotional stimuli in currently depressed patients .
+
+25298173|Amygdala responses to four types of emotional stimuli did not significantly change -LRB- p > 0.05 -RRB- with treatment in either the right or the left amygdala .
+
+25298173|We found that the response between the right and left amygdala did not differ in terms of time series , although activity increased after pharmaceutical treatment for each emotion tested .
+
+25220389|Positive affect scores correlated with the betweenness values of the right orbital frontal cortex -LRB- OFC -RRB- and the right putamen in the positive emotional network ; negative affect scores correlated with the betweenness values of the left OFC and the left amygdala in the negative emotional network .
+
+25059532|Guanfacine moderated the effect of face emotion on the task-related functional connectivity of left and right amygdala with left inferior frontal gyrus compared to placebo , by selectively reversing the functional co-activation of the two regions for response execution cued by sad faces .
+
+24904065|Emotional cue-induced activation in right lateral OFC and left amygdala might relate to emotion-based risk-taking through negative urgency .
+
+24760033|The left and right amygdalae are key regions distinctly involved in emotion-regulation processes .
+
+24367308|Recent evidence suggests that the valence of emotionally laden encounters may generate lateralized , as opposed to symmetric release of this transmitter in the right or left amygdala .
+
+24241476|Therefore , we developed a task that trained participants to down-regulate activity of the right amygdala while being confronted with amygdala stimulation , i.e. negative emotional faces .
+
+23825407|Our results indicate that neither the right nor left amygdala is necessary for the heightened visual cortex BOLD responses observed during emotional stimulus presentation .
+
+23239022|Emotional processing differs between the left and right hemispheres of the brain , and functional differences have been reported more specifically between the left and right amygdalae , subcortical structures heavily implicated in emotional processing .
+
+22978709|PPI analyses showed that cocaine users had increased functional coupling between the dlPFC and emotion-related regions during Maintain > Observe , whereas they showed decreased functional coupling between the right IFG and the amygdala during Suppress > Maintain .
+
+22432905|Our results suggest that by using a localized robust clustering approach , it is possible to probe activation in the right dorsal amygdala that is directly related to individual real-time emotional experience .
+
+22252376|Some suspected trends in the data are highlighted , including reductions in the hippocampi and amygdalae of BPD patients compared to healthy controls , exaggerated amygdala activity in BPD patients when confronted with emotion-related stimulus , and negative correlations between increases in left amygdalar creatine and reductions in amygdalar volume , reductions in absolute N-acetylaspartate concentration in the dorsolateral prefrontal cortex of BPD patients , and increases in glutamate concentration in the anterior cingulate cortices of BPD patients .
+
+21881566|Functional connectivity analysis revealed that among synchronous mothers , left NAcc and right amygdala were functionally correlated with emotion modulation , theory-of-mind , and empathy networks .
+
+21757239|The interpretation of these findings could be that there is an emotional processing bias with disconnection bilaterally between amygdala to orbitofrontal cortices and in addition a right disconnection between amygdala and ACC as well as between ACC and prefrontal cortex possibly in line with a more prominent role for the right hemisphere in emotion processing .
+
+21621549|Connectivity between right parahippocampus and bilateral amygdala/periamygdala was also enhanced during correct post-sleep attribution of emotional contexts .
+
+20946960|There is a long-standing debate on hemispheric lateralization of emotional processes , yet few studies to date directly investigated differential activation patterns for the left and right amygdala .
+
+20729768|We examined male and female adolescents -LRB- 8-18 years of age -RRB- that were scanned with structural brain MRI and looked for a correlation between volume of the right or the left amygdala and parent-reported ability of emotional control .
+
+20236805|Behavioral control , including both over - and under-control , is likely to be subserved by neural circuitry associated with emotion regulation including the right OFC and the amygdala .
+
+20159144|Abnormal left and right amygdala-orbitofrontal cortical functional connectivity to emotional faces : state versus trait vulnerability markers of depression in bipolar disorder . .
+
+19255377|Left and right amygdala activation differed as a function of diagnosis , facial expression , and attention condition both when patients with comorbid MDD and anxiety were included and when they were excluded -LRB- group x emotion x attention interactions , P < or = .03 -RRB- .
+
+18982530|Greater effective connectivity from right LOFC to amygdala differentiated emotion expressions conducive to perceiver approach -LRB- happy , neutral , and fear -RRB- from angry expressions that elicit perceiver withdrawal .
+
+16908199|Subjective emotion -LRB- present both during and after aversive pictures -RRB- was temporally associated with activation in the right lateral OFC and left hippocampus but not the amygdala .
+
+16880223|We assessed the effects of direct electric stimulations in either the right or the left amygdala on verbally self-reported emotions -LRB- Izard scale -RRB- and on psychophysiological markers of emotions by recording skin conductance responses -LRB- SCRs -RRB- and by measuring the electromyographic responses of the corrugator supercilii -LRB- EMGc -RRB- .
+
+16465484|Linkage of neuron spike activity in the right and left amygdala in food motivation and emotional tension . .
+
+16465484|Cross-correlation histograms were plotted to study the linkage of spike activity in simultaneously recorded neurons in the central nucleus of the right and left amygdala in rabbits in calm waking , after 24 hours of food deprivation , in satiation , and in emotional tension -LRB- on presentation of dogs -RRB- .
+
+16143545|The left and right amygdalae responded to both the emotion and the identity matching condition , and the only selective response to emotion matching was at the left inferior prefrontal sulcus .
+
+15961347|At the interplay of emotion , memory , dream , and temporal lobe seizure , we report on a patient with a left dysplastic amygdala and temporal lobe epilepsy who presented with a typical seizure while dreaming .
+
+15828421|-LSB- Correlation of unit activity of the right and left amygdala in food motivation and emotional stress -RSB- . .
+
+15828421|Correlation between activities of neurons in the right and left central nuclei of amygdala of rabbits recorded during quiet wakefulness , after 24-h food deprivation , after satiation and during emotional stress -LRB- demonstration of a dog -RRB- was studied by plotting crosscorrelation histograms .
+
+15155523|These deficits held for subjects with either left or right early amygdala damage and encompassed the understanding of both the beliefs and emotional states of others .
+
+15145620|Because individual studies use varying paradigms and are limited by statistical power and sensitivity , it has remained unclear whether the left or the right amygdala is more consistently involved in emotional processing .
+
+15145620|Our findings indicate that across studies , the left amygdala is more often activated than the right amygdala , suggesting different roles for the left and right amygdalae in emotional processing .
+
+14758364|We have studied patients with variable degrees of left hippocampal and amygdala pathology who performed a verbal encoding task during functional magnetic resonance imaging -LRB- fMRI -RRB- to assess the impact of pathology on emotional-memory performance and encoding-evoked activity .
+
+14614086|Our results provide support for the hypothesis that the left and right amygdalae subserve different functions in emotion processing : the left may decode the arousal signaled by the specific stimulus , whereas the right may provide a global level of autonomic activation triggered automatically by any arousing stimulus .
+
+12805102|Twelve patients with focal , stable bilateral lesions of the VM cortex or with right unilateral lesions of the amygdala or the right insular cortices , were tested on the Emotional Quotient Inventory -LRB- EQ-i -RRB- , a standardized psychometric measure of various aspects of emotional and social intelligence .
+
+11773432|The amygdala is involved in the normal facilitation of memory by emotion , but the separate contributions of the left and right amygdala to memory for verbal or nonverbal emotional material have not been investigated .
+
+11568425|Evidence for a differential involvement of the human left and right amygdala in emotional and cognitive behaviour is reviewed , with a particular emphasis on functional imaging results and case reports on patients with amygdalar damage .
+
+11473792|The present study applied a visual half field paradigm with emotional facial expressions in patients with selective unilateral amygdalo-hippocampectomy -LRB- AHE -RRB- to elucidate the contributions of the left and right medial temporal lobe and amygdala to emotional learning .
+
+11467919|Right neostriatum and left amygdala were activated when subjects made explicit judgements of disgust , bilateral orbitofrontal cortex when they made judgement of happiness , and right frontal and insular cortex when they made judgements about any emotion .
+
+10330702|Predominant activation of the right hippocampus and right amygdala during perception and memorizing of visual picturesque images and solving the tasks provoking emotional stress , apparently , concerns the functional specialization of the right hemisphere in general .
+

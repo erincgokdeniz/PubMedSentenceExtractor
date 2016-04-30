@@ -1,0 +1,520 @@
+26982819|FKBP5 is associated with amygdala volume in the human brain and mood state : A voxel-based morphometry -LRB- VBM -RRB- study . .
+
+26945530|Overall , regardless of mood state , BD patients exhibited increased FC of the left amygdala with left sgACC and PCC , relative to controls .
+
+26945530|The sgACC-PCC and sgACC-left amygdala connections were modulated by rumination tendency in non-euthymic patients , whereas the sgACC-VLPFC connection was modulated by both the current mood and tendency to ruminate .
+
+26941102|Altered Amygdala Resting-State Functional Connectivity in Maintenance Hemodialysis End-Stage Renal Disease Patients with Depressive Mood . .
+
+26940288|After a median follow-up of 18 months , 46 % -LRB- 13/28 -RRB- of the patients were seizure free -LRB- > 2 months -RRB- , 48 % -LRB- 13/27 -RRB- showed MRI improvements -LRB- amygdala and/or hippocampal volume reduction -RRB- , cognition improved in 57 % -LRB- 16/28 -RRB- , worsened in 32 % -LRB- 9/28 -RRB- , mood improved in 14 % -LRB- 4/25 -RRB- , and deteriorated in 11 % -LRB- 3/25 -RRB- .
+
+26924679|This points to differences in the adolescent neural circuitry that underlies mood and emotion , such as the amygdala .
+
+26821292|Hyperactivation of the amygdala is implicated in anxiety and mood disorders , but the precise underlying mechanisms are unclear .
+
+26771739|These findings suggest that poverty in early childhood , as assessed by at least one measure , may influence the development of hippocampal and amygdala connectivity in a manner leading to negative mood symptoms during later childhood .
+
+26635724|In addition to impaired memory , patients experiencing RH report alterations in cognitive processes that include mood and anxiety , suggesting that RH may also affect amygdala function .
+
+26472294|These findings have implications for the link between amygdalar structure and both anxiety and mood control .
+
+26446435|After controlling depressive mood , sleep quality , age , and gender , hippocampal CA1 atrophy and amygdalar centromedial atrophy were associated with longer duration of daytime sleepiness and shorter mean REM sleep latency -LRB- | r | > 0.44 , p < 0.01 -RRB- .
+
+26440730|Considering the known role of amygdala PKA pathways in fear learning and mood these observations suggest a possible mechanism through which allelic changes in the regulation of the BICC1 gene in amygdala neurones may contribute to mood disorders .
+
+26431880|Although preclinical and clinical data strongly support an association between the amygdala and chronic pain by the presence of mood and cognitive disturbances in affected individuals , little attention has been paid to morphometric measurement of the structure in patients with chronic low back pain -LRB- CLBP -RRB- .
+
+26420574|These findings suggest that variations in stereotype on sex role have roots in the limbic brain structures linked to contentious interpersonal orientation -LRB- cingulate -RRB- and negative mood -LRB- amygdala -RRB- .
+
+26245837|Communication between the amygdala and other brain regions critically regulates sensitivity to threat , which has been associated with risk for mood and affective disorders .
+
+26245837|These findings provide novel evidence for both independent and interactive effects of 5-HTTLPR genotype and neuroticism on amygdala communication , which may mediate effects on risk for mood and affective disorders .
+
+26155668|Systematizes the data on the role of serotonin and sex steroids in the mechanisms involved in the stress response of Amygdala , and its participation in the formation of mood , emotions and the genesis of depression .
+
+26050788|Although few studies to date have examined amygdala activity during reward tasks , such findings are common among adults with mood disorders and borderline personality disorder .
+
+25997412|In addition , we examined the effects of gestational stress and postpartum administration of Citalopram on structural plasticity within the basolateral amygdala -LRB- BLA -RRB- which together with the mPFC and NAc forms a circuit that is sensitive to stress and is involved in mood regulation .
+
+25887261|The amygdala has also been implicated in mood and anxiety disorders which display sex-specific features , most prominently observed during adolescence .
+
+25882724|In anterior insula , right-handed individuals displayed reciprocal activation of either hemisphere depending upon mood valence , whereas amygdala activation was predominantly left-sided regardless of mood valence .
+
+25863961|In the present study , we investigated whether stress effects and their reversal by exercise occur via genomic mechanisms in the amygdala , a core part of the limbic system important for regulating mood states .
+
+25841890|The hippocampus and amygdala are key areas in mood regulation .
+
+25703646|Sad mood induction has an opposite effect on amygdala response to emotional stimuli in euthymic patients with bipolar disorder and healthy controls . .
+
+25703646|We evaluated the modulatory influence of mood on amygdala reactivity and functional connectivity in patients with remitted BD and healthy controls .
+
+25703646|We assessed the functional connectivity of the amygdala to characterize the influence of mood state on the network responsible for the amygdala response .
+
+25703646|The sad and normal mood exerted opposite effects on the amygdala response to emotional faces in patients compared with controls -LRB- F1 ,38 = 5.85 , p = 0.020 -RRB- .
+
+25703646|Sad mood amplified the amygdala response to sad facial stimuli in controls but attenuated the amygdala response in patients .
+
+25703646|Opposite amygdala reactivity unmasked by the mood challenge paradigm could represent a trait marker of altered mood regulation in patients with BD .
+
+25701910|It is hardly surprising that mood disorders are associated with structural and functional changes of neural circuits linking brain areas specialized in emotional processing such as the prefrontal cortex , basal ganglia , and amygdala .
+
+25689569|Our study provides novel evidence that prenatal maternal depressive symptomatology alters the amygdala 's functional connectivity in early postnatal life , which reveals that the neuroimaging correlates of the familial transmission of phenotypes associated with maternal mood are apparent in infants at 6 months of age .
+
+25668330|Other measures of withdrawal , including mood , somatic complaints and sleep problems , were not related to amygdala morphometry .
+
+25544024|Aberrant amygdala intrinsic functional connectivity distinguishes youths with bipolar disorder from those with severe mood dysregulation . .
+
+25510947|Sad mood induction has an opposite effect on amygdala response to emotional stimuli in euthymic patients with bipolar disorder and healthy controls . .
+
+25510947|We evaluated the modulatory influence of mood on amygdala reactivity and functional connectivity in patients with remitted BD and healthy controls .
+
+25510947|We assessed the functional connectivity of the amygdala to characterize the influence of mood state on the network responsible for the amygdala response .
+
+25510947|The sad and normal mood exerted opposite effects on the amygdala response to emotional faces in patients compared with controls -LRB- F1 ,38 = 5.85 , p = 0.020 -RRB- .
+
+25510947|Sad mood amplified the amygdala response to sad facial stimuli in controls but attenuated the amygdala response in patients .
+
+25510947|Opposite amygdala reactivity unmasked by the mood challenge paradigm could represent a trait marker of altered mood regulation in patients with BD .
+
+25462396|The presence of substantial overlap in the pattern of disturbed connectivity between amygdala and frontal , striatal , lingual and cerebellar regions suggests mood state-independent dysconnectivity .
+
+25462396|The contrasting pattern of functional connectivity between right amygdala and hippocampus in BD and BM provides a novel lead to the probable mechanistic differences in these two extremes of mood states .
+
+25329241|Real-time functional magnetic resonance imaging neurofeedback -LRB- rtfMRI-nf -RRB- training with the goal of upregulating amygdala activity during recall of happy autobiographical memories -LRB- AMs -RRB- has been suggested , and recently explored , as a novel therapeutic approach that resulted in improvement in self-reported mood in depressed subjects .
+
+25308352|After placebo administration , G carriers showed more pronounced mood disturbances and lower placebo-induced ?-opioid system activation in the anterior insula -LRB- aINS -RRB- , the amygdala -LRB- AMY -RRB- , the NAc , the thalamus -LRB- THA -RRB- , and the brainstem , as well as lower levels of DA D2/3 activation in the NAc .
+
+25180671|Anxiety is one of common mood disorders , in which the deficit of serotonergic and GABAergic synaptic functions in the amygdala and prefrontal cortex is believed to be involved .
+
+25133665|Research has implicated the amygdala in emotion processing in mood disorders , and adult depression studies have suggested amygdala-frontal connectivity deficits .
+
+25069080|The amygdala and hippocampus - two structures intimately associated with mood and cognition - have been reported to exhibit altered neural activity or volume in affective disorders .
+
+25064495|These findings support the amygdalar AMPAergic protective response against anxiety states in chronically stressed hamsters , which may constitute useful therapeutic strategies for panic-related mood disorders .
+
+25043732|Given the pivotal role of the amygdala in mood regulation , associative learning , and modulation of cognitive functions , our findings raise the question whether therapy with rapamycin may induce alterations in patients neuropsychological functioning .
+
+24972588|This study examined the utility of a novel affective bias -LRB- AB -RRB- task in identifying transient mood changes induced by amygdala stimulation in a single rare participant .
+
+24972588|Stimulation of the basolateral nucleus of the right amygdala at 50 Hz , 15 V , and 200 ?s pulse-width produced a significant positive shift in AB -LRB- t = -2.864 , df = 53 , P = .006 -RRB- , despite equivocal findings on self-reported mood -LRB- t = -.184 , df = 12 , P = .857 -RRB- .
+
+24912179|Importantly , the amygdala appears central in the regulation of 5-HT by OXT : -LSB- -LRB- 18 -RRB- F -RSB- MPPF BPND changes in the DRN correlated with changes in right amygdala , which were in turn correlated with changes in hippocampus , insula , subgenual , and orbitofrontal cortex , a circuit implicated in the control of stress , mood , and social behaviors .
+
+24882567|Psilocybin-Induced Decrease in Amygdala Reactivity Correlates with Enhanced Positive Mood in Healthy Volunteers . .
+
+24882567|However , it is little-known whether psilocybin reduces amygdala reactivity to negative stimuli and whether any change in amygdala reactivity is related to mood change .
+
+24882567|The psilocybin-induced attenuation of right amygdala reactivity in response to negative stimuli was related to the psilocybin-induced increase in positive mood state .
+
+24882567|These results demonstrate that acute treatment with psilocybin decreased amygdala reactivity during emotion processing and that this was associated with an increase of positive mood in healthy volunteers .
+
+24882567|These findings may be relevant to the normalization of amygdala hyperactivity and negative mood states in patients with major depression .
+
+24853295|The pattern of abnormal or reduced connectivity between DLPFC and amygdala may reflect abnormal modulation of mood and emotion typical of bipolar patients .
+
+24742621|The calcium-dependent phosphatase calcineurin is highly expressed in the amygdala , a brain area important for behaviors related to mood disorders and anxiety .
+
+24740310|More recently , other brain regions , such as the caudate nucleus , the putamen and the amygdala have also been suggested to play a role in the development of mood disorders .
+
+24623766|After CCK infusion in mPFC , we optogenetically stimulated mPFC projections to basolateral amygdala or nucleus accumbens , two subcortical structures involved in mood regulation .
+
+24523939|Using rtfMRI-nf from the left amygdala during recall of positive AMs , depressed subjects were able to self-regulate their amygdala response , resulting in improved mood .
+
+24359855|If some neurofunctional abnormalities seem to be independent of mood state , others were preferentially associated with mania or depression , involving the amygdala and other limbic regions as well as ventral frontal regions , with a likely hemispheric lateralization of these abnormalities according to the thymic state that was examined .
+
+24198772|Serotonin transporter genotype modulates functional connectivity between amygdala and PCC/PCu during mood recovery . .
+
+24198772|However , during mood recovery , the S/S group showed significantly reduced anti-correlation between amygdala and posterior cingulate cortex/precuneus -LRB- PCC/PCu -RRB- compared to the L/L group .
+
+24198772|These results suggest that 5-HTTLPR genetic variation modulates amygdala connectivity which subsequently affects its activity during mood regulation , providing an additional mechanism by which the S allele confers depression risk .
+
+24151118|The first section of the manuscript highlights the pivotal role of exaggerated threat responses-mediated by circuits connecting the frontal cortex , amygdala , and midbrain-in anxiety , and reviews data indicating that genotypic variation in the serotonin system is associated with hyperactivity in this circuitry , which elevates the risk for anxiety and mood disorders .
+
+25508091|Systematizes the data on the role of serotonin and sex steroids in the mechanisms involved in the stress response of Amygdala , and its participation in the formation of mood , emotions and the genesis of depression .
+
+25438560|Systematizes the data on the role of serotonin and sex steroids in the mechanisms involved in the stress response of Amygdala , and its participation in the formation of mood , emotions and the genesis of depression .
+
+24040806|Volumetric analysis of the hypothalamus , amygdala and hippocampus in non-suicidal and suicidal mood disorder patients -- a post-mortem study . .
+
+24040806|In the current study we used volumetric measurements of serial postmortem sections with combined Nissl-myelin staining to investigate the hypothalamus , amygdala and hippocampus in suicide victims with mood disorders -LRB- n = 11 -RRB- , non-suicidal mood disorder patients -LRB- n = 9 -RRB- and control subjects -LRB- n = 23 -RRB- .
+
+23968960|The results reveal a significant relation between antenatal maternal depression and the neonatal microstructure of the right amygdala , a brain region closely associated with stress reactivity and vulnerability for mood anxiety disorders .
+
+23958960|The ventral striatum , amygdala , midline thalamus , PAG , anterior insula and ACC are rich in MORs and comprise a pathway by which social cues may influence mood and motivation .
+
+23926239|Mean 5-HT1A binding potential -LRB- BPP -RRB- significantly increased following mood stabilizer treatment , most prominently in the mesiotemporal cortex -LRB- hippocampus plus amygdala -RRB- .
+
+23908624|It is proposed that the amygdala serves as a gateway by articulating the mood regulatory sensorimotor stimulation with the central affective circuitry by emotionally labeling and mediating the storage of such emotional events in long-term memory .
+
+23828425|Anxiety and mood disorders in adolescence have been linked to abnormally increased activity in the amygdala and ventral prefrontal cortical areas , although some data suggest that neural abnormalities in the amygdala and anxiety maybe particularly more frequent in adolescents than in adults .
+
+23777937|To determine whether treatment with various antidepressants or mood stabilizers leads to region-specific changes , we investigated the effects of their subchronic -LRB- 14 days of intraperitoneal injection -RRB- administration on the tissue concentration of monoamines , dopamine , serotonin , and norepinephrine , and the protein expression of acetylated histone H3 -LRB- AcH3 -RRB- and histone deacetylases -LRB- HDACs -RRB- in the mouse striatum -LRB- ST -RRB- , nucleus accumbens -LRB- Acb -RRB- , hippocampus -LRB- Hip -RRB- , cingulate cortex -LRB- Cg -RRB- , and amygdala -LRB- Amy -RRB- .
+
+23748930|Distribution of the glucocorticoid receptor in the human amygdala ; changes in mood disorder patients . .
+
+23732841|During the frustration condition , participants in the severe mood dysregulation group exhibited deactivation of the left amygdala , the left and right striatum , the parietal cortex , and the posterior cingulate on negative feedback trials , relative to the comparison group -LRB- i.e. , between-group effect -RRB- and to the severe mood dysregulation group 's responses on positive feedback trials -LRB- i.e. , within-group effect -RRB- .
+
+23576810|Activations in the amygdala , hippocampus and FFG are possibly linked to strategies adopted by the participants to achieve mood changes .
+
+23567517|Zinc-containing neurons form extensive associational circuitry throughout the cortex , amygdala and hippocampus , which subserve mood regulation and cognitive functions .
+
+23499791|Serotonin transporter-linked polymorphic region -LRB- 5-HTTLPR -RRB- has been associated with modulation of resting-state amygdala level , which was considered to underlie a risk for mood and anxiety disorders .
+
+23453566|The cortico-limbic-striatal neural system , including the prefrontal cortex , amygdala , hippocampus , and striatum , have shown sexually dimorphic morphological features and have been implicated in the dysfunctional regulation of mood and emotion in MDD .
+
+23440464|A corticolimbic circuit including the amygdala and medial prefrontal cortex -LRB- mPFC -RRB- plays an important role in regulating sensitivity to threat , which is heightened in mood and anxiety disorders .
+
+23395233|Furthermore , an f-MRI study shows that mood stabilizers can reduce amygdala activation of bipolar patients compared to untreated bipolar patients during an emotional task .
+
+23418586|This decrease was significantly correlated with activation of the left amygdala and deterioration of subjective mood state .
+
+23262120|Moreover , restoration of amygdalar glutamatergic systems may serve as important therapeutic targets in the successful management of multiple stress-related mood disorders .
+
+23151390|Although typically regarded as a risk factor for mood and anxiety disorders , threat-related amygdala reactivity may serve as a protective factor against substance use disorders , particularly in individuals with exaggerated responsiveness to reward .
+
+23149020|These findings suggest that , when not treated with lithium or in an acute mood state , patients with bipolar disorder exhibit no structural abnormalities of the amygdala or hippocampus .
+
+23034517|We hypothesized that healthy adolescents at increased genetic and environmental risk for developing mood disorders -LRB- depression and anxiety -RRB- would demonstrate increased amygdala reactivity to emotional stimuli compared to those with only one such risk factor or those with none .
+
+23026912|CONTEXT Youth with bipolar disorder -LRB- BD -RRB- and those with severe , nonepisodic irritability -LRB- severe mood dysregulation -LSB- SMD -RSB- -RRB- exhibit amygdala dysfunction during facial emotion processing .
+
+22861166|The amygdala is involved in the processing of mood disorders , fear , and the emotional-affective components of pain .
+
+22854930|Increased amygdala responses to sad but not fearful faces in major depression : relation to mood state and pharmacological treatment . .
+
+22826810|This review presents data supporting the potential therapeutic role of DBS of the amygdala in the treatment of anxiety disorders , addiction , and mood disorders .
+
+22737116|Alternatively , it is proposed that schizophrenia arises from a uniquely human brain network associated with directed effort including the dorsal anterior and posterior cingulate cortex -LRB- PCC -RRB- , auditory cortex , and hippocampus while mood disorders arise from a different brain network associated with emotional encoding including the ventral anterior cingulate cortex -LRB- ACC -RRB- , orbital frontal cortex , and amygdala .
+
+22716999|Our results suggest that short-term SSRI treatment in depressed patients remediates amygdala hyperactivity in response to negative emotional stimuli prior to clinical improvement in depressed mood .
+
+22631618|These investigations reveal that amygdala activation varies as a function of mood state , while the PFC remains persistently hypoactivated across mood states .
+
+22521854|Here we examined whether similar mood state-dependent volumetric differences are detectable in the amygdala .
+
+22521854|Statistical analyses found a significant effect of mood state and hemisphere on amygdala volume .
+
+22521854|Our results suggest that mood state influences amygdala volume in subjects with bipolar disorder .
+
+22487247|The amygdala is fundamental in expression of emotion , and is hyperactive in many patients with mood or anxiety disorders .
+
+22483075|Moreover , the severity of current depressed mood was associated with increased activity in limbic regions , such as the amygdala , particularly in children with a history of depression .
+
+22444599|Neurobiological abnormalities that correlate with the number of mood episodes or duration of illness include : anatomical , functional , and biochemical deficits in the prefrontal cortex and hippocampus , as well as amygdala hyperactivity and cortisol hyper-secretion .
+
+22420593|A longitudinal functional connectivity analysis of the amygdala in bipolar I disorder across mood states . .
+
+22420593|To further understand the role of the amygdala in the generation of mood symptoms , we used functional magnetic resonance imaging -LRB- fMRI -RRB- to examine a group of patients with bipolar I disorder longitudinally .
+
+22420593|There were no significant differences in left amygdala correlations across mood states in the bipolar I disorder group .
+
+22162177|These results correspond with animal findings of gonadal hormone-mediated neural plasticity in the amygdala and have implications for understanding the pathogenesis of specific mood disorders associated with hormonal fluctuations .
+
+21979818|In the present study , we integrated anatomical and diffusion tensor neuroimaging to investigate structural properties of the amygdala and hippocampus , gray matter regions implicated in anxiety and mood disorders .
+
+21963442|The most prevalent mental disorders , anxiety and mood disorders , are associated with both functional and morphological brain changes that commonly involve the ` fear network ' including the -LRB- medial -RRB- prefrontal cortex , hippocampus and amygdala .
+
+21943083|We examined how individual differences in mood and anxiety in the early postpartum period are related to brain response to infant stimuli during fMRI , with particular focus on regions implicated in both maternal behavior and mood/anxiety , that is , the subgenual anterior cingulate cortex -LRB- sgACC -RRB- and the amygdala .
+
+21912391|We focused on the lateral/basolateral/basomedian complex of the amygdala as a neural hub of mood regulation affected in MDD .
+
+21895344|During the mood induction , high-risk girls exhibited greater activation than did low-risk daughters in brain areas that have frequently been implicated in the experience of negative affect , including the amygdala and ventrolateral prefrontal cortex .
+
+21861822|The heterogeneity of mood disorders indicates that its origin may lie in dysfunction of multiple brain regions -LRB- amygdala , nucleus accumbens , hippocampus , prefrontal cortex and cingulate cortex -RRB- .
+
+21807003|The amygdala and the prefrontal cortex , brain regions involved in anxiety and fear , mood , cognitive function and behavioral control , also show structural plasticity .
+
+21788943|One prominent theoretical perspective highlights the top-down inhibition of amygdala by ventromedial prefrontal cortex -LRB- vmPFC -RRB- as a crucial neural mechanism that may be defective in certain mood and anxiety disorders , such as major depression and post-traumatic stress disorder .
+
+21741179|Indeed , in mood disorders -LRB- unipolar depression , anxiety disorders , autism or schizophrenia -RRB- glial changes in brain regions involved in mood control -LRB- prefrontal and cingulate cortices , amygdala and the hippocampus -RRB- have been recurrently described .
+
+21716262|The expression of the galanin gene -LRB- GAL -RRB- in the paraventricular nucleus -LRB- PVN -RRB- and in the amygdala of higher vertebrates suggests the requirement for highly conserved , but unidentified , regulatory sequences that are critical to allow the galanin gene to control alcohol and fat intake and modulate mood .
+
+21640839|Despite no differences in mood across the three groups , we found reduced connectivity between the amygdala and the ventral medial prefrontal cortex in the citalopram group and the amygdala and the orbitofrontal cortex for the reboxetine group .
+
+21616602|In addition , elevated CRF in cerebrospinal fluid is observed in mood and anxiety disorder patients , suggesting that CRF is also being overproduced from extrahypothalamic sources such as the central amygdala -LRB- CeA -RRB- and overactivity of the amygdala in neuroimaging studies is a consistent finding in anxiety and depression patients .
+
+21542937|Hence , baseline differences in amygdalar circadian regulation of cellular metabolism may contribute to sex-related differences in mood regulation and vulnerability to major depression .
+
+21529705|HCN4 is expressed in brain regions relevant to mood and anxiety disorders including specific thalamic nuclei , the basolateral amygdala , and the midbrain dopamine system .
+
+21521653|The amygdala , a group of nuclei located in the medial temporal lobe , is a key limbic structure involved in mood regulation , associative learning , and modulation of cognitive functions .
+
+21458499|Collectively , these data support the hypothesis for an increased risk for mood disorders in obesity , which may be related to decreased expression of hippocampal and amygdalar BDNF .
+
+21371560|Behavioral results confirm an MCM bias while imaging results show amygdala and hippocampal engagement in a global mood and successful recall , respectively .
+
+21320248|Limbic structures were not overactive in association with mood states , with the exception of increased amygdala activation in euthymic states when including region-of-interest studies .
+
+22432455|These findings suggest that increased functional integration of the amygdala within the frontolimbic network might be a biomarker of general mood stabilizer medication responsivity in bipolar disorder .
+
+21167857|Mice were then sacrificed for quantification of tryptophan -LRB- TRP -RRB- - serotonin -LRB- 5-HT -RRB- and TRP-kynurenine -LRB- KYN -RRB- metabolites in two corticolimbic structures involved in the regulation of mood -LRB- cingulate cortex = CC ; amygdala = AMY -RRB- .
+
+21050725|Activation in the amygdala , dorsolateral prefrontal cortex -LRB- DLPFC -RRB- , and right temporal pole depended on mood state .
+
+21041614|Relationship between amygdala responses to masked faces and mood state and treatment in major depressive disorder . .
+
+20946960|Cognitive versus automatic mechanisms of mood induction differentially activate left and right amygdala . .
+
+20946960|The present study investigated differential contributions of the left and right amygdala to cognitive and automatic mechanisms of mood induction .
+
+20946960|Using functional magnetic resonance imaging -LRB- fMRI -RRB- , we examined hemispheric amygdala responses during two mood induction paradigms : a purely visual method presenting face stimuli and an audiovisual method using faces and music .
+
+20946960|The modulation of the left amygdala responses by subjective experience may reflect individual differences in the cognitive effort used to induce the mood .
+
+20946960|Thus , the central role of the amygdala may not be restricted to the perception of emotion in others but also extend into processes involved in regulation of mood .
+
+20712756|Several magnetic resonance imaging studies have found changes in amygdala volumes in adults with mood disorders .
+
+20708906|Although amygdala and frontal lobe functional abnormalities have been reported in patients with mood disorders , the literature regarding major depressive disorder -LRB- MDD -RRB- is inconsistent .
+
+20459886|Also , significant correlations between mood symptoms and amygdalar volumes were found in schizophrenia .
+
+20390390|A PubMed search of all English-language articles published between 1966 and March 2009 was performed with the following search terms : depression , mood disorders , hippocampus , amygdala , central nervous system , brain , neuroimaging , volumetric , morphometric , and neurocognitive deficits , cross-referenced with DM .
+
+20360351|Altered timing of amygdala activation during sad mood elaboration as a function of 5-HTTLPR . .
+
+20360351|We used functional magnetic resonance imaging to compare the rise time to peak amygdala activation in 5-HTTLPR short-allele carriers and long-allele homozygotes during enhancement of sad mood .
+
+20360351|Relative to long-allele homozygotes , participants with at least one copy of the 5-HTTLPR short allele showed both stronger and earlier activation in left amygdala as they increased a sad mood state .
+
+20353762|Briefly , the effect of apamin either alone or followed by fluoxetine upon cell firing in the DRN -LRB- in vivo electrophysiology -RRB- and concomitantly upon 5-HT levels -LRB- in vivo voltammetry -RRB- in the amygdala -LRB- forebrain structure involved in mood regulation and innervated by ascending 5-HT projections from the DRN -RRB- was studied .
+
+20303069|The participants who reported the largest increase in pain unpleasantness after the sad mood induction showed greater inferior frontal gyrus and amygdala activation , linking changes in emotion regulation mechanisms with enhancement of pain affect .
+
+20132212|Different symptomatic and pathophysiological features have been proposed as end points of the depressive phenotype and of the antidepressant action , including anhedonia , depressed mood , alterations in morphology and activity of some brain areas -LRB- amygdala , nucleus accumbens , hippocampus , prefrontal cortex and cingulate cortex -RRB- , modifications in the connectivity between brain structures , changes in neurotransmitters -LRB- serotonin , noradrenaline , glutamate and neuropeptides -RRB- , brain plasticity -LRB- neurogenesis , neurotrophins -RRB- and abnormal function of the hypothalamic-pituitary adrenal axis .
+
+19954800|Effects of mood stabilizers on hippocampus and amygdala BDNF levels in an animal model of mania induced by ouabain . .
+
+19931399|We raise the possibility that neuroplastic changes in the amygdala associated with BD are moderated by some mood stabilizing medications .
+
+19917597|Blood-oxygen-level-dependent -LRB- BOLD -RRB- signal in the amygdala was examined in children with bipolar disorder -LRB- N = 43 -RRB- , ADHD -LRB- N = 18 -RRB- , and severe mood dysregulation -LRB- N = 29 -RRB- and healthy comparison subjects -LRB- N = 37 -RRB- .
+
+19917597|While rating subjective fear of neutral faces , youths with ADHD demonstrated left amygdala hyperactivity relative to the other three groups , whereas youths with severe mood dysregulation demonstrated hypoactivity .
+
+19913058|Several lines of research on mood disorders reveal that depression involves a dysfunction in an affective fronto-limbic circuitry that involves the prefrontal cortices , the cingulate cortex , several limbic structures including the amygdala and the hippocampus , lower brainstem structures and the basal ganglia .
+
+19858108|Serotonin transporter genotype modulates amygdala activity during mood regulation . .
+
+19858108|Comparing mood recovery to baseline , both whole brain analyses and template-based region-of-interest analyses revealed greater amygdala activity for the S vs the L-group .
+
+19858108|There were no significant amygdala differences found during the induced sad mood .
+
+19858108|These results demonstrate the effect of the S allele on amygdala activity during intentional mood regulation and suggest that amygdala hyperactivity during recovery from a sad mood may be one mechanism by which the S allele confers depression risk .
+
+19716552|Significant calcineurin expression can be observed with immunohistochemistry in the amygdala , a brain area important for behaviors related to mood disorders and anxiety .
+
+19585106|Citalopram was associated with increased amygdala activation to happy faces relative to placebo control , without changes in levels of mood or anxiety .
+
+19505582|There were no significant differences when comparing l/l homozygotes with s-carriers in the regions of the brain implicated in anxiety and mood related illnesses -LRB- amygdala , striatum , thalamus , raphe nuclei , temporal and prefrontal cortex -RRB- .
+
+19501634|Lithium remains the most effective mood stabilizing therapy for BD , but the relevance of its neuroprotective effects in pre-clinical studies to clinical outcomes is unknown , and the targeting of amygdalar neurons by therapeutic interventions for BD has not yet been examined .
+
+19446538|In mammals the amygdala , a limbic structure involved in the control of emotion and mood , receives 5-HT-containing projections originating in the RDN .
+
+19440084|We examined the effects of 24 weeks of randomized placebo-controlled lamotrigine therapy on amygdala volume and mood in 28 corticosteroid-treated patients -LRB- n = 12 , placebo ; n = 16 , lamotrigine -RRB- .
+
+19423079|Furthermore , inflammation-associated mood change reduced connectivity of sACC to amygdala , medial prefrontal cortex , nucleus accumbens , and superior temporal sulcus , which was modulated by peripheral interleukin-6 .
+
+19403806|These data are consistent with clinical studies emphasizing the importance of the amygdala in mood regulation , and suggest that ASIC1a antagonists may effectively combat depression .
+
+19265696|Second , activational effects of estradiol at puberty may modulate amygdalar and other circuitry , with particular effects on serotonergic pathways , in such a way as to place girls at greater risk for internalizing and mood disorders .
+
+19133968|Increased valence ratings and amygdala responses to positive affective stimuli may reflect a positive processing bias contributing to elevated mood states characteristic for euphoric mania .
+
+19085964|The amygdalae have been a focus of mood disorder research due to their key role in processing emotional information .
+
+19019455|The amygdala plays an important role in the regulation of emotions and has been implicated in the pathophysiology of mood disorders .
+
+19019455|Studies of amygdala volumes in mood disorders have been conflicting , with findings of increased , decreased and unchanged amygdala volumes in patients relative to controls .
+
+19019455|We present the largest meta-analysis of amygdala volumes in mood disorders and the first one to investigate modifying effects of clinical , demographic and methodological variables .
+
+19019455|The absence of overall differences in amygdala volumes , in the presence of significant and sometimes mirror changes in patient subgroups , demonstrates marked heterogeneity among mood disorders .
+
+18838042|This review summarizes information about the structure and function of the amygdala with attention to its role in experienced emotion and mood .
+
+18838035|We review the fMRI data indicating that particular comorbidities of CD/ODD -LRB- i.e. , mood and anxiety conditions such as childhood bipolar disorder and PTSD -RRB- are associated with either increased responsiveness of neural regions implicated in the basic response to threat -LRB- e.g. , the amygdala -RRB- or decreased responsiveness in regions of frontal cortex -LRB- e.g. , ventromedial frontal cortex -RRB- that are implicated in the regulation of the basic threat response .
+
+18827720|Because one of the cardinal features of bipolar disorder is mood dysregulation , structural and functional amygdala abnormalities identified with neuroimaging may serve as useful disease and treatment response biomarker .
+
+18809501|Furthermore , the magnitude of positive mood change correlated negatively with DPN binding in the amygdala bilaterally .
+
+18766152|FDG-PET analysis of amygdalar-cortical network covariance during pre - versus post-menopausal estrogen levels : potential relevance to resting state networks , mood , and cognition . .
+
+18468583|Mice were also assayed for hippocampal cell proliferation and for changes in brain-derived neurotrophic factor signaling in the nucleus accumbens , amygdala , and hippocampus , three forebrain structures involved in the regulation of mood and affect .
+
+18463627|Variability in serotonin -LRB- 5-HT -RRB- function is associated with individual differences in normal mood and temperament , as well as psychiatric illnesses , all of which are influenced by amygdala function .
+
+18407469|The amygdala is hypothesized to play a critical role in mood regulation , yet its involvement in bipolar disorder remains unclear .
+
+18407469|Differential aging effects in bipolar disorder may compromise amygdala integrity and contribute to mood dysregulation .
+
+18158161|The present study explored the relationship between amygdala morphology and mood congruent and mood incongruent delusional beliefs .
+
+18158161|Left-greater-than-right-asymmetry of the amygdala varied as a function of gender and mood congruence of delusional beliefs , due to asymmetrical enlargement of the left amygdala in women presenting with predominantly mood incongruent delusions .
+
+17987064|The amygdala plays a central role in various aspects of affect processing and mood regulation by its rich anatomical connections to other limbic and cortical regions .
+
+17879281|The basolateral nuclear complex of the amygdala -LRB- BLC -RRB- receives a dense serotonergic innervation that appears to play a critical role in the regulation of mood and anxiety .
+
+17579609|This effect is potentially mediated by the amygdala and related to the negative mood symptoms in humans that are observed during increased allopregnanolone levels .
+
+17541115|Reboxetine was associated with a reduced amygdala response to fearful faces and increased activation to happy v. neutral facial expressions in the right fusiform gyrus , relative to placebo treatment and in the absence of changes in mood .
+
+17511615|Galanin receptors are expressed in brain structures that are involved in the regulation of mood such as frontal cortex , amygdala , hypothalamus , LC , DRN and hippocampus .
+
+17491609|In patients with mood disorders , it has been reported that the left amygdaloid complex presents a lesser volume .
+
+17479521|Pediatric BD is associated with abnormalities in a circuit , thought to be involved in mood regulation , that encompasses the amygdala , striatum , and ventral PFC. Frontostriatal abnormalities are reported consistently in ADHD , potentially reflecting abnormalities in the development of cognitive control .
+
+17476367|Morphometric studies of postmortem brains from subjects with mood disorders have reported altered density of glial cells in the amygdala ; however , the nuclear regions have not been examined individually .
+
+17469914|The amygdala and subgenual anterior cingulate -LRB- AC -RRB- have been associated with anxiety and mood disorders , for which trait neuroticism is a risk factor .
+
+17270156|The increasing effect of chronic valproate on p-CREB levels in the accumbens is consistent with previous studies in the cortex and the hippocampus , while the decrease of amygdalar p-CREB levels might be specific to mood stabilizers compared to antidepressant drugs , and might be linked to the anti-manic action of valproate .
+
+17259350|The integrity of the amygdala may influence mood disturbances in TLE patients with HS , as depression was associated with a relative preservation of the contralateral amygdala .
+
+17225169|We demonstrate that chronic blockade of glutamate uptake by a glial/neuronal transporter antagonist L-trans-pyrrolidine-2 ,4 - dicarboxylic acid -LRB- PDC -RRB- within the amygdala , a key area implicated in mood regulation , results in dose-dependent reduction in social exploratory behavior and disrupts circadian activity patterns consistent with symptoms of mood disorders .
+
+17168841|In particular , the SERTPR insertion/deletion polymorphism has been related to hippocampal volume and amygdala response and it has been found to influence anxiety-related personality traits and anxiety disorders ; in mood disorders it showed some influences on age at onset , periodicity , illness recurrence , rapid cycling , antidepressants response and depressive reaction to stressful life events .
+
+17019406|A stronger mood lowering effect was associated with less accurate performance on faces expressing a negative emotion in the incidental task and a stronger right amygdala response to fearful faces in comparison to happy faces .
+
+16950223|This vulnerability can manifest as mood-congruent memory during sad mood and may involve amygdala response , which is implicated in memory for emotionally arousing stimuli .
+
+16950223|This study examined whether amygdala modulates memory for negatively valenced words before and after a sad mood induction in healthy individuals with and without a history of recurrent major depression .
+
+16950223|Following sad mood induction , bilateral amygdala response during encoding of valenced words predicted increased recall of negative self-referent words for a subset of RD participants .
+
+16950223|These results are consistent with cognitive diathesis-stress theories and suggest a role for the amygdala in modulating mood-congruent memory during transient sad mood in individuals who are vulnerable to depression relapse .
+
+16901513|These findings suggest that PDE4 inhibitors produce emesis by increasing NK -LRB- 1 -RRB- receptor activation in the AP/NTS and implicate brain regions associated with reward and mood such as the amygdala , paraventricular nucleus of the thalamus , habenula and nucleus accumbens in the anti-depressant activity of such compounds .
+
+16713587|The amygdala is poised to mediate internal mood and external event processing because of its connections with both the internal milieu and the sensory world .
+
+16713587|There is little evidence showing that the amygdala 's response to sad sensory stimuli is functionally modulated by mood state , however .
+
+16713587|We investigated the impact of mood on amygdala activation evoked by sad and neutral pictures presented as distractors during an attentional oddball task .
+
+16546144|The results suggest that understanding the ways in which the amygdala modulates arousal may provide insight into the mechanisms underlying altered sleep in mood and anxiety disorders .
+
+16490411|Recent advances in functional brain imaging have identified critical neural circuits involving the amygdala and other limbic structures , prefrontal cortical regions , thalamus , and basal ganglia that modulate emotional behavior and are disturbed in primary and secondary mood disorders .
+
+16414028|Distribution of serotonin transporter labeled fibers in amygdaloid subregions : implications for mood disorders . .
+
+16414028|The amygdala , a key emotional processing center , has functional abnormalities in mood disorders , which resolve following successful SSRI treatment .
+
+16414028|To better understand the effects of SSRIs in mood disorders , we examined the distribution of 5-HTT labeled fibers relative to specific nuclear groups in the amygdala .
+
+16358593|In mood regulation as well as in the perception and emotional dimension of pain stimuli , such brain structures as the amygdala , anterior cingulate cortex and prefrontal cortex are of main significance .
+
+15968809|It is speculated that the amygdala is an important anatomic structure in the cerebral circuits that regulate mood in affective disorders but also in epilepsy , and an effect of AEDs on such circuits aids mood stability in both populations of patients .
+
+15921853|Severity of depressive mood was inversely correlated with rCBF in the left amygdala , lentiform nucleus , and parahippocampal gyrus , and directly correlated with rCBF in the right postero-lateral parietal cortex -LRB- p < 0.001 , uncorrected for multiple comparisons -RRB- .
+
+15877308|In long-term depressive illness , the hippocampus and prefrontal cortex undergo atrophy , whereas the amygdala is hyperactive in anxiety and mood disorders and may undergo a biphasic change in structure -- increasing in size in acute depression and shrinking on long-term depression .
+
+15877305|Neuroimaging studies of primary mood disorders have identified neurophysiologic abnormalities in the orbital and medial prefrontal cortex -LRB- PFC -RRB- , the amygdala , and the related parts of the striatum and thalamus .
+
+15862220|Sad and happy mood in contrast to the control task produced similarly significant activations in the amygdala-hippocampal area extending into the parahippocampal gyrus as well as in the prefrontal and temporal cortex , the anterior cingulate , and the precuneus .
+
+15845098|Down-regulation of amygdala preprotachykinin A mRNA but not 3H-SP receptor binding sites in subjects affected by mood disorders and schizophrenia . .
+
+15845098|The results confirm an involvement of the tachykinins in psychiatric disorders , suggesting there is a generalized impairment of the SP system in the amygdala in mood disorders and schizophrenia rather than this being a disease-related phenomenon .
+
+15826742|The MR findings reviewed in this article suggest structural , chemical , and functional abnormalities in specific brain regions participating in mood and cognitive regulation , such as the DLPFC , anterior cingulate , amygdala , STG , and corpus callosum in subjects with bipolar disorder .
+
+15724143|L-T -LRB- 4 -RRB- improved mood -LRB- remission in seven patients ; partial response in three -RRB- ; and decreased relative activity in the right subgenual cingulate cortex , left thalamus , right amygdala , right hippocampus , right dorsal and ventral striatum , and cerebellar vermis .
+
+15607296|Smaller amygdalas are present early in the course of pediatric depression and may predispose to the development of this disorder or perhaps more generally of childhood mood disorders .
+
+15570505|In negative mood incompatible trials in contrast to compatible trials lead to significant decrease of activity in emotion related brain areas like the amygdala , the hippocampus and the medial prefrontal cortex .
+
+15550347|Cognitive and neurophysiological studies have shown that HC-PFC processing is impaired , and amygdaloid processing is enhanced , by stress and in anxiety and mood disorders , including MDD .
+
+15465977|During positive mood induction , no group differences could be found in the amygdala .
+
+15465977|Following induction of sad mood , both patients with schizophrenia and their nonaffected brothers displayed reduced brain activity in the amygdala .
+
+15464275|These findings on persistent dendritic remodeling in the amygdala , in addition to highlighting important differences with hippocampal structural plasticity , may provide a cellular basis for examining anxiety and mood disorders triggered by chronic stress .
+
+15340357|These studies suggest that , in bipolar disorder , there may be diminished prefrontal modulation of subcortical and medial temporal structures within the anterior limbic network -LRB- eg , amygdala , anterior striatum and thalamus -RRB- that results in dysregulation of mood .
+
+15262342|The amygdala and hippocampus are key limbic structures of the temporal lobe , and are implicated in the pathology of mood disorders .
+
+15262342|Bcl-2 , an intracellular protein , has recently been identified in the primate amygdala and hippocampus , and is now recognized as an intracellular target of mood stabilizing drugs .
+
+15229061|The mediodorsal and anteroventral/anteromedial nuclei of the thalamus are brain regions of interest in the study of mood disorders because they connect subcortical limbic system structures such as the amygdala with the prefrontal , cingulate , and temporal cortices .
+
+14996140|We hypothesized that adolescents with bipolar disorder would exhibit abnormalities in brain regions that are involved in the regulation of mood including the amygdala , globus pallidus , caudate , putamen , and thalamus .
+
+14997169|Sex may affect volumetric deficits in amygdala and anterior cingulate cortex in mood disorders , but no effects were found in the hippocampus or OPFC .
+
+14643096|The amygdala plays important roles in modulating vigilance and generating negative emotional states and is often abnormally reactive in disorders of mood and emotion .
+
+26983772|A neuro-anatomic model of mood regulation comprising the prefrontal cortex , amygdala-hippocampus complex , thalamus , basal ganglia , and connections among these areas has been proposed .
+
+14625147|Thyroid hormones in the rat amygdala as common targets for antidepressant drugs , mood stabilizers , and sleep deprivation . .
+
+12724175|Neuroimaging abnormalities in the amygdala in mood disorders . .
+
+12724172|Brain imaging studies in mood and anxiety disorders : special emphasis on the amygdala . .
+
+12724147|-LRB- 3 -RRB- A forebrain circuit involves the amygdala with the ventromedial frontal , rostral insular , and rostral temporal cortical areas , the medial thalamus and ventromedial basal ganglia , and seems to be directly involved in emotional behavior and mood .
+
+12667853|Immediate feedback of amygdala activation was given to the subjects during the ongoing scan to reinforce mood induction .
+
+12212470|Differential patterns of anatomical brain abnormalities appear to be involved in subtypes of mood disorders , with hippocampus and basal ganglia being abnormal in unipolar disorder , and amygdala and cerebellum in bipolar disorders , suggesting that these two mood disorders are biologically distinct .
+
+11983184|The amygdala plays a crucial role in the mediation of affective behavior in humans and is implemented in the limbic-thalamic-cortical network that is supposed to modulate human mood .
+
+11840512|Mesial temporal lobe structures , including the amygdala and hippocampus , are thought to be associated with abnormalities of mood and behavior in humans and in the neurobiology of schizophrenia .
+
+11830178|Preliminary assessment of BD subjects imaged during remission suggested that amygdala metabolism is also elevated in remitted subjects who are not taking mood-stabilizing drugs , but within the normal range in subjects taking mood stabilizers .
+
+11810032|Based upon the hypothesis that serotonin -LRB- 5-HT -RRB- - steroid hormone interactions are important in mood regulation , we have compared six SERMs -LRB- tamoxifen , raloxifene , levormeloxifene , NNC 45-0781 , NNC 45-0320 , NNC 45-1506 -RRB- with 17beta-estradiol -LRB- E -LRB- 2 -RRB- -RRB- in terms of their ability to regulate mRNA levels of estrogen receptor -LRB- ER -RRB- alpha , ER beta , 5-HT -LRB- 1A -RRB- receptor , and 5-HT reuptake transporter -LRB- SERT -RRB- in the midbrain , amygdala , and hypothalamus of ovariectomized -LRB- OVX -RRB- rats .
+
+11803449|These findings indicate specific prodynorphin amygdala impairment in association with mood disorder .
+
+22033605|In contrast to hallucinogens , the entactogen MDMA produces an emotional state of positive mood , concomitant with an activation of prefrontolimbiclparalimbic structures and a deactivation of amygdala and thalamus .
+
+11405424|The model has two attractor networks that represent the inferior temporal cortex -LRB- IT -RRB- , which stores representations of visual stimuli , and the amygdala , the activity of which reflects the mood state .
+
+11405424|During learning , a large number of patterns are presented to the IT , each paired with one of two mood states represented in the amygdala .
+
+11405424|It is shown how the mood state in the amygdala can influence which memory patterns are recalled in the memory module .
+
+11405424|Further , it is shown that if there is an existing mood state in the amygdala , it can be difficult to change it even when a retrieval cue is presented to the memory module that is associated with a different mood state .
+
+11405424|The results are relevant to understanding the interaction between structures important in mood and emotion -LRB- such as the amygdala and orbitofrontal cortex -RRB- and other brain areas involved in storing objects and faces -LRB- such as the inferior temporal visual cortex -RRB- and memories -LRB- such as the hippocampus -RRB- .
+
+11392037|The limbic system , particularly the amygdala , plays a prominent role in regulating emotion and mood .
+
+11122366|Imidazoline binding sites are present in the striatal complex and in the extended amygdala and have been implicated in mood disorders .
+
+10899226|We speculate that levodopa may exert its known effects on mood in humans through increased amygdala activity , mediated in part by D -LRB- 1 -RRB- receptors .
+
+10719150|Finally , we emphasize that changes in the neuronal circuits related to the ventral striatopallidal system , extended amygdala and basal nucleus of Meynert in all likelihood provide the anatomical substrate through which pathologic activities in the medial temporal lobe and prefrontal-orbitofrontal structures are translated into disruption of a number of functions ranging from motor activities and basic drives , to personality changes involving stress , mood and higher cognitive functions .
+
+10624542|This is the second report of a relationship between amygdala volumes and depressed mood , confirming an earlier finding in patients with bipolar disease , and the first study reporting a correlation between amygdala volumes and depression .
+
+10417248|Neural activity in several 5-HT-related brain areas , e.g. , dorsal raphé , habenula , septal region , amygdala , and orbitofrontal cortex , covaried significantly with plasma levels of tryptophan and ratings of depressed mood .
+
+10368863|The present review discusses several important brain structures and neuroanatomic pathways thought to be involved in affect and mood disorders , including the amygdala , frontal neocortex , cingulate gyrus , basal ganglia , and the monoamine systems .
+
+9522399|During sad mood , blood flow increased in the left amygdala and these changes correlated with shifts towards a negative affect .
+
+9522399|A significant increase in signal intensity was found during sad as well as happy mood induction in the left amygdala .
+
+8988799|The structural neuroimaging findings in mood disorders were reviewed , to evaluate evidence for a neuroanatomic model of pathophysiology , involving the prefrontal cortex , the basal ganglia , the amygdala-hippocampus complex , thalamus , and connections among these structures .
+
+8748470|CBF increased in left amygdala and decreased in right amygdala during sad mood relative to the averaged control conditions .
+
+7597162|In agreement with a previous PET study , a significant increase in signal intensity in the left amygdala was found during induction of a sad mood , while no comparable effect was visible during induction of a happy mood .
+
+8138967|In experimental animals , these drugs activate limbic structures , such as the amygdala , that may coordinately regulate sensory processing , mood and pituitary hormone secretion during stress .
+
+8397408|Northern blot and in situ hybridization analyses showed the 5-HT7 transcripts to be expressed in discrete areas of the limbic brain -LRB- e.g. , pyramidal hippocampus cells , tenia tecta , amygdaloid , or mammillary nuclei -RRB- , suggesting that the receptor mediates serotoninergic controls in functions like mood , learning , or neuroendocrine and vegetative behaviors .
+

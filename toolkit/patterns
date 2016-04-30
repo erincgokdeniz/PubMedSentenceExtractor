@@ -1,0 +1,4 @@
+main;(?i) amygdal(a|ar|oid){1}
+left;(?i)left ((\w)* ){1,6}amygdal(a|ar|oid){1}
+right;(?i)right ((\w)* ){1,6}amygdal(a|ar|oid){1}
+left_or_right;(?i)(left|right){1} ((\w)* ){1,6}amygdal(a|ar|oid){1}

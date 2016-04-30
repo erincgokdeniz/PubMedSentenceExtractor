@@ -1,0 +1,24 @@
+24210457|In patients with lTLE , fear ratings were comparable to those of healthy subjects and were correlated with relatively stronger activations in the right compared to the left amygdala .
+
+22997340|Using functional brain imaging , we found that , after a conditioned fear memory was formed , reactivation and reconsolidation left a memory trace in the basolateral amygdala that predicted subsequent fear expression and was tightly coupled to activity in the fear circuit of the brain .
+
+22484206|The most informative FC was between right amygdala and precuneus , which increased during subliminal fear conditions , while left and right amygdala FC decreased , suggesting a bilateral decoupling of this key limbic region during processing of subliminal fear-related stimuli .
+
+20939663|In contrast , exposure to negatively valenced events involving a reduction in expected food rewards after bar pressing or presentation of a footshock during fear conditioning produced significant increases in norepinephrine output sampled from only the right but not left basolateral amygdala .
+
+18982530|Greater effective connectivity from left MOFC to amygdala differentiated positive and neutral expressions from negatively valenced angry , disgust , and fear expressions .
+
+18982530|Greater effective connectivity from right LOFC to amygdala differentiated emotion expressions conducive to perceiver approach -LRB- happy , neutral , and fear -RRB- from angry expressions that elicit perceiver withdrawal .
+
+17970731|The effect of CB -LRB- 1 -RRB- receptor antagonism in the right basolateral amygdala on conditioned fear and associated analgesia in rats . .
+
+17970731|The present study investigated the effects of administration of the cannabinoid -LRB- 1 -RRB- -LRB- CB -LRB- 1 -RRB- -RRB- receptor antagonist SR141716A into the right basolateral amygdala -LRB- BLA -RRB- on expression of conditioned fear , formalin-evoked nociceptive behaviour , fear-conditioned analgesia and associated alterations in monoamine levels in discrete rat brain areas .
+
+14979779|The relative contribution of left and right amygdalae in the acquisition and retention of fear conditioning was investigated in rats .
+
+12724169|We reviewed and reanalyzed data from our laboratory , indicating that subjective feelings of fear and distress are correlated with regional cerebral blood flow -LRB- rCBF -RRB- in the right but not the left amygdala during anxiety provocation in individuals with social anxiety disorder , specific phobias .
+
+11241871|Despite the many studies highlighting the role of the amygdala in fear perception , few have examined differences between right and left amygdalar responses .
+
+10683827|Matching angry or frightened expressions was associated with increased regional cerebral blood flow -LRB- rCBF -RRB- in the left and right amygdala , the brain 's primary fear centers .
+

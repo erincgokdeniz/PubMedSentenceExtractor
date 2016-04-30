@@ -1,0 +1,108 @@
+27107154|Our findings suggest that differential amygdala activation in affective ToM in CD is substantially modulated by previous CM and not by the pathophysiological equivalents of current depressive symptoms .
+
+26865423|Clinical neuroprediction : Amygdala reactivity predicts depressive symptoms 2 years later . .
+
+26865423|Studies are needed to examine how amygdala reactivity relates to the course of depressive symptoms dimensionally , prospectively and in populations diverse in gender , race and socioeconomic status .
+
+26865423|Left and right amygdala reactivity to neutral , but not angry or fearful , facial expressions relative to a non-face baseline at age 20 predicted greater depressive symptoms 2 years later , controlling for age 20 depressive symptoms .
+
+26865423|Heightened bilateral amygdala reactivity to neutral facial expressions predicted increases in depressive symptoms 2 years later in a large community sample .
+
+26865423|Individual differences in amygdala reactivity to neutral facial expressions appear to identify those at most risk for a more problematic course of depressive symptoms across time .
+
+26666502|In this study , we investigated the relationship between abnormal amygdalar intrinsic connectivity , autism symptom severity , and anxiety and depressive symptoms .
+
+26581959|Altered Amygdala Connectivity in Individuals with Chronic Traumatic Brain Injury and Comorbid Depressive Symptoms . .
+
+26581959|We utilized resting-state functional magnetic resonance imaging to identify altered amygdala connectivity in individuals with chronic TBI -LRB- 8 years post-injury on average -RRB- exhibiting comorbid depressive symptoms -LRB- N = 31 -RRB- , relative to chronic TBI individuals having minimal depressive symptoms -LRB- N = 23 -RRB- .
+
+26581959|Further analysis revealed that spatially dissociable patterns of correlation between amygdala connectivity and symptom severity according to subtypes -LRB- Cognitive and Affective -RRB- of depressive symptoms -LRB- p voxel < 0.01 , p cluster < 0.025 -RRB- .
+
+26581959|Taken together , these results suggest that amygdala connectivity may be a potentially effective neuroimaging biomarker for comorbid depressive symptoms in chronic TBI .
+
+26541813|This study examined amygdala activity during autobiographical memory recall as a putative mechanism underlying biased memory recall and depressive symptoms in currently depressed adults and two vulnerable populations : individuals remitted from depression and otherwise healthy individuals at high familial risk of developing depression .
+
+26514618|The hierarchical regression analyses showed that their current depressive symptoms were associated with aberrant functional interaction between the right amygdala activity and right amygdala-rostral ACC connectivity .
+
+26431880|No significant correlations were found between amygdala volumes and pain characteristics or depressive symptoms .
+
+26421634|Reductions in depressive symptoms after 1 week of active placebo treatment , compared with the inactive , were associated with increased placebo-induced µ-opioid neurotransmission in a network of regions implicated in emotion , stress regulation , and the pathophysiology of MDD , namely , the subgenual anterior cingulate cortex , nucleus accumbens , midline thalamus , and amygdala -LRB- nucleus accumbens : r = 0.6 ; P < .001 -RRB- .
+
+26416545|Taken together , these results emphasize the centrality of the amygdala in the pathophysiology of depressive symptoms , and suggest that dissociable patterns of amygdalo-frontal dysconnectivity are a critical neurobiological feature across clinical diagnostic categories.Molecular Psychiatry advance online publication , 29 September 2015 ; doi :10.1038 / mp .2015.149 .
+
+25689569|Linear regression was used to identify the amygdala functional networks and to examine the associations between prenatal maternal depressive symptoms and amygdala functional connectivity .
+
+25689569|After controlling for postnatal maternal depressive symptoms , infants born to mothers with higher prenatal maternal depressive symptoms showed greater functional connectivity of the amygdala with the left temporal cortex and insula , as well as the bilateral anterior cingulate , medial orbitofrontal and ventromedial prefrontal cortices , which are largely consistent with patterns of connectivity observed in adolescents and adults with major depressive disorder .
+
+25526599|These changes in amygdala reactivity with age occurred in the absence of clinical disorder or increases in depressive symptoms .
+
+25456521|Left amygdala volume mediated the effect of sadness recognition on depressive symptoms , negative symptoms , overall psychopathology , and global functioning in females .
+
+25433424|After adjusting for demographic variables , two dimensional measures showed significant inverse relationships with resting state connectivity , regardless of diagnosis : 1 -RRB- PGBI-10M with amygdala-left posterior insula/bilateral putamen ; and 2 -RRB- depressive symptoms with amygdala-right posterior insula connectivity .
+
+25422962|Specifically , we found that smaller hippocampus volumes and greater responses to sad faces in emotion reactivity regions predict increased depressive symptoms at the time of scan , whereas larger amygdala volumes , smaller insula volumes , and greater responses in emotion reactivity regions predict decreased emotion regulation skills .
+
+24796287|Additionally , we found aberrant amygdala-hippocampal network activity in a sample of adults with depressive symptoms .
+
+24796287|In this sample , amygdala activation was enhanced and DG/CA3 activation was diminished during emotional discrimination compared to those without depressive symptoms .
+
+24667480|No other limbic brain structures -LRB- amygdala , subcallosal gyrus , subgenual gyrus , gyrus rectus -RRB- , or total cerebral volume were associated with depressive symptoms .
+
+24404185|Compared with the non-depressed patients , those with depressive symptoms exhibited significantly increased regional activity in the left middle frontal gyrus and right inferior frontal gyrus , and decreased ReHo in the left amygdala and bilateral lingual gyrus .
+
+24176688|Conversely , right amygdala FC was correlated with depressive symptoms in both patient groups , with a positive and negative correlation in LTLE and right TLE -LRB- RTLE -RRB- , respectively .
+
+23143517|For females , adolescent amygdala-vmPFC functional connectivity was inversely correlated with concurrent anxiety symptoms but positively associated with depressive symptoms , suggesting differing pathways from childhood cortisol levels function through adolescent amygdala-vmPFC functional connectivity to anxiety and depression .
+
+23117638|To assess a large cohort of recent military veterans with PTSD and trauma-exposed control subjects , with sufficient power to perform a definitive assessment of the effect of PTSD on volumetric changes in the amygdala and hippocampus and of the contribution of illness duration , trauma load , and depressive symptoms .
+
+22855869|Higher atrophy of the right amygdala was associated with greater 4-year decline in semantic memory performances and more depressive symptoms .
+
+22855869|The amygdala , which develops neuropathology in the early stage of AD and is involved in the pathogenesis of depression , may be an important brain structure involved in the association between EPA and cognitive decline and depressive symptoms .
+
+22854930|Increased amygdala response to negative emotions seen in functional MRI -LRB- fMRI -RRB- has been proposed as a biomarker for negative emotion processing bias underlying depressive symptoms and vulnerability to depressive relapse that are normalized by antidepressant drug treatment .
+
+22785087|Trait liability to depression and depressive symptoms are associated with reduced structural connectivity in tracts connecting the prefrontal cortex with the amygdala and anterior temporal cortex .
+
+22652466|Intact limbic-prefrontal connections and reduced amygdala volumes in Parkinson 's disease with mild depressive symptoms . .
+
+21920442|Using a robust multiple regression approach , we examined the effects of social anxiety , anxiety sensitivity , and trait anxiety -LRB- which overlapped with depressive symptoms , and can therefore be considered a measure of negative affectivity -RRB- on activation in insula , amygdala , and medial prefrontal cortex , in response to emotional faces .
+
+21764567|Serotonin transporter genotype modulates the association between depressive symptoms and amygdala activity among psychiatrically healthy adults . .
+
+21764567|The current study thus investigated whether 5-HTTLPR genotype modulates the association between depressive symptoms and amygdala activity among psychiatrically healthy adults .
+
+21764567|We hypothesized differential associations between depressive symptoms and amygdala activity among individuals homozygous for the short allele and individuals homozygous for the long allele .
+
+19589603|The relationships between the MPFC , the rostral ACC , and the amygdala appear to reflect an interaction between the self-referential processing and the negative emotional information processing , and we propose that the strong connection between the MPFC and the rostral ACC is associated with depressive symptoms .
+
+19047524|-LRB- 1 -RRB- Volumetric measures of adolescents ' amygdala , hippocampus , and anterior cingulate cortex -LRB- ACC -RRB- ; -LRB- 2 -RRB- frequency of observed maternal aggressive behavior during a mother-adolescent conflict-resolution interaction ; and -LRB- 3 -RRB- adolescent depressive symptoms .
+
+19047524|Boys with smaller right amygdalas reported more depressive symptoms .
+
+18947837|The corticolimbic dysregulation hypothesis of bipolar disorder suggests that depressive symptoms are related to dysregulation of components of an anterior paralimbic network -LRB- anterior cingulate , anterior temporal cortex , dorsolateral prefrontal cortex , parahippocampal gyrus , and amygdala -RRB- with excessive anterior limbic activity accompanied by diminished prefrontal activity .
+
+18822408|Exploratory analyses showed that pretreatment amygdala activity was negatively correlated with change in depressive symptoms .
+
+18603301|The aim of this study was to examine the degree to which alterations in amygdala-cingulate FC relate to severity of current depressive symptoms in a group of depressed individuals without significant co-morbidities .
+
+18402630|These preliminary results indicate that adolescents with BD treated with lamotrigine demonstrated less amygdalar activation when viewing negative stimuli as depressive symptoms improved .
+
+18391157|We determined whether history of depressive episodes and presence of depressive symptoms were associated with smaller hippocampal and amygdalar volumes and with increased risk for incident AD .
+
+17291590|The observed relation between reduced olfactory sensitivity and depressive symptoms could be mediated by functional deviations within brain structures subserving primary olfactory processing such as amygdala and piriform cortex which is in line with results showing abnormal activity pattern in the amygdala and other brain regions in depression .
+
+17215168|Future studies examining the potential role of extended neural regions may clarify the observed structural relationship between depressive symptoms and the amygdala .
+
+16924103|Thus , structural changes in the amygdala and hippocampus , caused by genetic manipulation of the same molecule BDNF , give rise to contrasting effects on anxiety and depressive symptoms , both of which are major behavioral correlates of stress disorders .
+
+16476409|There was a significant correlation in BPD patients between left amygdala volume and depressive symptoms as measured by HAMD .
+
+15607294|When correcting for anxiety and depressive symptoms , we additionally found a reduced responsiveness of the left amygdala to negative pictures in patients compared with control subjects .
+
+14706946|Self-reports of depressive symptoms and anxiety were measured , as were global and relative glucose metabolism in the orbitofrontal , cingulate , lateral prefrontal , and insular cortices and the amygdala , striatum , and cerebellum .
+
+14706946|In MA abusers , self-reports of depressive symptoms covaried positively with relative glucose metabolism in limbic regions -LRB- eg , perigenual anterior cingulate gyrus and amygdala -RRB- and ratings of state and trait anxiety covaried negatively with relative activity in the anterior cingulate cortex and left insula .
+
+12611834|Elevated activity in the right caudate may be a marker of responsiveness to antiobsessional treatment , while lower right amygdala activity and higher midline prefrontal activity may be required for response of depressive symptoms to treatment .
+

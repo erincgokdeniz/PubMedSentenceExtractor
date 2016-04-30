@@ -1,0 +1,12 @@
+22997340|Using functional brain imaging , we found that , after a conditioned fear memory was formed , reactivation and reconsolidation left a memory trace in the basolateral amygdala that predicted subsequent fear expression and was tightly coupled to activity in the fear circuit of the brain .
+
+22484206|The most informative FC was between right amygdala and precuneus , which increased during subliminal fear conditions , while left and right amygdala FC decreased , suggesting a bilateral decoupling of this key limbic region during processing of subliminal fear-related stimuli .
+
+20939663|In contrast , exposure to negatively valenced events involving a reduction in expected food rewards after bar pressing or presentation of a footshock during fear conditioning produced significant increases in norepinephrine output sampled from only the right but not left basolateral amygdala .
+
+18982530|Greater effective connectivity from left MOFC to amygdala differentiated positive and neutral expressions from negatively valenced angry , disgust , and fear expressions .
+
+14979779|The relative contribution of left and right amygdalae in the acquisition and retention of fear conditioning was investigated in rats .
+
+10683827|Matching angry or frightened expressions was associated with increased regional cerebral blood flow -LRB- rCBF -RRB- in the left and right amygdala , the brain 's primary fear centers .
+

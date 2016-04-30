@@ -1,0 +1,24 @@
+24760033|In healthy females , left and right amygdalae seem implicated in distinct mPFC brain networks related to HA and may represent a vulnerability marker for sensitivity to stress and anxiety -LRB- disorders -RRB- .
+
+24666527|In patients with social anxiety disorder -LRB- SAD -RRB- it has been reported that selective serotonin reuptake inhibitors -LRB- SSRIs -RRB- and placebo induce anxiolytic effects by attenuating neural activity in overlapping amygdala subregions , i.e. left basolateral and right ventrolateral amygdala .
+
+24268662|Critically , machine learning algorithms revealed that levels of childhood anxiety could be reliably predicted by amygdala morphometry and intrinsic functional connectivity , with the left basolateral amygdala emerging as the strongest predictor .
+
+21925523|Although hemisphere-specific processing differences between the left and right amygdala have been reported , it remains unclear whether the right or left CeA is involved in the production of anxiety-like behavior , and abnormal somatic and visceral perception .
+
+20207692|In addition , anxious anticipatory activation in the left insula and left amygdala covaried with participants ' level of trait anxiety , particularly when the anticipated event was proximal .
+
+19255377|Left and right amygdala activation differed as a function of diagnosis , facial expression , and attention condition both when patients with comorbid MDD and anxiety were included and when they were excluded -LRB- group x emotion x attention interactions , P < or = .03 -RRB- .
+
+18717711|In right TLE patients , left and right amygdala activation was significantly related to preoperative anxiety and depression levels , and preoperative right amygdala activation correlated significantly with postoperative change of anxiety and depression scores , characterized by greater increases in anxiety and depression in patients with greater preoperative activation .
+
+17566766|As anxiety level increased across participants , right and left auditory cortical as well as right amygdala activity increased to stimulus deviance .
+
+15795000|Anxiolytic and anxiogenic effects of kindling -- role of baseline anxiety and anatomical location of the kindling electrode in response to kindling of the right and left basolateral amygdala . .
+
+15795000|Effects of kindling of right and left basolateral amygdala -LRB- BLA -RRB- on plus maze anxiety was studied .
+
+12804127|Increased left and right amygdala : hippocampal volume ratios were associated with increased severity of anxiety but not increased severity of depression or duration of illness .
+
+8140150|The effect of kindling of different nuclei in the left and right amygdala on anxiety in the rat . .
+

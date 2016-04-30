@@ -1,0 +1,1634 @@
+27103531|We found that A? decreased cortical dopamine levels and converted in vivo long-term potentiation -LRB- LTP -RRB- into long-term depression -LRB- LTD -RRB- after high-frequency stimulation delivered at basolateral amygdaloid nucleus-insular cortex projection , which led to impaired recognition memory .
+
+27011015|In the HIV + group , lower amygdala responses were associated with higher neuropsychiatric symptoms , particularly depression , anxiety , and alexithymia .
+
+26991474|Multiple regions showed differential Hb connectivity based on subclinical depression scores , including the amygdala , insula , and prefrontal , mid-cingulate , and entorhinal cortices .
+
+26958462|Correlation between amygdala BOLD activity and frontal EEG asymmetry during real-time fMRI neurofeedback training in patients with depression . .
+
+26926964|The results showed that CUMS was effective in producing depression-like behaviors in rats as indicated by decreased responses in sucrose preference and forced swim tests which were associated with ultrastructural changes in neurons within the amygdala .
+
+26926964|This amelioration of depression-like behaviors by ginsenoside Rg1 appears to be mediated , at least in part , by a CREB-regulated increase of BDNF expression in the amygdala of rats .
+
+26879101|By contrast , quetiapine decreased amygdala responses at both time points in S/Lg carriers , and changes in amygdala responses at week 8 correlated with a reduction in depression scores .
+
+26834566|Recent studies combining pharmacological , behavioral , electrophysiological and molecular approaches indicate that depression results from maladaptive neuroplastic processes occurring in defined frontolimbic circuits responsible for emotional processing such as the prefrontal cortex , hippocampus , amygdala and ventral striatum .
+
+26833658|Classical experiments in mammalian models , mainly in primates and rodents , have shown that the amygdala is essential for appetitive and aversive associative processing and that dysfunction of this brain region leads to various psychiatric conditions , including depression , generalized anxiety disorder , panic disorder , phobias , autism , and posttraumatic stress disorder .
+
+26821769|The effects of low-dose ketamine on the prefrontal cortex and amygdala in treatment-resistant depression : A randomized controlled study . .
+
+26821769|A hypoactive prefrontal cortex -LRB- PFC -RRB- and a hyperactive amygdala have been suggested to be associated with treatment-resistant depression -LRB- TRD -RRB- .
+
+26821769|Standardized uptake values -LRB- SUV -RRB- of glucose metabolism measured by -LRB- 18 -RRB- F-FDG positron-emission-tomography before and immediately after a 40-min ketamine or NS infusion were used for subsequent region-of-interest -LRB- ROI -RRB- analyses -LRB- a priori regions : PFC and amygdala -RRB- and whole-brain voxel-wise analyses and were correlated with antidepressant responses , as defined by the Hamilton depression rating scale score .
+
+26771739|Effect of Hippocampal and Amygdala Connectivity on the Relationship Between Preschool Poverty and School-Age Depression . .
+
+26771046|Finally , to highlight the utility of graph theory for studying dysfunction of the amygdala in mental illness , we review data with regard to changes in the hub properties of the amygdala in brain networks of patients with depression .
+
+26767708|The inclusion of anxiety and depression as covariates did not alter amygdala resting-state functional connectivity differences between the study groups .
+
+26740318|In experiment 1 , ESC corrected both behavioural -LRB- depression/anxiety -RRB- and neurochemical -LRB- reduced 5-HT tissue levels in amygdala/hippocampus -RRB- abnormalities .
+
+26680151|Postpartum depression and brain response to infants : Differential amygdala response and connectivity . .
+
+26680151|Recent evidence suggests that postpartum depression is associated with reduced amygdala -LRB- AMY -RRB- response to negative stimuli .
+
+26621569|Indeed , the frontal pole was shown to structurally and functionally connect to other key regions in major depression pathology , such as the anterior cingulate cortex and the amygdala via the uncinate fasciculus .
+
+26541813|This study examined amygdala activity during autobiographical memory recall as a putative mechanism underlying biased memory recall and depressive symptoms in currently depressed adults and two vulnerable populations : individuals remitted from depression and otherwise healthy individuals at high familial risk of developing depression .
+
+26541813|In depressed participants , left amygdala activity during positive recall correlated significantly with depression severity -LRB- r values > -0.38 -RRB- and percent of positive specific memories recalled -LRB- r values > 0.59 -RRB- .
+
+26541813|The results suggest that left amygdala hyperactivity during negative autobiographical recall is a trait-like marker of depression , as both vulnerable groups showed activity similar to the depressed group , while amygdala hypoactivity during positive autobiographical recall is a state marker of depression manifesting in active disease .
+
+26525920|However , the amygdala may also play a role in comorbid anxiety , depression , and other psychiatric symptoms experienced in the interictal phase , especially in pharmacoresistant TLE .
+
+26525920|In contrast , patients with interictal depression often have an intact or even enlarged amygdala and a negative MRI associated with amygdala hypometabolism , which can be associated with limbic autoimmune encephalitis .
+
+26481946|The aqueous extract of Albizia adianthifolia leaves attenuates 6-hydroxydopamine-induced anxiety , depression and oxidative stress in rat amygdala . .
+
+26481946|This study was undertaken in order to identify the effects of aqueous extract of A. adianthifolia leaves on 6-hydroxydopamine-induced anxiety , depression and oxidative stress in the rat amygdala .
+
+26481946|Our results suggest that the aqueous extract ameliorates 6-OHDA-induced anxiety and depression by attenuation of the oxidative stress in the rat amygdala .
+
+26464970|Visual recognition memory relies on long-term depression-like mechanisms within the perirhinal cortex and the activation of the lateral amygdala can enhance visual recognition memory .
+
+26464970|In this study , we investigate the mechanisms of long-term depression -LRB- LTD -RRB- at the amygdala-perirhinal synapse in male Lister Hooded rats .
+
+26453680|To conduct the functional connectivity analyses , the bilateral amygdala and hippocampus , two areas critically involved in the pathophysiology of depression , were chosen as ` seed ' regions .
+
+26441752|FRAS1-related extracellular matrix 3 -LRB- FREM3 -RRB- single-nucleotide polymorphism effects on gene expression , amygdala reactivity and perceptual processing speed : An accelerated aging pathway of depression risk . .
+
+26441752|Here , we probe the effect of rs7676614 on amygdala reactivity and perceptual processing speed , both of which are altered in depression and aging .
+
+26440730|Analysis of the effects of depression associated polymorphisms on the activity of the BICC1 promoter in amygdala neurones . .
+
+26424431|The amygdala , a crucial hub of the emotional processing neural system , has been implicated in late-life depression -LRB- LLD -RRB- pathophysiology .
+
+26418276|We show that alcoholics with low Beck 's Depression Inventory scores -LRB- n = 29 -RRB- had higher cue-induced reactivity in NAc and amygdala than those with mild/moderate depression scores -LRB- n = 9 -RRB- , though subjective perception of craving was higher in those with mild/moderate depression scores .
+
+26418276|Finally , we show that amygdala cue reactivity correlated with craving and DAT methylation only in AD patients with low depression scores .
+
+26417770|A systematic search of the Medline , PubMed , Embase & Web of Science databases was used to identify all articles comparing structural grey matter or functional magnetic resonance imaging -LRB- MRI -RRB- differences between adults -LRB- 18 + -RRB- with previously diagnosed psychotic and nonpsychotic depression in predefined regions of interest -LRB- hippocampus , amygdala , cingulate , insula & frontal cortices -RRB- .
+
+26417770|The volumes of putative emotional processing regions including the amygdala , hippocampus and anterior cingulate show no difference between psychotic and nonpsychotic depression .
+
+26416545|This connectome-wide analysis identified foci of dysconnectivity associated with depression severity in the bilateral amygdala .
+
+26416545|Follow-up seed analyses using subject-specific amygdala segmentations revealed that depression severity was associated with amygdalo-frontal hypo-connectivity in a network of regions including bilateral dorsolateral prefrontal cortex , anterior cingulate and anterior insula .
+
+26412489|We find that sub-threshold fear conditioning leads to dopamine receptor D4-dependent long-term depression -LRB- LTD -RRB- of glutamatergic excitatory synapses by increasing inhibitory inputs onto neurons of the dorsal intercalated cell mass -LRB- ITC -RRB- in the amygdala .
+
+26384653|Acute food deprivation enhances fear extinction but inhibits long-term depression in the lateral amygdala via ghrelin signaling . .
+
+26380121|We review strategies for this clinical domain , including memory specificity training , method-of-loci , memory rescripting , and real-time fMRI neurofeedback training of amygdala activity in depression .
+
+26262937|Glutamine synthetase , an astrocytic enzyme that metabolizes glutamate and ammonia to glutamine , is reduced in the amygdala in patients with epilepsy and depression and in suicide victims .
+
+26223500|In this study , the authors provide evidence that congenitally enhanced endocannabinoid levels in the neuronal circuits underlying anxiety-like behavioral states -LRB- mainly medial prefrontal cortex , amygdala and hippocampus -RRB- lead to CB1R desenistization and anxiety and depression .
+
+26155668|Systematizes the data on the role of serotonin and sex steroids in the mechanisms involved in the stress response of Amygdala , and its participation in the formation of mood , emotions and the genesis of depression .
+
+26146014|Other brain areas involved in cholinergic control of depression-like behaviors , including the basolateral amygdala and lateral septum , showed sex-specific changes in c-fos expression .
+
+26107116|TRH and TRH receptor system in the basolateral amygdala mediate stress-induced depression-like behaviors . .
+
+26106565|Despite growing evidence for atypical amygdala function and structure in major depression , it remains uncertain as to whether these brain differences reflect the clinical state of depression or neurobiological traits that predispose individuals to major depression .
+
+26106565|We examined function and structure of the amygdala and associated areas in a group of unaffected children of depressed parents -LRB- at-risk group -RRB- and a group of children of parents without a history of major depression -LRB- control group -RRB- .
+
+26096943|Altered amygdalar resting-state connectivity in depression is explained by both genes and environment . .
+
+26096943|Recent findings indicate that alterations of the amygdalar resting-state fMRI connectivity play an important role in the etiology of depression .
+
+26096943|While both depression and resting-state brain activity are shaped by genes and environment , the relative contribution of genetic and environmental factors mediating the relationship between amygdalar resting-state connectivity and depression remain largely unexplored .
+
+26096943|The present study analyzed the influence of genes and environment on amygdalar resting-state fMRI connectivity , in relation to depression risk .
+
+26096943|Results using both methods indicate that depression risk is increased by environmental factors altering amygdalar connectivity .
+
+26096943|When analyzing the analytic components of the BOLD fMRI time-series , genetic factors altering the amygdala neural activity at rest show an important contribution to depression risk .
+
+26096943|Overall , these findings show that both genes and environment modify different patterns the amygdala resting-state connectivity to increase depression risk .
+
+26096943|The genetic relationship between amygdalar connectivity and depression may be better elicited by examining analytic components of the brain resting-state BOLD fMRI signals .
+
+26050933|Impaired Bottom-Up Effective Connectivity Between Amygdala and Subgenual Anterior Cingulate Cortex in Unmedicated Adolescents with Major Depression : Results from a Dynamic Causal Modeling Analysis . .
+
+26042728|Abnormal amygdala function in Parkinson 's disease patients and its relationship to depression . .
+
+26042728|However , it is still unclear whether amygdala structural and functional changes are related to depression in PD .
+
+26042728|Results showed that although there is no significant volume change , left amygdala activity increased in the PD group compared with the normal control group , and it correlated with Hamilton Rating Scale for Depression scores .
+
+26042728|These results suggest that abnormal amygdala function may underlie the occurrence of depression in PD .
+
+26025370|Given the concordance of the ventral striatum , amygdala , hippocampus and the subgenual anterior cingulate cortex -LRB- sgACC -RRB- as correlates of depression and their involvement in reward processing , we used functional magnetic resonance imaging -LRB- fMRI -RRB- during performance of a monetary reward task in an intervention versus waitlist-control design to investigate the clinical and neural effects of cognitive behavioral group therapy -LRB- CBT-G -RRB- .
+
+25956224|Several abnormal brain regions are known to be linked to depression , including amygdala , orbitofrontal cortex -LRB- OFC -RRB- , anterior cingulate cortex -LRB- ACC -RRB- , and dorsolateral prefrontal cortex -LRB- DLPFC -RRB- etc. .
+
+25917762|In the present study , we investigated the mechanism regulating antidepressant effects of exercise by focusing on the role of the amygdala using a well-defined animal model of depression .
+
+25880991|Taken together , our results suggest that the methanolic extract ameliorates beta-amyloid -LRB- 1-42 -RRB- - induced anxiety and depression by attenuation of the oxidative stress in the rat amygdala .
+
+25863961|G9a-Mediated Regulation of OXT and AVP Expression in the Basolateral Amygdala Mediates Stress-Induced Lasting Behavioral Depression and Its Reversal by Exercise . .
+
+25846623|A limbic brain area , the amygdala plays a key role in emotional responses and affective states and disorders such as learned fear , anxiety , and depression .
+
+25842202|Structural Plasticity of the Hippocampus and Amygdala Induced by Electroconvulsive Therapy in Major Depression . .
+
+25842202|Here , we determine the effects of diagnosis and of ECT on global and local variations of hippocampal and amygdala structures in major depression and predictors of ECT-related clinical response .
+
+25842202|Longitudinal changes in hippocampal and amygdala structures were examined in patients with major depression -LRB- N = 43 , scanned three times : prior to ECT , after the second ECT session , and within 1 week of completing the ECT treatment series -RRB- , referred for ECT as part of their standard clinical care .
+
+25820768|Given the importance of the amygdala in the regulation of emotion and their relevance for the pathophysiology of depression , potential alterations in diurnal patterns of basolateral amygdala gene expression in Cry2 -LRB- - / - -RRB- mice were investigated focusing on core clock genes and neurotrophic factor systems implicated in the pathophysiology of depression .
+
+25820768|Collectively , these results indicate that Cry2 exerts a critical role in the control of depression-related emotional states and modulates the chronobiological gene expression profile in the mouse amygdala .
+
+25819500|Elevated Hippocampal Cholinergic Neurostimulating Peptide precursor protein -LRB- HCNP-pp -RRB- mRNA in the amygdala in major depression . .
+
+25786501|Myocardial infarction -LRB- MI -RRB- is associated with apoptosis in the amygdala and , ultimately , with clinical signs of depression .
+
+25759300|We propose that by restoring the strength of apical inputs relative to basal amygdala inputs , especially in IL , ketamine would ameliorate the hypothesized disproportional negative influence of the amygdala in chronic stress and major depression .
+
+25710067|Such suppression can be a consequence of heterosynaptic depression which is based on potentiation of efficacy of excitatory inputs from the different structures converging on inhibitory interneurons in the nucleus accumbens and basolateral amygdala .
+
+25707920|Behavioural tests were performed to verify the ASD-like phenotypes of N-methyl-d-aspartate-treated mice , and the results showed that mice with bilateral medial amygdala lesions presented significant behavioural deficits , including impaired learning and memory and increased anxiety and depression .
+
+25702292|The hypothalamo-pituitary-adrenal axis , hippocampus , amygdala and stress-related factors and hormones , such as corticotropin-releasing factor , glucocorticoids and brain-derived neurotrophic factor are involved in both neuroplasticity and the pathogenesis of depression/anxiety and IBS .
+
+25689569|Prenatal maternal depression alters amygdala functional connectivity in 6-month-old infants . .
+
+25689569|Prenatal maternal depression is associated with alterations in the neonatal amygdala microstructure , shedding light on the timing for the influence of prenatal maternal depression on the brain structure of the offspring .
+
+25640931|The authors first highlight the most consistent findings from neuroimaging studies using different techniques in depression , including structural and functional abnormalities in two parallel neural circuits : serotonergically modulated implicit emotion regulation circuitry , centered on the amygdala and different regions in the medial prefrontal cortex ; and dopaminergically modulated reward neural circuitry , centered on the ventral striatum and medial prefrontal cortex .
+
+25600111|Placebo treatment was associated with a significant decrease in activity only in the right amygdala , and no region had a change in activity that was correlated with change in depression scores .
+
+25586634|Given the role of the amygdala in anxiety and the high degree of comorbidity between anxiety and depression , we hypothesized that GLT-1 blockade in the CEA would induce symptoms of anhedonia and anxiety in rats .
+
+25583614|Understanding how individual differences in these factors predict differences in emotional responsivity may be important for understanding both normative emotional development and for understanding the mechanisms underlying internalizing disorders , like anxiety and depression , that have often been related to increased amygdala and hippocampus responses to negatively valenced emotional stimuli .
+
+25582786|Rodent studies demonstrate region specific effects in chronic stress models of depression , including reductions in dendrite complexity and spine density in the hippocampus and prefrontal cortex -LRB- PFC -RRB- but increases in the basolateral amygdala and nucleus accumbens .
+
+25561905|Malfunction of synaptic plasticity in different brain regions , including the amygdala plays a role in impulse control deficits that are characteristics of several psychiatric disorders , such as ADHD , schizophrenia , depression and addiction .
+
+25545969|Abnormal functional connectivity of the amygdala is associated with depression in Parkinson 's disease . .
+
+25545818|Animal models of depression indicate enhanced plasticity in a ventral emotional network , comprising the amygdala .
+
+25526599|Developmental change in amygdala reactivity during adolescence : effects of family history of depression and stressful life events . .
+
+25526599|Although heightened amygdala reactivity is observed in patients with major depression , two critical gaps in our knowledge remain .
+
+25526599|The authors sought to address these gaps by evaluating developmental change in threat-related amygdala reactivity in adolescents at high or low risk for depression based on family history , before onset of disorder .
+
+25526599|Change in amygdala reactivity was assessed as a function of family history of depression and severity of stressful life events .
+
+25526599|These results suggest that heightened amygdala reactivity emerges during adolescence , prior to the development of depression , as a function of familial risk or , in the absence of familial risk , stressful life events .
+
+25522426|Diurnal oscillation of amygdala clock gene expression and loss of synchrony in a mouse model of depression . .
+
+25500120|Other variables were depression , memory loss , and MRI-derived AD-related regions of interest -LRB- ROIs -RRB- , including hippocampal , amygdalar , entorhinal cortical -LRB- EC -RRB- volumes , and EC thickness , In addition , a linear regression model was used to determine the effect of anxiety in aMCI on rates of atrophy within ROIs .
+
+25486982|Overall , it is important to note that many of the major mediators of the stress response and melancholic depression , such as the subgenual prefrontal cortex , the amygdala , the noradrenergic system and the CRH/HPA axis participate in multiple reinforcing positive feedback loops .
+
+25486577|The results raise the possibility that BD-associated abnormalities in kynurenine metabolism may impact the structure of the hippocampus and amygdala , highlighting a pathway through which inflammation may exert neuropathological effects in the context of depression .
+
+25462396|Contrasting and convergent patterns of amygdala connectivity in mania and depression : a resting-state study . .
+
+25461282|The trefoil factor 3 -LRB- TFF3 -RRB- , a macromolecular drug , was rapidly and persistently delivered to brain for at least 12 h when loaded into cRGDL while 2.8-fold increase in drug concentration in basolateral amygdala regions related to depression was observed .
+
+25433424|Resting state connectivity between amygdala and posterior insula decreased with increasing severity of behavioral and emotional dysregulation and depression ; this suggests an intrinsic functional uncoupling of key neural regions supporting emotion processing and regulation .
+
+25424551|Maternal depression in childhood and aggression in young adulthood : evidence for mediation by offspring amygdala-hippocampal volume ratio . .
+
+25424551|This study examined whether exposure to maternal depression during childhood might predict increased aggression and/or depression in early adulthood , and whether offspring amygdala : hippocampal volume ratio might mediate this relationship .
+
+25424551|Increased amygdala : hippocampal volume ratios at age 20 were significantly associated with concurrently increased aggression , but not depression , in adult offspring .
+
+25424551|Offspring amygdala : hippocampal volume ratio mediated the relationship found between trajectories of moderately elevated maternal depression during childhood and aggression in adult offspring .
+
+25365801|Furthermore , connectivity between the amygdala and hippocampus was positively related to measures of depression , trait anxiety , and emotion dysregulation , and negatively related to self-compassion and dispositional mindfulness .
+
+25338068|Previous imaging studies have identified abnormal volumes of the hippocampus , amygdala , and subcallosal region of the anterior cingulate cortex -LRB- scACC -RRB- in psychotic depression , though studies have not yet examined the role of family history of depression in these relationships .
+
+25338068|Patients with psychotic depression had significantly smaller left scACC and bilateral hippocampal volumes , while no group differences in other anterior cingulate cortex subregions or amygdala volumes were present .
+
+25329241|Although such neuromodulatory changes are observed in both MDD groups receiving feedback from respective active and control brain regions , only in the active group are larger decreases of depression severity associated with larger increases of amygdala connectivity and a significant , positive correlation is found between the connectivity changes and the days after neurofeedback .
+
+25329241|These results demonstrate lasting brain changes induced by amygdala rtfMRI-nf training and suggest the importance of reinforcement learning in rehabilitating emotion regulation in depression .
+
+25316238|Magnetic resonance study of the structure and function of the hippocampus and amygdala in patients with depression . .
+
+25316238|The hippocampus and amygdala exhibit structural and functional alterations in patients with depression .
+
+25298173|Right and left amygdalae activation in patients with major depression receiving antidepressant treatment , as revealed by fMRI . .
+
+25298173|To the best of our knowledge , this study is to compare neural activity between the left and right amygdalae in people with depression .
+
+25287512|Further studies are needed to determine whether the greater number of neurovascular cells in depressed subjects may be related to increased amygdala activity in depression .
+
+25278754|No change in N-acetyl aspartate in first episode of moderate depression after antidepressant treatment : -LRB- 1 -RRB- H magnetic spectroscopy study of left amygdala and left dorsolateral prefrontal cortex . .
+
+25278754|Proton magnetic spectroscopy was performed in 29 participants with a first episode of moderate depression occurring in the left dorsolateral prefrontal cortex and left amygdala at baseline and after 8 weeks of antidepressant treatment with escitalopram .
+
+25278754|This study could not confirm any significant changes in NAA after antidepressant treatment in the first episode of moderate depression , or in regard to therapy response in the left dorsolateral prefrontal cortex or left amygdala .
+
+25267070|Using a recombinant adeno-associated viral -LRB- rAAV -RRB- vector , we addressed this idea by testing effects on anxiolytic - and depression-like behaviours in adult mice after overexpression of NPY transgene in the amygdala and/or hippocampus , two brain regions implicated in emotional behaviours .
+
+25231851|Despite its extensive expression in the hippocampus , amygdala and other limbic system structures , the effects of VIP on anxiety and depression have not yet been fully investigated .
+
+25229257|-LSB- 11C -RSB- LY2795050 volume of distribution values in amygdala-anterior cingulate cortex-ventral striatal neural circuit ; composite measures of threat -LRB- ie , reexperiencing , avoidance , and hyperarousal symptoms -RRB- and loss -LRB- ie , emotional numbing , major depressive disorder , and generalized anxiety disorder symptoms -RRB- symptoms as assessed using the Clinician-Administered PTSD Scale , Hamilton Depression Rating Scale , and Hamilton Rating Scale for Anxiety ; and 24-hour urinary cortisol levels .
+
+25162634|In this longitudinal fMRI study of adolescents we investigated how amygdala-sACC connectivity was correlated with negative affectivity -LRB- NA -RRB- both cross-sectionally and longitudinally , and examined its relationship to the onset of first-episode depression .
+
+25162634|We used resting-state functional-connectivity MRI to investigate whether cross-sectional and change measures of amygdala-sACC connectivity were -LRB- i -RRB- correlated with NA and its change over time , and -LRB- ii -RRB- related to the onset of first-episode depression .
+
+25162634|Eight participants developed a first episode of depression between the baseline and follow-up assessments : they showed increased amygdala-sACC connectivity at follow-up .
+
+25159075|PDE4 , in particular , is highly expressed in brain regions involved with regulation of memory , anxiety , and depression , including the hippocampus , amygdala , and nucleus accumbens .
+
+25156392|In line with hypotheses , insecure versus secure infant attachment status was associated with larger amygdala volumes in young adults , an effect that was not accounted for by maternal depression history .
+
+25133665|Abnormal amygdala resting-state functional connectivity in adolescent depression . .
+
+25133665|Research has implicated the amygdala in emotion processing in mood disorders , and adult depression studies have suggested amygdala-frontal connectivity deficits .
+
+25133665|Adolescents with MDD showed lower positive RSFC between the amygdala and hippocampus , parahippocampus , and brainstem -LRB- z > 2.3 , corrected P < .05 -RRB- ; this connectivity was inversely correlated with general depression -LRB- R = -.523 , P = .01 -RRB- , dysphoria -LRB- R = -.455 , P = .05 -RRB- , and lassitude -LRB- R = -.449 , P = .05 -RRB- and was positively correlated with well-being -LRB- R = .470 , P = .03 -RRB- .
+
+25133665|Impaired amygdala-hippocampal/brainstem and amygdala-precuneus RSFC have not previously been highlighted in depression and may be unique to adolescent MDD .
+
+25107924|Competing mechanisms of long-term potentiation -LRB- LTP -RRB- and long-term depression -LRB- LTD -RRB- in principal neurons of the basolateral amygdala -LRB- BLA -RRB- are thought to underlie the acquisition and consolidation of fear memories , and their subsequent extinction .
+
+25083567|The first half of this paper briefly reviews the evidence that -LRB- i -RRB- stress precipitates depression by damaging the hippocampus , leading to changes in the activity of a distributed neural system involving , inter alia , the amygdala , the ventromedial and dorsolateral prefrontal cortex , the lateral habenula and ascending monoamine pathways , and -LRB- ii -RRB- antidepressants work by repairing the damaged hippocampus , thus restoring the normal balance of activity within that circuitry .
+
+25071439|N-methyl-D-aspartate receptor -LRB- NMDAR -RRB- - dependent long-term depression -LRB- LTD -RRB- in the lateral nucleus of the amygdala -LRB- LA -RRB- is a form of synaptic plasticity thought to be a cellular substrate for the extinction of fear memory .
+
+25043732|The behavioral alterations correlated to enhanced amygdaloid expression of KLK8 and FKBP51 , proteins that have been implicated in the development of anxiety and depression .
+
+25036008|Findings implicate elevated amygdalar arousal to negative stimuli in adolescents with depression and provide new evidence for a deficit in functioning of the saliency network , which may be a future target for early intervention and MDD treatment .
+
+25003028|Larger amygdala volume in first-degree relatives of patients with major depression . .
+
+24995938|Associations of amygdala reactivity with posttraumatic symptoms were robust to controls for pre-existing depression , anxiety , and PTSD symptoms and prior exposure to violence .
+
+24987761|Blockade of protein phosphatase 2B activity in the amygdala increases anxiety - and depression-like behaviors in mice . .
+
+24926249|The goal of this study was to use neuroimaging to test what the unique contribution is of depression and anxiety symptomatology on emotional processing and amygdala activation , and to compare the results with a healthy control group .
+
+24926249|We were particularly interested in the relation between depression/anxiety symptomatology and patterns of amygdala activation .
+
+24926249|However , we found that dimensional scores on an anxiety but not a depression subscale significantly predicted brain activation in the right amygdala when processing fearful , happy and neutral faces .
+
+24926249|These results suggest that anxiety symptoms are a better predictor for differentiating activation patterns in the amygdala than depression symptoms .
+
+24926249|To conclude , this study shows that abnormal amygdala responses to emotional faces in depression and anxiety seems to be more dependent on anxiety symptoms than on depression symptoms , and thereby highlights the need for more research to better characterize clinical groups in future studies .
+
+24882567|These findings may be relevant to the normalization of amygdala hyperactivity and negative mood states in patients with major depression .
+
+24830026|The MS-induced alternations of DNA methylation in the promoter region of NTSR1 in the amygdala may be associated with vulnerability to the development of anxiety disorders and depression in adulthood .
+
+24816735|Previous studies have shown that the activity of the amygdala is elevated in people experiencing clinical and subclinical levels of anxiety and depression -LRB- negative affect -RRB- .
+
+24813437|Although none of the SP subgroups showed the normative pattern of amygdala downregulation , it was those with comorbid depression specifically who showed significant upregulation .
+
+24807818|The results revealed that enhanced depression-like behaviour elicited by MgR was associated with reduced amygdala-hypothalamic protein levels of GluN1-containing NMDA complexes .
+
+24802331|There was a strong relationship between severity of depression and 5-HTT reductions in the amygdala -LRB- P = 0.01 -RRB- .
+
+24778610|This proposal thus brings forward a sensory cortical pathway to threat processing -LRB- in addition to amygdala-based processes -RRB- , potentially accounting for an alternative mechanism underlying the pathophysiology of anxiety and depression .
+
+24768903|Similar to galanin in distribution , alarin is also expressed in the medial amygdala and hypothalamus , i.e. , regions interrelated with depression .
+
+24756342|Moreover , amygdala-OFC coupling proved to be associated with depression in this genotype .
+
+24745955|Functional magnetic resonance imaging -LRB- fMRI -RRB- studies have identified increased amygdala responses to negative stimuli as a risk marker of depression in adults , and as a state marker of depression in adults and adolescents .
+
+24745955|Hyperreactivity of the amygdala has been linked to negatively biased emotional processing in depression .
+
+24745955|However , no study has elucidated whether similar amygdala perturbations can be found in healthy mid-adolescents with familial liability for depression .
+
+24745955|We hypothesized that healthy 14-year-olds with relatives with depression would demonstrate increased amygdala responses to negative stimuli , as compared with their peers with no family history of mental disorders .
+
+24745955|Both a hypothesis-driven region-of-interest analysis and a whole-brain analysis of variance revealed that negative distractors elicited greater amygdala activation in adolescents with a family history of depression compared to controls .
+
+24742621|Calcineurin downregulation in the amygdala is sufficient to induce anxiety-like and depression-like behaviors in C57BL/6J male mice . .
+
+24742621|Pharmacological -LRB- CSA -RRB- and viral-mediated gene transfer -LRB- adeno-associated viral expression of short hairpin RNA -LSB- shRNA -RSB- -RRB- approaches were used to inhibit calcineurin activity systemically or selectively in the amygdala of the mouse brain to determine the role of calcineurin in behaviors related to anxiety and depression .
+
+24742621|In the forced swim model of depression-like behavior , both systemic CsA treatment and shRNA-mediated calcineurin blockade in the amygdala significantly increased immobility .
+
+24742621|Taken together , these data demonstrate that decreasing calcineurin activity in the amygdala increases anxiety-like behaviors and to some extent depression-like behaviors .
+
+24737710|Emerging findings indicate ELT is associated with enhanced amygdala reactivity to aversive stimuli in never-depressed healthy controls as well as those with acute depression but may be absent in non-ELT exposed depressed .
+
+24737710|These findings indicate opposing system-level differences within depression relative to ELT are expressed as differential amygdala reactivity .
+
+24732411|Changes in histone acetylation and histone-modifying enzymes were examined in hippocampus , amygdala and frontal cortex which are considered critical for anxiety , depression and cognition .
+
+24719001|These are : -LRB- 1 -RRB- the deactivation of the default mode network that generates spontaneous thoughts , contributes to the maintenance of the autobiographical self and is associated with anxiety and depression ; -LRB- 2 -RRB- the anterior cingulate cortex that underpins attention functions ; -LRB- 3 -RRB- the anterior insula associated with the perception of visceral sensation , the detection of heartbeat and respiratory rate , and the affective response to pain ; -LRB- 4 -RRB- the posterior cingulate cortex which helps to understand the context from which a stimulus emerges ; -LRB- 5 -RRB- the temporoparietal junction which assumes a central role in empathy and compassion ; -LRB- 6 -RRB- the amygdala implicated in fear responses .
+
+24707138|The involvement of structures the limbic system , such as the anterior cingulate cortex , the prefrontal cortex , and the amygdala , paves the way for the discovery of the mechanisms underlying depression depression , anxiety , alexithymia , personality traits , and other psychological impairments following the onset of IBD .
+
+24694839|Phosphodiesterase 2 -LRB- PDE2 -RRB- is linked to cGMP-PKG signaling and highly expressed in the limbic brain regions including hippocampus and amygdala , which may play important roles in the treatment of depression and anxiety .
+
+24688456|Brain diseases including depression , epilepsy , autism , schizophrenia , and Alzheimer 's disease , have been associated with amygdala dysfunction .
+
+24665088|In CFS/ME patients , the BP -LRB- ND -RRB- values of -LRB- 11 -RRB- C - -LRB- R -RRB- - PK11195 in the amygdala , thalamus , and midbrain positively correlated with cognitive impairment score , the BP -LRB- ND -RRB- values in the cingulate cortex and thalamus positively correlated with pain score , and the BP -LRB- ND -RRB- value in the hippocampus positively correlated with depression score .
+
+24577365|Volumetric change in the hippocampus , amygdala , and putamen from early to mid-adolescence was associated with the onset of depression during adolescence .
+
+24577365|Sex moderated the association between amygdala growth and depression such that exaggerated growth and attenuated growth of the amygdala were associated with depression in females and males , respectively .
+
+24552994|Recently , it has been proposed that abnormalities in neuronal structural plasticity may underlie the pathogenesis of major depression , resulting in changes in the volume of specific brain regions , including the hippocampus -LRB- HIP -RRB- , the prefrontal cortex -LRB- PC -RRB- , and the amygdala -LRB- AMY -RRB- , as well as the morphology of individual neurons in these brain regions .
+
+24468014|Several studies have pointed to the amygdala as a main limbic station capable of regulating different stressful states such as anxiety and depression .
+
+24455472|Youth MDD is characterized by abnormal activations in ventromedial frontal regions , the anterior cingulate and amygdala , which are broadly consistent with the implicated role of medial network regions in the pathophysiology of depression .
+
+24406081|After 6 and 12 weeks , we quantified -LRB- 1 -RRB- clinical response -LRB- ? 50 % decrease in Hamilton Depression Rating Scale -LRB- HDRS -RRB- , -LRB- 2 -RRB- SERT occupancy in both amygdala measured by repeated -LSB- 123I -RSB- ?-CIT single photon emission computed tomography -LRB- SPECT -RRB- , and -LRB- 3 -RRB- amygdala activation when viewing fearful and angry -LRB- negative -RRB- faces with repeated functional MRI scans .
+
+24359855|If some neurofunctional abnormalities seem to be independent of mood state , others were preferentially associated with mania or depression , involving the amygdala and other limbic regions as well as ventral frontal regions , with a likely hemispheric lateralization of these abnormalities according to the thymic state that was examined .
+
+24318124|We focus on the hypothalamus , hippocampus , amygdala , nucleus accumbens , prefrontal and orbitofrontal cortex , key brain regions that not only modulate emotions and cognition but also the response to stress itself , and discuss disorders like depression , post-traumatic stress disorder , Cushing syndrome and dementia .
+
+24198772|Previous neuroimaging studies have consistently showed increased amygdala activity during the presentation of negative stimuli or regulation of negative emotion in the homozygous short allele carriers , suggesting the key role of amygdala response in mediating increased risk for depression .
+
+24198772|These results suggest that 5-HTTLPR genetic variation modulates amygdala connectivity which subsequently affects its activity during mood regulation , providing an additional mechanism by which the S allele confers depression risk .
+
+24176688|In addition , the right amygdala may play a role in depression symptomatology regardless of the side of the epileptogenic focus .
+
+24090511|Electroconvulsive therapy increases hippocampal and amygdala volume in therapy refractory depression : a longitudinal pilot study . .
+
+24090511|Therefore , the aim of the present study was to investigate the effect of ECT on hippocampus and amygdala volume in 15 antidepressant-free patients with treatment refractory depression -LRB- seven males , range 42-63 years -RRB- .
+
+24074474|Similarly , region-of-interest analyses revealed amygdalar and insular hypoperfusion in the group with depression , as well as hyperperfusion in the putamen and superior insula -LRB- p < .05 , corrected -RRB- .
+
+25508091|Systematizes the data on the role of serotonin and sex steroids in the mechanisms involved in the stress response of Amygdala , and its participation in the formation of mood , emotions and the genesis of depression .
+
+25438560|Systematizes the data on the role of serotonin and sex steroids in the mechanisms involved in the stress response of Amygdala , and its participation in the formation of mood , emotions and the genesis of depression .
+
+24059962|Discriminative regions for symptoms of depression were the right pulvinar -LRB- happy -RRB- and left amygdala -LRB- sad -RRB- .
+
+24040806|In recent years , the hypothalamus , amygdala and hippocampus have attracted increased interest with regard to the effects of stress on neurobiological systems in individuals with depression and suicidal behaviour .
+
+24040385|Abnormal functional connectivity of amygdala in late-onset depression was associated with cognitive deficits . .
+
+24038516|Distinct amygdala excitability during automatic stages of the processing of emotional faces may reflect differential pathophysiological processes in BD versus MDD depression , potentially representing diagnosis-specific neural markers mostly unaffected by current psychotropic medication .
+
+24036129|Indeed , it is suggested that amygdala abnormalities are related to the co-morbid depression and anxiety reported in MTLE .
+
+24006268|No significant genotype effects were observed on the volume or surface area of total brain , or several brain regions sometimes observed to be abnormal in human depression , including hippocampus , amygdala , or striatum .
+
+23994212|These early and late connections in the amygdala appear to reveal a negative bias to coarse expression information processing and abnormal negative modulation in patients with depression , which may critically affect depression discrimination .
+
+23968960|Prenatal maternal depression associates with microstructure of right amygdala in neonates at birth . .
+
+23968960|Adjusting for household income , maternal age , and smoking exposure , postconceptual age at magnetic resonance imaging , and birth weight , we found significantly lower fractional anisotropy -LRB- p = .009 -RRB- and axial diffusivity -LRB- p = .028 -RRB- , but not volume -LRB- p = .993 -RRB- , in the right amygdala in the infants of mothers with high compared with those with low-normal Edinburgh Postnatal Depression Scale scores .
+
+23968960|The results reveal a significant relation between antenatal maternal depression and the neonatal microstructure of the right amygdala , a brain region closely associated with stress reactivity and vulnerability for mood anxiety disorders .
+
+23965605|Stress and depression are associated with aberrant neuroplasticity in the amygdala : there is increased dendritic arborization and synaptogenesis , perhaps explaining the increased anxiety and fear that are often apparent in depressed patients .
+
+23957449|Altered neuropathic pain behaviour in a rat model of depression is associated with changes in inflammatory gene expression in the amygdala . .
+
+23957449|This study shows that neuropathic pain-related responding to an innocuous cold stimulus is altered in an animal model of depression , effects accompanied by changes in the expression of neuroinflammatory genes in the amygdala .
+
+23864672|However , synaptic depression within the context of amygdala-dependent behavior remains poorly understood .
+
+23864672|Previous work identified lateral amygdala -LRB- LA -RRB- calcium-permeable AMPA receptors -LRB- CP-AMPARs -RRB- as a key target for synaptic removal in long-term depression -LRB- LTD -RRB- and persistent fear attenuation .
+
+23850356|Taken together , the results of the present study highlight that neotrofin exhibits neuroprotective and antidepressant-like effects against CUMS induced depression , and suggest a possible mechanism for this protection via changes in synaptic plasticity within the amygdala .
+
+23844175|However , the prefrontal cortex , amygdala , and temporal poles were found to be affected differently by major depression and schizophrenia .
+
+23838294|In particular , depression and suicide are neurobiological kinds characterized by disturbances in serotonin functioning that affect various brain areas -LRB- i.e. , the amygdala , anterior cingulate , prefrontal cortex , and hippocampus -RRB- .
+
+23825863|In animal models , stress and depression are associated with excitatory changes in the amygdala ; this aberrant neuroplasticity may represent increased fear learning , explaining the anxiety , fear , and related symptoms that characterize clinical depression .
+
+23800487|Results suggest that , similar to findings in older depressed groups , depression at this age is associated with disrupted amygdala functioning during face processing .
+
+23800487|The findings also raise the intriguing possibility that disrupted amygdala function is a depression-related biomarker that spans development .
+
+23773793|We showed significantly lower ?2 * - nAChR availability -LRB- 20 % -38 % -RRB- in subjects with bipolar depression compared with euthymic and control subjects across all brain regions assessed -LRB- frontal , parietal , temporal , and anterior cingulate cortex , hippocampus , amygdala , thalamus , striatum -RRB- .
+
+23769293|Abnormalities in amygdala function have been implicated in major depression .
+
+23769293|Greater amygdala activity to target fearful faces was associated with depression , as was attenuated amygdala activity to target and peripheral happy faces .
+
+23761775|Given that the vmPFC is known to regulate amygdala activity during emotional processing , we subsequently compared the perfusion in the vmPFC and the amygdala in depression-vulnerable -LRB- having early-life stress and high in rumination -RRB- and resilient -LRB- having early-life stress and high in mindfulness -RRB- subjects .
+
+23761775|We found that depression-vulnerable subjects had increased amygdala perfusion and reduced vmPFC perfusion during the later runs than that during the earlier stressful task runs .
+
+23761775|Our results indicate that the vmPFC of depression-vulnerable subjects may have a limited capacity to inhibit amygdala activation to repeated stress over time , whereas the vmPFC in resilient individuals may adapt to stress quickly .
+
+23748930|Taken together , the prominent expression of GR protein in the human amygdala indicates that this region can form an important target for corticosteroids and stress , while the increased GR expression in major , but not bipolar , depression suggests possible involvement in the etiology of major depression .
+
+23727405|Our results reinforce prior evidence that antidepressant action does not require forebrain GR , and suggest a correlation between the absence of depression-like phenotype and combined MR up-regulation and central amygdala GR deficiency .
+
+23720503|Cortical spreading depression -LRB- CSD -RRB- , which underlies migraine aura -LRB- MWA -RRB- , induces C-fos expression in the amygdala .
+
+23717632|Moreover , secondary analyses indicate that these amygdala and caudate volume associations persist after controlling for relevant demographic and individual difference factors -LRB- i.e. , age , total grey matter volume , neuroticism , depression -RRB- .
+
+23714241|A previous study using a mouse model of depression showed that chronic immobilization stress -LRB- CIS -RRB- reduces levels of insulin-like growth factor -LRB- IGF -RRB- -2 , IGF binding protein 2 -LRB- IGFBP2 -RRB- , osteoglycin , and fibromodulin in the amygdala .
+
+23669637|Dynamic connectivity laterality of the amygdala under negative stimulus in depression : a MEG study . .
+
+23643106|Modulation of amygdala response and connectivity in depression by serotonin transporter polymorphism and diagnosis . .
+
+23643106|Increased amygdala activity was associated with 5-HTTLPR genotype in low transcription allele carriers as well as with a diagnosis of depression .
+
+23643106|The effects of genotype and diagnosis on amygdala connectivity showed a regional segregation , suggesting that 5-HTTLPR polymorphisms bias frontal-limbic connectivity while the development of depression involves more extensive neural disturbances .
+
+23641204|Female vulnerability to the development of depression-like behavior in a rat model of intimate partner violence is related to anxious temperament , coping responses , and amygdala vasopressin receptor 1a expression . .
+
+23639671|Oligodendrocyte density is changed in the basolateral amygdala in schizophrenia but not depression . .
+
+23636982|Nonetheless , amygdala activity was correlated with the severity of subclinical depression symptoms and with emotional regulation skills .
+
+23624153|As medial prefrontal cortex and amygdala are implicated in many of these disorders , understanding differential stress effects in these regions may shed light on the mechanisms underlying sex-dependent expression of disorders like depression and anxiety .
+
+23622692|The heterogeneous nature of depression suggests an involvement of multiple distinct brain regions including amygdala , prefrontal cortex and the hippocampus , which may be responsible for the diversity of the symptoms .
+
+23620758|Also , depression-specific effects of PCLO on dorsal striatal activation during negative word encoding and the absence of amygdalar salience signalling for novel positive information further suggest a role of PCLO in symptom maintenance in MDD .
+
+23615118|Therefore , we hypothesize that tDCS is a neuromodulation technique that acts over depression through the modulation of serotonergic system and that tDCS '' top-down '' antidepressant effects might not be optimal in brain networks with a hyperactive amygdala inducing bottom-up effects , such as occurs in short-carriers .
+
+23592753|In sex-specific analyses , men reporting poorer global sleep quality showed a significant association between amygdala reactivity and levels of depression and perceived stress -LRB- ? values = 0.29-0 .44 , p values < .05 -RRB- .
+
+23588187|Carriers of a risk allele for depression , that is , the short -LRB- s -RRB- allele of the serotonin transporter promoter polymorphism -LRB- 5-HTTLPR -RRB- , exhibit amygdala hyperresponsiveness to negative environmental stimuli relative to homozygous long variant -LRB- l/l -RRB- .
+
+23563720|Interestingly , mesial temporal lobe epilepsy and depression share a similar neurocircuitry involving : temporal lobes with hippocampus , amygdala and entorhinal and neocortical cortex ; the frontal lobes with cingulate gyrus ; subcortical structures , such as basal ganglia and thalamus ; and the connecting pathways .
+
+23539535|The present study was performed to investigate whether endogenous opioid system is related to the depression , and the quantitative changes of endogenous opioids induced by electrical stimulation to the amygdala .
+
+23538069|Chronic stress may contribute to affective disorders such as depression and anxiety via its effects on the amygdala .
+
+23508528|Probabilistic tractography was performed between the midbrain/raphe and two target regions implicated in depression pathophysiology -LRB- amygdala and hippocampus -RRB- .
+
+23487233|Sodium benzoate , a D-amino acid oxidase inhibitor , increased volumes of thalamus , amygdala , and brainstem in a drug-naïve patient with major depression . .
+
+23462582|When multiple regression analysis was conducted in all subjects , neither hippocampal nor amygdalar volume showed significant interaction effect between group and Geriatric Depression Scale -LRB- GDS -RRB- .
+
+23433857|GMV reductions in bilateral fusiform gyrus and amygdala were observed in concordant affected twins for anxiety and depression compared to healthy twins .
+
+23433857|As concordant affected MZ twins are believed to have a particularly high genetic liability for the disorder , our findings suggest that fusiform gyrus and amygdala gray matter reductions are related to a genetic risk for anxiety and depression .
+
+23398442|This divergent pattern between the hippocampus and amygdala mirrors a neurobiological theme seen in depression resulting from reduced hippocampal , but increased amygdalar , size and function .
+
+23385114|In several brain regions -LRB- ventral tegmental area -LRB- VTA -RRB- , cerebellum , and amygdala -RRB- , stimulation of mGluR1 selectively inhibits synaptic transmission mediated by calcium-permeable AMPA receptors -LRB- CP-AMPARs -RRB- and thus produces synaptic depression .
+
+23319313|In healthy participants , L-carriers had reduced functional and anatomical connectivity between the amygdala and prefrontal cortex -LRB- PFC -RRB- , which was correlated with anxiety or depression scores .
+
+23319313|Our findings demonstrated that in Chinese Han participants , in contrast to Caucasians , the L-allele confers vulnerability to anxiety or depression and weakens top-down emotional control between the PFC and amygdala .
+
+23261134|Furthermore , the ABD group , relative to HC , showed a prolonged response to fearful faces in right dorsolateral PFC. Clinical measures of mania and depression severity correlated with increased processing delays in the amygdala and striatum .
+
+23260340|The purpose of the present study was to investigate whether the expression of proteins involved in neuroplasticity is altered in the amygdala of individuals with depression .
+
+23260340|Basolateral amygdala -LRB- BLA -RRB- and central amygdala -LRB- CeA -RRB- postmortem human brain samples were collected from individuals with a history of depression -LRB- n = 22 and 25 , respectively -RRB- and psychiatrically healthy controls -LRB- CTRL ; n = 14 -RRB- .
+
+23260340|These results suggest that the BLA and CeA display contrasting patterns of neuroplasticity in depression , and that greater impairment of amygdalar neuroplasticity may be associated with increased risk of suicide .
+
+23238724|Individual differences in amygdala-medial prefrontal anatomy link negative affect , impaired social functioning , and polygenic depression risk . .
+
+23206875|We investigated the effect of two well characterized preclinical animal models of depression - repeated injections of corticosterone -LRB- CORT -RRB- and repeated restraint stress - on markers of GABAergic and glutamatergic activity in the hippocampus and amygdala .
+
+23206667|Models describing the neural correlates of biased emotion processing in depression have focused on increased activation of anterior cingulate and amygdala and decreased activation of striatum and dorsolateral prefrontal cortex .
+
+23184639|These findings prompt further studies to better delineate intrinsic and externally evoked brain connectivity in anxiety and depression in relation to amygdala dysfunction .
+
+23176970|Higher baseline activity in amygdala and ventral and mesial prefrontal cortex and lower activity in left dorsal lateral prefrontal cortex were associated with higher depression scores .
+
+23171695|Mood-congruent amygdala responses to subliminally presented facial expressions in major depression : associations with anhedonia . .
+
+23154094|The neural responses in the left amygdala are significantly correlated with the severity of depression and comorbid anxiety .
+
+23149149|We detected moderate effects for high postdexamethasone cortisol levels -LRB- odds ratio -LSB- OR -RSB- 3.28 ; 95 % confidence interval -LSB- CI -RSB- 1.28-8 .39 ; P = .01 -RRB- , lower serum brain-derived neurotrophic factor levels -LRB- standardised mean difference -LSB- SMD -RSB- -0.52 ; 95 % CI -0.84 to -0.21 ; P = .001 -RRB- , smaller amygdala volumes -LRB- SMD -0.45 ; 95 % CI -0.89 to -0.02 ; P = .04 -RRB- , and a small effect for overall brain perfusion reduction -LRB- SMD -0.35 ; 95 % CI -0.64 to -0.06 ; P = .02 -RRB- , respectively , to poststroke depression .
+
+23143517|For females , adolescent amygdala-vmPFC functional connectivity was inversely correlated with concurrent anxiety symptoms but positively associated with depressive symptoms , suggesting differing pathways from childhood cortisol levels function through adolescent amygdala-vmPFC functional connectivity to anxiety and depression .
+
+23128924|Low levels of brain-derived neurotrophic factor -LRB- BDNF -RRB- and reduced markers for GABA function , including in the amygdala , are reported in major depression , but their contribution to subgenual anterior cingulate cortex dysfunction is not known .
+
+23125828|In the CBCT group , we found a trend increase in right amygdala response to negative images , which was significantly correlated with a decrease in depression score .
+
+23124623|These low-expressing alleles are linked to increased risk for depression and brain activation patterns found in depression -LRB- increased amygdala activation and decreased amygdala-prefrontal cortex connectivity -RRB- .
+
+23108923|The serotonin transporter gene has received the most attention in relation to depression , either alone or in conjunction with exposure to stressful life events -LRB- i.e. a gene x environment interaction -RRB- , whereas neuroimaging studies have suggested an association with amygdala activation .
+
+23092981|We investigated the effects of stereotaxic infusion of activin into the hippocampus and the amygdala in a behavioural model of depression .
+
+23071305|These data suggest that altered amygdala neuroplasticity may play a role the early dispositional risk to develop anxiety and depression .
+
+23036622|Here we review the evidence from brain imaging and postmortem studies demonstrating that depression is accompanied by structural and functional alterations of cortical and limbic brain regions , including the prefrontal cortex , hippocampus and amygdala .
+
+23034517|We hypothesized that healthy adolescents at increased genetic and environmental risk for developing mood disorders -LRB- depression and anxiety -RRB- would demonstrate increased amygdala reactivity to emotional stimuli compared to those with only one such risk factor or those with none .
+
+23033120|The activation of amygdala and DLPFC correlated negatively with the severity of depression .
+
+23033120|To conclude , semantic processing deficits in depression are modulated by emotional valence of the stimulus on the behavioral as well as on neural level in right-lateralized prefrontal areas and the amygdala .
+
+23022470|Different studies have found that PSA-NCAM expression in the hippocampus and the amygdala is altered in schizophrenia , major depression and animal models of these disorders , in parallel to changes in the expression of molecules related to inhibitory neurotransmission and synaptic plasticity .
+
+23021193|A magnetic resonance imaging study of hippocampal , amygdala and subgenual prefrontal cortex volumes in major depression subtypes : melancholic versus psychotic depression . .
+
+25558229|The overall depression severity -LRB- total scores of Hamilton Depression Rating Scale -RRB- was negatively correlated with the statistical probabilistic anatomical map results in the left amygdala and right inferior frontal gyrus .
+
+22940575|Studies on these animal models point to some potential mechanisms that could explain epilepsy and depression comorbidity , such as various components of the dopaminergic , noradrenergic , serotonergic , and GABAergic systems , as well as key brain regions , like the amygdala and hippocampus .
+
+22886588|Individuals with SLE often exhibit emotional dysregulation , such as lability and depression ; however , the behavioral impact of possible amygdala dysfunction has yet to be studied in this population .
+
+22867951|Impact of family history and depression on amygdala volume . .
+
+22867951|Higher familial risk in depression seems to be associated with smaller amygdala volumes , whereas depression alone is associated with larger amygdala volumes .
+
+22855869|The amygdala , which develops neuropathology in the early stage of AD and is involved in the pathogenesis of depression , may be an important brain structure involved in the association between EPA and cognitive decline and depressive symptoms .
+
+22854930|Increased amygdala responses to sad but not fearful faces in major depression : relation to mood state and pharmacological treatment . .
+
+22854930|The purpose of this study was to determine whether abnormal amygdala responses to face emotions in depression are related to specific emotions or change in response to antidepressant treatment and whether they are present as a stable trait in medication-free patients in remission .
+
+22854930|Patients with current depression had increased bilateral amygdala responses specific to sad faces relative to healthy comparison subjects and nonmedicated patients in stable remission .
+
+22832909|Moreover , the PCLO risk allele appears to modulate amygdala function during fearful facial processing in MDD and may constitute a possible link between genotype and susceptibility for depression via altered processing of fearful stimuli .
+
+22828748|Despite being implicated in the emotional symptoms of depression , the amygdala has received little attention compared to the hippocampus in the past studies of antidepressant action .
+
+22828162|Regression analysis revealed that treatment response was predicted by pre-treatment SERT binding ratios , i.e. , SERT binding in key regions of depression including bilateral habenula , amygdala-hippocampus complex and subgenual cingulate cortex in relation to SERT binding in the median but not dorsal raphe nucleus -LRB- p < 0.05 FDR-corrected -RRB- .
+
+22820234|The present study attempts to explore the mechanisms underlying the antidepressant-like action of curcumin by measuring the contents of brain derived neurotrophic factor -LRB- BDNF -RRB- in the amygdala of animal model of depression .
+
+22814368|However , among women with PMDD follicular phase progesterone serum concentrations were positively correlated with bilateral amygdala reactivity while depression scores were positively correlated with right amygdala reactivity in the luteal phase .
+
+22785087|Trait liability to depression and depressive symptoms are associated with reduced structural connectivity in tracts connecting the prefrontal cortex with the amygdala and anterior temporal cortex .
+
+22773540|While the amygdala hypoactivation observed in bipolar II depression is opposite to the direction seen in bipolar I mania and may therefore be state dependent , the observed orbitofrontal cortex hypoactivation is consistent with findings in bipolar I depression , mania , and euthymia , suggesting a physiologic trait marker of the disorder .
+
+22770650|However , in dimensional analyses , the severity of depression symptoms at the baseline preschool assessment predicted increased responses to sad faces in amygdala , hippocampal , parietal , and orbital frontal regions .
+
+22751491|Strongest reductions were found in regions consistently reported to be altered in major depression and involved in emotion regulation , such as the subgenual part of the anterior cingulate cortex -LRB- -27.5 % -RRB- , the orbitofrontal cortex -LRB- -30.1 % -RRB- , the amygdala -LRB- -31.8 % -RRB- , the hippocampus -LRB- -30.6 % -RRB- and the insula -LRB- -28.9 % -RRB- .
+
+22732813|The neurobiological model of depression in women presents vulnerabilities for some cerebral structures -LRB- hippocampus , frontal cortex , cerebral amygdala -RRB- .
+
+24175168|An increased dendritic arborisation and synaptogenesis may instead be observed in the amygdala as a consequence of depression and stress-related disorders .
+
+22698761|Major depressive disorder -LRB- MDD -RRB- is accompanied by morphological changes of brain structures which are of great importance in the neural circuitry mediating depression like the hippocampus and the amygdala .
+
+22698761|We used magnetic resonance imaging to investigate alterations of amygdala and hippocampal volumes in 86 in-patients with unipolar depression and 87 healthy controls , and we then correlated amygdala and hippocampal volumes of 76 in-patients with the area under the curve of cortisol secretion in the dexamethasone/corticotropin releasing hormone -LRB- Dex/CRH -RRB- test at baseline and during short-term antidepressant therapy .
+
+22696400|Major depression has been repeatedly associated with amygdala hyper-responsiveness to negative -LRB- but not positive -RRB- facial expressions at early , automatic stages of emotion processing using subliminally presented stimuli .
+
+22696400|Because childhood maltreatment is a potent risk factor for the development of major depression in later life , we explored whether childhood maltreatment is associated with amygdalar emotion processing bias in maltreated but healthy subjects .
+
+22696400|Childhood maltreatment is apparently associated with detectable changes in amygdala function during early stages of emotion processing which resemble findings described in major depression .
+
+22688188|Anandamide levels in the basolateral amygdala were increased by extinction training and augmented by systemic AM3506 , whereas application of AM3506 to amygdala slices promoted long-term depression of inhibitory transmission , a form of synaptic plasticity linked to extinction .
+
+22682158|However , neuroimaging studies have not so far revealed consistent evidence of abnormal responses to emotional stimuli in limbic structures , such as the amygdala , in remitted depression .
+
+22672618|Here we investigated gene expression changes in the amygdala in the chronic immobilization stress -LRB- CIS -RRB- - induced depression model .
+
+22659393|We also assessed effects of subclinical anxiety and depression on amygdala-prefrontal coupling during negative -LRB- versus neutral -RRB- word reading .
+
+22659393|Both negative and positive words activated the amygdala , and negative-word processing revealed a positive correlation between amygdala activity and scores of trait anxiety and subclinical depression .
+
+22652466|A volumetric analysis of the hippocampal head , body and tail , as well as the amygdala was performed to determine whether volume differences in these structures in PD relate to depression .
+
+22652466|The present study found intact limbic connectivity but suggests that amygdala atrophy may be present in Parkinson 's disease with depression .
+
+22639242|Strong feature weights were observed in the amygdala for the negative faces condition , which were specific to unipolar depression , whereas higher amygdala features weights during the positive faces condition were observed , specific to bipolar subjects .
+
+22631618|A search was conducted on PubMed using the keywords : bipolar disorder , fMRI , mania , bipolar depression , bipolar euthymia , emotion , and amygdala .
+
+22578782|An antidepressant effect of testosterone can be implicitly explained by its effects on the limbic system -- especially amygdala , a major target in the treatment of depression -- solidly demonstrated by a large body of neuroimaging findings .
+
+22571805|For conditions in which adults with MDD displayed abnormal amygdala activity versus HC , within-group analyses examined amygdala activity as a function of scores on a continuous measure of lifetime depression-related and mania-related pathology .
+
+22531751|Group II metabotropic glutamate -LRB- mGlu -RRB- receptors are known to induce a long-term depression -LRB- LTD -RRB- of synaptic transmission in many brain regions including the amygdala .
+
+22510359|It is suggested that polymorphic variation at the oxytocin receptor gene -LRB- rs2254298 -RRB- is associated with sociability , amygdala volume and differential risk for psychiatric conditions including autism , depression and anxiety disorder , depending on the quality of early environmental experiences .
+
+22483075|Moreover , the severity of current depressed mood was associated with increased activity in limbic regions , such as the amygdala , particularly in children with a history of depression .
+
+22450197|The greater left amygdala response to negative emotion for women accords with previous reports that women respond more strongly to negative emotional stimuli , as well as with hypothesized links between increased neurobiological reactivity to negative emotion and increased prevalence of depression and anxiety disorders in women .
+
+22420593|The right amygdala was significantly more positively correlated with the left inferior frontal gyrus during mania and with the right insula during depression .
+
+22420592|Our findings suggest major differences in recruitment of amygdala-PFC circuitry , supporting implicit emotion processing between remitted-BD and depressed-BD subjects , which may underlie changes from remission to depression in BD .
+
+22407082|The amygdala is especially reactive to threatening stimuli , and the degree of reactivity predicts individual differences in the expression of depression and anxiety .
+
+22403745|The rCBF in the right amygdala was significantly correlated with depression severity .
+
+22401827|Imaging analyses demonstrated that adolescents with depression showed : -LRB- 1 -RRB- greater right amygdala activation during the maintain condition relative to controls , -LRB- 2 -RRB- less connectivity during the maintain condition between the amygdala and both the insula and medial prefrontal cortex than controls , and -LRB- 3 -RRB- a significant positive correlation between amygdala-seeded connectivities during maintenance of emotion and psychosocial functioning .
+
+22401827|During the maintain condition , adolescents with depression showed a heightened amygdala response and less reciprocal activation in brain regions that may modulate the amygdala .
+
+22398297|For the MDD group , there was a significant positive correlation between the activity of the amygdala and scores on the Chinese version of the Center for Epidemiologic Studies Depression Scale .
+
+22342800|The rAAV-Y5 vector injected into the hippocampus and amygdala induced a pronounced and sustained increase in Y5 receptor mRNA expression and functional Y5 receptor binding , but no significant effects were found with regard to anxiety - and depression-like behaviours or seizure susceptibility .
+
+22289045|Both animal and human studies suggest that cognitive bias toward negative information , such as that observed in major depression , may arise through the interaction of cortisol -LRB- CORT -RRB- and norepinephrine -LRB- NE -RRB- within the amygdala .
+
+22264442|Comparative gene array analysis in the amygdala and cingulate cortex between the serotonin transporter knockout mouse , a genetic animal model replicating features of human depression , and existing brain transcriptome data from postmortem tissue derived from clinically depressed humans was conducted to identify genes with similar changes across species -LRB- i.e. , conserved -RRB- that may help explain risk of depressive-like phenotypes .
+
+22264442|Selected results were confirmed by real-time quantitative polymerase chain reaction , including upregulation in the amygdala of transcripts for ADCY7 , a gene previously implicated in human depression and associated with altered emotional responsiveness in mouse models .
+
+22258799|We examined amygdala and mPFC reactivity to emotional faces -LRB- Angry , Fearful , Sad , Happy , Neutral -RRB- vs scrambled faces in healthy controls and unmedicated patients with depression and/or anxiety disorders reporting CEM before the age of 16 years -LRB- n = 60 -RRB- , and controls and patients who report no childhood abuse -LRB- n = 75 -RRB- .
+
+22256828|Previous morphometric brain imaging studies have focused on the role of the amygdala in the context of pathologic neuropsychiatric conditions like depression , personality disorders , and dysphoric and aggressive behaviour in epilepsy .
+
+22251150|Kainate receptor-mediated depression of glutamatergic transmission involving protein kinase A in the lateral amygdala . .
+
+22174802|As extraversion is regarded a protective factor for developing anxiety disorders and depression and has been related to the generation of positive affect , the present results indicate that the reduced likelihood of developing affective disorders in individuals high on extraversion is related to modulation of emotion processing through the orbitofrontal cortex and the amygdala .
+
+22112927|Since both depression and PTSD have been associated with increased amygdala responsiveness to negative stimuli as well as reduced hippocampal gray matter volume , we speculated that childhood maltreatment results in similar functional and structural alterations in previously maltreated but healthy adults .
+
+22097208|-LSB- Effects of chaihu shugan powder on the behavior and expressions of BDNF and TrkB in the hippocampus , amygdala , and the frontal lobe in rat model of depression -RSB- . .
+
+22097208|To investigate the effects of Chaihu Shugan Powder -LRB- CHSGP -RRB- on the behavior and the expressions of brain-derived neurotrophic factor -LRB- BDNF -RRB- and its receptor tyrosine kinase receptors B -LRB- TrkB -RRB- in the hippocampus , amygdala , and the frontal lobe of depression model rats .
+
+22037127|We hypothesized rCBF changes along the afferent pathway of the vagus and in regions associated with depression -LRB- eg , orbitofrontal cortex , amygdala , insular cortex -RRB- .
+
+21961777|Functional connectivity of the amygdala in early-childhood-onset depression . .
+
+21924326|GPR26-deficient mice display increased anxiety - and depression-like behaviors accompanied by reduced phosphorylated cyclic AMP responsive element-binding protein level in central amygdala . .
+
+21912391|Molecular evidence for BDNF - and GABA-related dysfunctions in the amygdala of female subjects with major depression . .
+
+21900567|In contrast , 42 % of animals displayed persistent decreased serum and hippocampus BDNF concentrations , reduced hippocampal volume and neurogenesis , CA3 dendritic retraction and decrease in spine density , as well as amygdala neuron hypertrophy , constituting latent vulnerability traits to depression .
+
+21888185|The aim of this study is to compare the volumes of hippocampus , amygdala and subgenual prefrontal cortex among patients with melancholic depression , patients with psychotic depression and normal controls .
+
+21888185|In conclusion , melancholic and psychotic depression were not differentiated regarding the volumes of the hippocampus , the amygdala , and anterior and posterior subgenual cortex , even though amygdala volumes and left anterior subgenual cortex volume of both patient groups were differentiated compared to controls .
+
+21878364|Neuroimaging studies examining depression have implicated the amygdala as an important potential locus of dysfunction in the processing of salient threatening stimuli .
+
+21878364|The present findings raise the possibility that cognitive vulnerability to depression might be characterized by hypoactivation of the prefrontal cortex and hyperactivation of the amygdala in response to emotional stimuli ; our observations might provide a potential interpretation to explain the abnormalities in neural networks mediating cognitive modulation of emotions in individuals with cognitive vulnerability to depression .
+
+21875617|Here , we compare the magnitude of long-term potentiation -LRB- LTP -RRB- and long-term depression -LRB- LTD -RRB- in the lateral nucleus of the amygdala -LRB- LA -RRB- after euthanasia following either ether or isoflurane anesthesia , as well as in mice decapitated without anesthesia .
+
+21873832|Although numerous neuroimaging studies have examined depressed elders , there is limited research examining how amygdala volume may be related to depression .
+
+21873832|A cross-sectional examination of amygdala volume comparing elders with and without a diagnosis of major depressive disorder , and between depressed subjects with early and later initial depression onset .
+
+21873832|Limitations include missing antidepressant treatment data , recall bias , inability to establish a causal relationship between amygdala size and depression given the cross-sectional nature of the design .
+
+21873832|Depression in later life is associated with smaller amygdala volumes , regardless of age of initial onset of depression .
+
+21871534|Furthermore , the connectivity degree of amygdala related functional connection was positively correlated with the duration of depression .
+
+21855859|Furthermore , amygdala -LSB- -LRB- 11 -RRB- C -RSB- AFM BP -LRB- ND -RRB- was inversely correlated with both Hamilton Rating Scale for Anxiety scores -LRB- r = -.55 , p = .035 -RRB- and Montgomery-Åsberg Depression Rating Scale scores -LRB- r = -.56 , p = .029 -RRB- .
+
+21855859|Our findings of abnormally reduced amygdala 5-HTT binding in PTSD and its association with higher anxiety and depression symptoms in PTSD patients support a translational neurobiological model of PTSD directly implicating dysregulated 5-HTT signaling within neural systems underlying threat detection and fear learning .
+
+21849983|Here , we show that stress-induced development of anxiety-like behavior is paralleled by a transient appearance of low-frequency stimulation-induced , 2-AG-mediated long-term depression at GABAergic synapses in the basolateral amygdala , a key region involved in motivation , affective regulation , and emotional learning .
+
+21819983|Chronic stress in experimental animals , one of the most accepted models of chronic anxiety and depression , induces structural remodeling of principal neurons in the amygdala and increases its excitation by reducing inhibitory tone .
+
+21788943|One prominent theoretical perspective highlights the top-down inhibition of amygdala by ventromedial prefrontal cortex -LRB- vmPFC -RRB- as a crucial neural mechanism that may be defective in certain mood and anxiety disorders , such as major depression and post-traumatic stress disorder .
+
+21764567|Recent attempts to understand the biological bases of depression vulnerability have revealed that both the short allele of the serotonin transporter-linked polymorphic region -LRB- 5-HTTLPR -RRB- and activity in the amygdala are associated with depression .
+
+21764567|Other studies have reported amygdala hyperactivity associated with the 5-HTTLPR short allele , linking the genetic and neuroimaging lines of research and suggesting a mechanism whereby the short allele confers depression risk .
+
+21764567|However , fewer investigations have examined the associations among depression , 5-HTTLPR variability , and amygdala activation in a single study .
+
+21742442|I speculate that , in depersonalization disorder , the increased glutamate activity in prefrontal cortex is due to intrinsic imbalance , resulting in long-term potentiation , at the postsynaptic glutamate receptors on the GABAerg interneurons while the same receptor abnormality at the synapses on the intercalated GABAerg cells of the amygdala result in long-term depression in the case of either normal or high glutamate release .
+
+21741179|Indeed , in mood disorders -LRB- unipolar depression , anxiety disorders , autism or schizophrenia -RRB- glial changes in brain regions involved in mood control -LRB- prefrontal and cingulate cortices , amygdala and the hippocampus -RRB- have been recurrently described .
+
+21740626|Here , we studied whether memory bias is related to amygdala and hippocampal volume , two structures that are critical for emotional memory processes and that show consistent volume alterations in depression .
+
+21740626|This suggests that an increased amygdala : hippocampus volume ratio plays a role in cognitive vulnerability often seen in individuals with high risk for depression and that these structural brain differences may pre-date the onset of depression .
+
+21716262|Differential activity by polymorphic variants of a remote enhancer that supports galanin expression in the hypothalamus and amygdala : implications for obesity , depression and alcoholism . .
+
+21713456|The neural processing of negative emotion postpartum : a preliminary study of amygdala function in postpartum depression . .
+
+21713456|The observation of relative amygdala non-responsivity in subjects demonstrating greater depression symptomotology stands in contrast to imaging studies of MDD and provides insight into possible phenotypic differences of PPD .
+
+21664935|Subtle amygdala development abnormalities may underlie particular vulnerabilities to sub-diagnostic depression and anxiety in teenage female marijuana users .
+
+21657113|Here , we briefly summarize the most consistent structural magnetic resonance imaging -LRB- MRI -RRB- studies on amygdala in major depression and debate the effects of clinical variables on amygdalar morphology .
+
+21654599|While there is decreased activity in amygdala with treatment for mania or depression among patients with PBD , there appears to be residual increased amygdala activity regardless of response , relative to healthy controls , suggesting a trait-like abnormality .
+
+21632648|These data support the existence of a common abnormality in anxiety and depression in the ventral cingulate and the amygdala , which may be related to a shared genetic etiology .
+
+21618660|Multiple linear regression analysis was performed to test the main effects of the Geriatric Depression Scale -LRB- GDS -RRB- and Rey Auditory Verbal Learning Test delayed recall -LRB- RAVLT-DR -RRB- scores , and their interaction on the intrinsic amygdala functional connectivity -LRB- AFC -RRB- network activity .
+
+21616602|In addition , elevated CRF in cerebrospinal fluid is observed in mood and anxiety disorder patients , suggesting that CRF is also being overproduced from extrahypothalamic sources such as the central amygdala -LRB- CeA -RRB- and overactivity of the amygdala in neuroimaging studies is a consistent finding in anxiety and depression patients .
+
+21542937|Hence , baseline differences in amygdalar circadian regulation of cellular metabolism may contribute to sex-related differences in mood regulation and vulnerability to major depression .
+
+21396459|The amygdala plays an important role in emotional and social functions , and amygdala dysfunction has been associated with multiple neuropsychiatric disorders , including autism , anxiety , and depression .
+
+21354978|Correlation analyses using behavioural scales of the premutation groups showed significant associations between grey matter loss in the left amygdala and increased levels of obsessive-compulsiveness and depression , and between decreased grey matter in the left inferior frontal cortex and anterior cingulate cortex and poor working memory performance .
+
+21320489|In view of these observations , the aims of this review are -LRB- 1 -RRB- to describe the neuroplasticity deficits observed in diabetic rodents and patients ; -LRB- 2 -RRB- to summarize the similarities in the clinical and preclinical studies of depression and diabetes ; and -LRB- 3 -RRB- to highlight the diabetes-induced neuroplasticity deficits in those brain regions that have been implicated as important pathological centers in depressive illness , namely , the hippocampus , the amygdala and the prefrontal cortex .
+
+21312047|The aim of the present study was to utilize this model to gain insight into underlying mechanisms by quantifying amygdala/hypothalamus protein expression using gel-based proteomics and correlating changes in protein expression with changes in depression-like behavior .
+
+21283580|Relative to control subjects , patients with depression showed increased hemodynamic responses in limbic-paralimbic and subcortical regions -LRB- e.g. amygdala and basal ganglia -RRB- but no signal decrease in prefrontal regions .
+
+21282604|In the basolateral amygdala complex , it has been demonstrated that CB -LRB- 1 -RRB- is particularly enriched in axon terminals of cholecystokinin -LRB- CCK -RRB- - positive GABAergic interneurons , induces short - and long-term depression at inhibitory synapses , and is involved in extinction of fear memory .
+
+21276593|Heightened amygdala reactivity to aversive stimuli in major depression is regarded as a core feature of the underlying physiology but individual differences in amygdala response may also arise secondary to persistent changes in limbic function during early neurodevelopment relative to stressors such as childhood trauma .
+
+21276593|We sought to determine whether heightened amygdala response is a core feature of depression or a general risk factor for psychopathology secondary to early life stress .
+
+21276593|Group differences in amygdala response suggest heightened reactivity was not characteristic of persons with depression in general but was true primarily in those with a significant history of abuse .
+
+21276593|These findings suggest the relationship between childhood trauma and risk for depression is mediated by heightened amygdala response but varies by abuse type .
+
+21257158|Depressed patients responded to positive social feedback with increased amygdala activation , demonstrating that amygdala hyperresponsivity in depression is not restricted to negatively-valenced stimuli .
+
+21254899|The effect of GRPR deletion on depression-like behavior and its molecular signature in the amygdala , however , has not yet been evaluated .
+
+21254899|We propose that deletion of GRPR leads to the induction of depression-like behavior which is paralleled by dysregulation of amygdala gene expression , potentially resulting from deficient light-induced corticosterone release in GRPR-KO .
+
+21200389|A promoter polymorphism in the serotonin transporter gene -LRB- 5-HTTLPR -RRB- has been reported to confer relative risk for phenotypes -LRB- depression/anxiety -RRB- and endophenotypes -LRB- amygdala reactivity -RRB- .
+
+21198246|Neuroendocrinal changes that occur during depression -LRB- principally hypercortisolaemia -RRB- produce structural and functional alterations to the prefrontal cortex , hippocampus , and amygdala , plus the connectivity between these regions of the brain .
+
+21195195|Neuroimaging studies have consistently linked depression to hyperactivation of a -LRB- para -RRB- limbic affective processing network centered around the amygdala .
+
+21162125|We found diminished medial perforant path-granule cell long-term potentiation -LRB- LTP -RRB- , complementing previous investigations of synaptic plasticity in Fmr1-KO demonstrating impaired LTP in CA1 , neocortex , and amygdala and exaggerated long-term depression in CA1 .
+
+21131999|Here , we present an overview of the current knowledge concerning BDNF actions and associated intracellular signaling in hippocampus , prefrontal cortex , nucleus accumbens -LRB- NAc -RRB- and amygdala as their relation to depression .
+
+21130225|Prenatal interaction produced anxiety , depression-like responses , and altered social behavior that were accompanied by decreased reactivity of the hypothalamic-pituitary-adrenal axis , attenuated serotonin neurotransmission in the hippocampus , reduced enlargement of lateral ventricles , decreased volumes of amygdala and periaqueductal gray matter and density of spines on dendrites of granule cells of the hippocampus .
+
+21098407|Patients with PD with the highest scores for depression symptoms showed significantly raised ¹¹ C-DASB binding in amygdala , hypothalamus , caudal raphe nuclei , and posterior cingulate cortex compared to low score cases , while ¹¹ C-DASB binding values in other regions were similarly decreased in depressed and nondepressed patients with PD compared to healthy controls .
+
+21079605|Gene expression patterns in the hippocampus and amygdala of endogenous depression and chronic stress models . .
+
+21079605|Genome-wide microarray analyses identified differentially expressed genes in hippocampi and amygdalae of the endogenous depression and the chronic stress models .
+
+21037982|Adult depression-like behavior , amygdala and olfactory cortex functions are restored by odor previously paired with shock during infant 's sensitive period attachment learning . .
+
+21037982|Following neonatal odor-shock pairings , but not unpaired controls , adults without the odor present showed increased depression-like behavior in the Forced Swim Test and Sucrose Preference Test and a deficit in paired-pulse inhibition in amygdala and piriform -LRB- olfactory -RRB- cortex .
+
+20952073|Relative to the controls , the participants with increased familial risk of depression -LRB- FH -RRB- had diminished responses in left dorsolateral prefrontal cortex -LRB- DLPFC -RRB- to the presentation of fearful faces while the activity in the amygdala did not distinguish the groups .
+
+20941370|Abnormal functional connectivity was found within three resting-state networks in depression : -LRB- 1 -RRB- decreased bilateral amygdala and left anterior insula connectivity in an affective network , -LRB- 2 -RRB- reduced connectivity of the left frontal pole in a network associated with attention and working memory , and -LRB- 3 -RRB- decreased bilateral lingual gyrus connectivity within ventromedial visual regions .
+
+20936701|Prominent increases in galanin gene expression were found in several brain regions involved in regulation of epileptic activity and depression , including the piriform cortex , hippocampal dentate gyrus , and amygdala .
+
+20884329|GluN2B subunits of the NMDA receptor contribute to the AMPA receptor internalization during long-term depression in the lateral amygdala of juvenile rats . .
+
+20869122|Association between depression severity and amygdala reactivity during sad face viewing in depressed preschoolers : an fMRI study . .
+
+20869122|Previous research has indicated that symptom severity and amygdala reactivity during the viewing of facial expressions of emotion are related in depression .
+
+20869122|A region of interest approach was used in order to examine the relationship between amygdala activation and depression severity .
+
+20869122|Findings indicated that depressed preschoolers exhibited a significant positive relationship between depression severity and right amygdala activity when viewing facial expressions of negative affect .
+
+20869122|The results suggest that , similar to older children and adults with depression , amygdala responsivity and degree of depression severity are related as early as age 3 .
+
+20851110|These data demonstrate that brain region-specific changes in GR expression in response to DMI are strain dependent and that elevated amygdalar Nor-1 expression can contribute to depressive behavior in the WKY model of depression .
+
+20843875|Abnormally reduced dorsomedial prefrontal cortical activity and effective connectivity with amygdala in response to negative emotional faces in postpartum depression . .
+
+20843875|The authors examined activity in response to negative emotional faces in the dorsomedial pre-frontal cortex and amygdala , key emotion regulatory neural regions of importance to both mothering and depression .
+
+20843875|In depressed mothers , there was also a significant negative correlation between left amygdala activity and postpartum depression severity and a significant positive correlation between right amygdala activity and absence of infant-related hostility .
+
+20843875|Reduced amygdala activity in response to negative emotional faces is associated with greater postpartum depression severity and more impaired maternal attachment processes in postpartum depressed mothers .
+
+20817488|We used semi-automated software for magnetic resonance imaging -LRB- MRI -RRB- to measure the volumes of the hippocampus , amygdala , ACC and subgenual prefrontal cortex -LRB- SGPFC -RRB- in 15 female patients with familial recurrent major depression -LRB- MD -RRB- and 15 healthy female subjects .
+
+20816900|CRS caused a significant increase in depression-like behaviour that was associated with increased NPY mRNA levels in the medial amygdala .
+
+20816900|Concomitant FLX treatment reverted depression-like effects of CRS and led to significant increases in levels of NPY and galanin mRNA in the dentate gyrus , amygdala , and piriform cortex .
+
+20800687|Episodic memory impairment is considered to be a core cognitive deficit of Major Depressive Disorder -LRB- MDD -RRB- and has motivated a line of research investigating the role of the amygdala and the hippocampus in depression .
+
+20686132|However , depression and anxiety disorders involve multiple areas of the brain , such as the amygdala and prefrontal cortex , where neurogenesis does not appear to occur in the adult mammalian brain .
+
+20684832|In the amygdala there are significant NAA deficits in schizophrenia and depression and significant deficits of NAAG in the amygdala in the depression group .
+
+20659172|Increased susceptibility for developing exaggerated fear responses was accompanied by decreased long-term depression and increased surface trafficking of the AMPA receptor GluR1 subunit at the level of the basolateral amygdala complex .
+
+20655508|Learning in three tasks , for which memory consolidation has been shown to depend on local synaptic refinement in areas of interest -LRB- hippocampus-dependent declarative word-pair learning , amygdala-dependent fear conditioning , and primary-cortex-dependent visual texture discrimination -RRB- , was assessed in 23 inpatients who met International Classification of Disease , 10th Revision , criteria for severe unipolar depression and 35 nondepressed comparison subjects .
+
+20655508|The results of the study are consistent with the neuroplasticity hypothesis of depression , showing decreased synaptic plasticity in a dorsal executive network that comprises the hippocampus and elevated synaptic plasticity in a ventral emotional network that includes the amygdala in depression .
+
+20630713|The response-focused emotion regulation style ` Expressive suppression ' has been associated with symptoms of lower psychological well-being and increased function magnetic resonance imaging -LRB- fMRI -RRB- activation of the sublenticular extended amygdala -LRB- SLEA -RRB- in patients with major depression .
+
+20623764|We examined the antidepressant-like effects of infusion of ALLO into the cerebral ventricle , hippocampus , amygdala , nucleus accumbens , or prefrontal cortex of learned helplessness -LRB- LH -RRB- rats -LRB- an animal model of depression -RRB- .
+
+20472131|The amygdala has received considerable attention because of its established role in specific behaviors and disorders such as anxiety , depression , and autism .
+
+20445054|The central and basolateral amygdala are critical sites of neuropeptide Y/Y2 receptor-mediated regulation of anxiety and depression . .
+
+20445054|To identify the precise anatomical site -LRB- s -RRB- of Y2-mediated anxiogenic action , we investigated the effect of site-specific deletion of the Y2 gene in amygdaloid nuclei on anxiety and depression-related behaviors in mice .
+
+20444504|The aim to find a morphological biomarker of disturbed activity of the lateral amygdaloid nucleus in depression was approached by a karyometric analysis of projection neurons .
+
+20390390|A PubMed search of all English-language articles published between 1966 and March 2009 was performed with the following search terms : depression , mood disorders , hippocampus , amygdala , central nervous system , brain , neuroimaging , volumetric , morphometric , and neurocognitive deficits , cross-referenced with DM .
+
+20378100|This enhanced excitability of amygdala neurons after chronic stress may explain the observed hyperresponsiveness of the amygdala in patients with posttraumatic stress disorder and may facilitate the emergence of depression or anxiety in other patients .
+
+20376317|Robust shifts in amygdala-cingulate gene synchrony were observed in subjects with major depressive disorder -LRB- MDD , denoted here '' depression '' -RRB- -LRB- n = 14 ; MDD/Permutated data , p < 0.000001 -RRB- , significantly affecting between 100 and 250 individual genes -LRB- 10-30 % false discovery rate -RRB- .
+
+20233962|In contrast , depression was associated with more activity in the anterior cingulate cortex -LRB- dorsal ACC and rostral ACC -RRB- and the bilateral amygdala .
+
+20233962|Results imply that depression , particularly when accompanied by anxious arousal , may result in a failure to implement top-down processing by appropriate brain regions -LRB- left DLPFC , right IFG -RRB- due to increased activation in regions associated with responding to emotionally salient information -LRB- right DLPFC , amygdala -RRB- .
+
+20215925|Adolescents with major depression demonstrate increased amygdala activation . .
+
+20215925|Thus , the main purpose of this study was to further our knowledge of the underlying neural substrates of adolescent depression by examining the bilateral amygdala specifically and the whole brain in depressed adolescents compared to healthy controls .
+
+20215925|These results suggest that -LRB- 1 -RRB- depressed adolescents without a comorbid psychiatric disorder exhibit an abnormally hyperactive amygdala compared to healthy controls ; -LRB- 2 -RRB- models of adult depression might be extended to include depressed adolescents ; and -LRB- 3 -RRB- neuropsychiatric interventions that have been developed in depressed adults should be further examined in adolescents .
+
+20191578|In FM patients with increased levels of pain intensity , greater fatigue , and more symptoms of depression , inositol levels in the right amygdala and right thalamus were significantly higher .
+
+20159144|Abnormal left and right amygdala-orbitofrontal cortical functional connectivity to emotional faces : state versus trait vulnerability markers of depression in bipolar disorder . .
+
+20159144|In BD , abnormally elevated right amygdala-OFC FC to sad stimuli might represent a trait vulnerability for depression , whereas abnormally elevated left amygdala-OFC FC to sad stimuli and abnormally reduced amygdala-OFC FC to intense happy stimuli might represent a depression state marker .
+
+20141298|These findings indicate that mindfulness is associated with intrinsic neural activity and that changes in resting amygdala activity could be a potential mechanism by which mindfulness-based depression treatments elicit therapeutic improvement .
+
+20062812|Role of the amygdala in antidepressant effects on hippocampal cell proliferation and survival and on depression-like behavior in the rat . .
+
+20062812|Therefore , our study highlights a role for the amygdala on fluoxetine-stimulated cell survival and on the establishment of a link between cell proliferation and depression-like behavior .
+
+20062812|Our findings underscore the amygdala as a potential target to modulate antidepressants ' action in hippocampal neurogenesis and in their link to depression-like behaviors .
+
+20004914|Thus , while memory processing of positive information in the amygdala and posterior cingulate cortex is biased during depression only , memory processing in the fusiform gyrus and prefrontal cortex is biased also after recovery .
+
+19931855|Elevated amygdala activity to sad facial expressions : a state marker of bipolar but not unipolar depression . .
+
+19931855|It is unclear , however , whether abnormal amygdala activity during positive and negative emotion processing represents a persistent marker of BD regardless of illness phase or a state marker of depression common or specific to BD and MDD depression .
+
+19931855|Abnormally elevated left amygdala activity to mild sad and neutral faces might be a depression-specific marker in BD but not MDD , suggesting different pathophysiologic processes for BD versus MDD depression .
+
+19929444|We investigated in the rat the effects of a single exposure to psychophysical -LRB- electrical foot shock -RRB- vs. psychological -LRB- social defeat -RRB- stressors on anxiety - and depression-related behaviors , serum levels of corticosterone and the expression of plasticity-related genes CAM-L1 , CREB , GAP-43 , and laminin in the prefrontal cortex -LRB- PFC -RRB- , the amygdala and the hippocampus .
+
+19913058|Several lines of research on mood disorders reveal that depression involves a dysfunction in an affective fronto-limbic circuitry that involves the prefrontal cortices , the cingulate cortex , several limbic structures including the amygdala and the hippocampus , lower brainstem structures and the basal ganglia .
+
+19912476|Stress pathologies such as depression and eating disorders -LRB- i.e. anorexia nervosa -RRB- are associated with amygdalar dysfunction , which are linked with hypothalamic-pituitary-adrenal axis -LRB- HPA -RRB- axis hyperactivity .
+
+19884610|Scores on the Vietnamese versions of the Hopkins Symptom Checklist-25 -LRB- HSCL -RRB- and Harvard Trauma Questionnaire for depression and posttraumatic stress disorder , respectively ; cerebral regional cortical thickness ; and manual volumetric morphometry of the amygdala , hippocampus , and thalamus .
+
+19878138|The aim of this study was to investigate whether in adult patients with ADHD hippocampal or amygdala volumes differs from that in healthy controls and patients with major depression -LRB- MD -RRB- .
+
+19878138|In ADHD , more hyperactivity and less inattention were associated with smaller right amygdala volumes , and more symptoms of depression with larger amygdala volumes .
+
+19858108|Several neuroimaging studies have shown that 5-HTTLPR genotype predicts amygdala reactivity to negatively valenced stimuli , suggesting a mechanism whereby the short allele confers depression risk .
+
+19858108|These results demonstrate the effect of the S allele on amygdala activity during intentional mood regulation and suggest that amygdala hyperactivity during recovery from a sad mood may be one mechanism by which the S allele confers depression risk .
+
+19775504|Here we report that fear conditioning resulted in an increase in AMPA/NMDA ratio as well as depression of paired-pulse facilitation -LRB- PPF -RRB- in neurons of the lateral nucleus of amygdala .
+
+19748075|Automatic mood-congruent amygdala responses to masked facial expressions in major depression . .
+
+19748075|Furthermore , amygdala responsiveness to happy facial expression was negatively correlated with current depression severity .
+
+19748075|Thus , depression is characterized by mood-congruent processing of emotional stimuli in the amygdala already at an automatic level of processing .
+
+19415422|We propose that trigeminovascular projections from the medullary dorsal horn to selective areas in the midbrain , hypothalamus , amygdala and basal forebrain are functionally positioned to produce migraine symptoms such as irritability , loss of appetite , fatigue , depression and the quest for solitude .
+
+19716552|Blockade of protein phosphatase 2B activity in the amygdala increases anxiety - and depression-like behaviors in mice . .
+
+19716552|Pharmacological CsA and viral-mediated gene transfer -LRB- adeno-associated viral expression of short hairpin RNA -LSB- AAV-shRNA -RSB- -RRB- approaches were used to inhibit calcineurin activity globally and selectively in the amygdala of the mouse brain to determine the role of calcineurin in behaviors related to depression and anxiety .
+
+19716552|In the forced swim and tail suspension models of depression-like behavior , calcineurin blockade in the amygdala increased immobility similarly to manipulations that lead to a depression-like phenotype .
+
+19716552|Taken together , these data demonstrate that decreasing calcineurin activity in the amygdala increases anxiety - and depression-like behaviors .
+
+19706319|Chronic stress increased oxidative metabolism in several depression-related brain regions in male but not female LC-rats such as amygdala , hippocampus and anterior thalamus .
+
+19703521|Glucocorticoid hormones have been shown to contribute to many cognitive functions , such as depressions , learning and memory , and abnormal glucocorticoid secretion results in functional changes in prefrontal cortex and amygdala .
+
+19605536|A molecular signature of depression in the amygdala . .
+
+19605536|Large-scale gene expression was monitored in postmortem tissue from the anterior cingulate cortex and amygdala in paired male subjects with familial major depression and matched control subjects without major depression -LRB- N = 14-16 pairs -RRB- .
+
+19605536|Significant and bidirectional predictions of altered gene expression were identified in amygdala between major depression and the UCMS model of depression .
+
+19605536|These studies demonstrate that the biological liability to major depression is reflected in a persistent molecular pathology that affects the amygdala , and support the hypothesis of maladaptive changes in this brain region as a putative primary pathology in major depression .
+
+19545982|To assess amygdala processing in individuals with unipolar depression , we applied a functional MRI -LRB- fMRI -RRB- paradigm previously shown to be sensitive to amygdala function .
+
+19545982|While both depressed and healthy groups showed increased amygdala activity when viewing emotive faces compared to geometric shapes , patients with unipolar depression showed relatively more activity than healthy subjects , particularly on the left .
+
+19520177|Increased amygdala and decreased dorsolateral prefrontal BOLD responses in unipolar depression : related and independent features .
+
+19490038|Behavioral depression induced by an amygdala seizure and the opioid fentanyl was mediated through the nucleus accumbens . .
+
+19490038|The hypothesis that an opioid fentanyl and an amygdala-evoked seizure induced behavioral depression through the nucleus accumbens was tested .
+
+19490038|The behavioral depression induced by an amygdala-kindled seizure was studied in fully kindled rats , with or without prior injection of fentanyl -LRB- 0.05 mg/kg , s.c. -RRB- .
+
+19482603|We describe anatomical structures that are activated and/or altered in response to both depression and pain -- examples include the insular cortex , the prefrontal cortex , the anterior cingulate cortex , the amygdala , and the hippocampus .
+
+19482265|Positive correlation between the density of neuropeptide y positive neurons in the amygdala and parameters of self-reported anxiety and depression in mesiotemporal lobe epilepsy patients . .
+
+19482265|Cell counts were related to self-reported depression , anxiety , quality of life , clinical parameters -LRB- onset and duration of epilepsy , seizure frequency -RRB- , antiepileptic medication , and amygdala and hippocampal magnetic resonance imaging volumetric measures .
+
+19482265|Densities of NPY-positive basolateral amygdala neurons showed significant positive correlations with depression and anxiety scores , and they were negatively correlated with lamotrigine dosage .
+
+19474217|Both NR2A and NR2B subunits of the NMDA receptor are critical for long-term potentiation and long-term depression in the lateral amygdala of horizontal slices of adult mice . .
+
+19460420|Activity-dependent depression of medial prefrontal cortex inputs to accumbens neurons by the basolateral amygdala . .
+
+19452633|Criticism may be a risk factor for relapse because it activates the amygdala and perturbs the affective circuitry that underlies depression .
+
+19450794|Abnormal amygdala-prefrontal effective connectivity to happy faces differentiates bipolar from major depression . .
+
+19450794|Abnormal , left-sided , top-down OMPFC-amygdala and right-sided , bottom-up , amygdala-OMPFC EC during happy labeling distinguish BD and MDD , suggesting different pathophysiological mechanisms associated with the two types of depression .
+
+19441665|In bipolar depression , a reduced metabolism in the dorsolateral prefrontal cortex and increased metabolism in amygdala and thalamus were reported .
+
+19403806|Acid-sensing ion channel-1a in the amygdala , a novel therapeutic target in depression-related behavior . .
+
+19403806|Restoring ASIC1a to the amygdala of ASIC1a -LRB- - / - -RRB- mice with a viral vector reversed the forced swim test effects , suggesting that the amygdala is a key site of ASIC1a action in depression-related behavior .
+
+19403806|These data are consistent with clinical studies emphasizing the importance of the amygdala in mood regulation , and suggest that ASIC1a antagonists may effectively combat depression .
+
+19394960|Reduced amygdala volume in newly admitted psychiatric in-patients with unipolar major depression . .
+
+19394960|Structural neuroimaging studies investigating amygdala volumes in patients suffering from major depression have yielded variable results .
+
+19394960|This study of a sample of unmedicated depressed in-patients adds to the small , yet growing , body of evidence linking untreated major depression to reduced amygdala volume .
+
+19335934|The BDNF Val66Met polymorphism impacts parahippocampal and amygdala volume in healthy humans : incremental support for a genetic risk factor for depression . .
+
+19284230|Reduced amygdalar-thalamic and amygdalar-SACC connections could be a contraindication to DBS for depression .
+
+19211996|Here , we examined the regulation of BDNF expression in the hippocampus and amygdala of rats subjected to the chronic mild stress -LRB- CMS -RRB- model of depression , a paradigm that induces anhedonia , a core symptom of depression .
+
+19193712|The current study tested the hypothesis that the projections from the infralimbic -LRB- IL -RRB- area of the medial prefrontal cortex -LRB- mPFC -RRB- to the basolateral nucleus of the amygdala -LRB- BLA -RRB- , a pathway relevant to stress-related mental illnesses like depression and post-traumatic stress disorder , would have a unique pattern of remodeling in response to chronic stress .
+
+19176279|Criticism may be a risk factor for relapse because it activates the amygdala and perturbs the affective circuitry that underlies depression .
+
+19153574|Here we examined the explicit interactions between the brain-derived neurotrophic factor -LRB- BDNF -RRB- Val66Met gene and early life stress -LRB- ELS -RRB- exposure in brain -LRB- amygdala-hippocampal-prefrontal gray matter volume -RRB- , body -LRB- heart rate -RRB- , temperament and cognition in 374 healthy European volunteers assessed for depression and anxiety symptoms .
+
+19087175|Intracerebroventricular -LRB- i.c.v. -RRB- infusion of IL-1ra 4 h after i.p. LPS injection attenuated the reduction in social interaction , a cardinal sign of behavioural depression during sickness , and c-Fos expression in the amygdala and bed nucleus of the stria terminalis .
+
+19085964|In this study , we examined the morphometric basis for these functional changes in late-life depression -LRB- LLD -RRB- by analyzing both the size and shape of the amygdalae with the hypothesis that shape differences may be apparent even when overall volume differences are inconsistent .
+
+19028381|The amygdala and hippocampus play a key role in the neural circuitry mediating depression .
+
+19028381|It remains unclear how much structural and functional changes of amygdala and hippocampus reflect the acute state of depression or an underlying neurobiological trait marker of depression .
+
+19028381|Neurotoxic effects might account for the fact that state-related amygdala enlargement has not been found in recurrent depression with relative long illness duration .
+
+19008895|We found that healthy controls have a strong association between the 5-HTTLPR and GM volumes of the dorsolateral prefrontal cortex , left anterior gyrus cinguli , left amygdala as well as right hippocampus , whereas there is no such association in patients with major depression .
+
+18838040|The amygdala , striatum , and structures within the prefrontal cortex are highly involved in mediating these stages of emotion processing , and evidence indicates that these regions show structural and functional alterations in different types of psychopathology , including anxiety , depression , and autism spectrum disorders .
+
+18837865|To investigate neural activity in prefrontal cortex and amygdala during bipolar depression .
+
+18787661|Effect of hippocampal and amygdala volumes on clinical outcomes in major depression : a 3-year prospective magnetic resonance imaging study . .
+
+18787661|In a prospective , longitudinal study , we examined the hippocampus and amygdala of 30 inpatients with major depression from the Department of Psychiatry and Psychotherapy and 30 healthy participants from the community -LRB- control group -RRB- using high-resolution magnetic resonance images at baseline and after 3 years .
+
+18717711|In right TLE patients , left and right amygdala activation was significantly related to preoperative anxiety and depression levels , and preoperative right amygdala activation correlated significantly with postoperative change of anxiety and depression scores , characterized by greater increases in anxiety and depression in patients with greater preoperative activation .
+
+18628348|A hypersensitive amygdala is associated with both a genetic polymorphism and a pattern of negative cognitive biases and dysfunctional beliefs , all of which constitute risk factors for depression .
+
+18628348|Further , the combination of a hyperactive amygdala and hypoactive prefrontal regions is associated with diminished cognitive appraisal and the occurrence of depression .
+
+18614671|A polymorphism in the human serotonin transporter -LRB- 5-HTT -RRB- gene is implicated in susceptibility to anxiety and depression and in enhanced emotion-induced activation in the amygdala .
+
+18603301|Decreased functional coupling of the amygdala and supragenual cingulate is related to increased depression in unmedicated individuals with current major depressive disorder . .
+
+18586109|Disrupted top-down control by the prefrontal cortex of the amygdala may underlie this abnormal response to negative feedback in unipolar depression .
+
+18570704|Elevated levels of NR2A and PSD-95 in the lateral amygdala in depression . .
+
+18570704|The present study investigated glutamate signalling proteins in the amygdala from depressed subjects , given strong evidence for amygdala pathology in depression .
+
+18570704|Increased levels of NR2A and PSD-95 suggest that glutamate signalling at the NMDA receptor in the amygdala is disrupted in depression .
+
+18568105|The neural model of a dysfunction of limbic prefrontal cortical structures that impairs the modulation of the amygdala in major depression may explain the present results .
+
+18559283|After eight weeks of SSRI antidepressant treatment , patients with depression showed significantly increased DLPFC activity to unattended fear-related stimuli and no longer differed from controls in either DLPFC or amygdala activity .
+
+18550030|These data provide further support for elevated amygdala activity in depression and suggest that anterior cingulate activity may be a predictor of treatment response to both pharmacotherapy and CBT .
+
+18544183|Reduced amygdala-prefrontal coupling in major depression : association with MAOA genotype and illness severity . .
+
+18504424|In this meta-analysis we examine results from magnetic resonance imaging volumetry studies of the amygdala in depression in order to assess both the nature of the relationship between depression and amygdala volume as well as the influence of extraexperimental factors that may account for significant variability in reported findings .
+
+18504424|The lack of a reliable difference in amygdala volume between depressed and never-depressed individuals was accounted for by a positive correlation between amygdala volume differences and the proportion of medicated depressed persons in study samples : whereas the aggregate effect size calculated from studies that included only medicated individuals indicated that amygdala volume was significantly increased in depressed relative to healthy persons , studies with only unmedicated depressed individuals showed a reliable decrease in amygdala volume in depression .
+
+18504424|These findings are consistent with a formulation in which an antidepressant-mediated increase in levels of brain-derived neurotrophic factor promotes neurogenesis and protects against glucocorticoid toxicity in the amygdala in medicated but not in unmedicated depression .
+
+18450931|Hippocampal and amygdalar volumes in psychotic and nonpsychotic unipolar depression . .
+
+18450931|Neuroanatomical studies of subjects with depression have often examined hippocampal and amygdalar structures , since they are two key structures of the limbic system .
+
+18450931|The purpose of the present study was to examine differences in hippocampal and amygdalar volumes in patients with depression subtypes relative to healthy comparison subjects .
+
+18450931|Correlational analyses suggested that age of depression onset was strongly associated with amygdala volume .
+
+18450931|However , psychotic but not nonpsychotic depression was associated with reduced amygdala volume .
+
+18450931|Reduced amygdala volume was not associated with severity of depression or severity of psychosis but was associated with age at onset of depression .
+
+18450931|Smaller amygdala volume may be a risk factor for later development of psychotic depression .
+
+18450931|In addition , chronicity of depression and depression subtype might be two important factors associated with hippocampal and amygdalar volumes in depression .
+
+18412626|Cortical spreading depression modulates synaptic transmission of the rat lateral amygdala . .
+
+18402630|Therefore , we hypothesized that adolescents with bipolar depression successfully treated with lamotrigine would show decreases in amygdalar activation , and increases in prefrontal activation .
+
+18402630|Activation in bilateral amygdalae and dorsolateral prefrontal cortices -LRB- DLPFC -RRB- for negative minus neutral pictures was correlated with Children 's Depression Rating Scale -LRB- CDRS -RRB- scores .
+
+18396414|To test this hypothesis , we assessed amygdala responses to an emotional faces paradigm during functional magnetic resonance imaging in monozygotic twin pairs discordant for the risk of anxiety and depression -LRB- n = 10 pairs -RRB- and in monozygotic twin pairs concordant for high -LRB- n = 7 pairs -RRB- or low -LRB- n = 15 pairs -RRB- risk for anxiety and depression .
+
+18396414|Our findings indicate amygdala hyperactivity in subjects who are at high risk for anxiety and depression through environmental factors and amygdala hypoactivity in those at risk mainly through genetic factors .
+
+18391157|Multiple linear regression analyses did not reveal a significant association with hippocampal or amygdalar volume for any of the depression parameters .
+
+18391157|Cox regression analyses showed that subjects with early onset depression had an increased risk for AD -LRB- HR 3.76 ; 95 % CI 1.41 to 10.06 -RRB- , independent of hippocampal and amygdalar volume , whereas this risk was 2.34 -LRB- 95 % CI 0.82 to 6.69 -RRB- in subjects with a late-onset depression .
+
+18387137|While no difference of allelic distribution between patients and controls was detected , the described effect of 5-HTR -LRB- 1A -RRB- genotype on amygdala volume was found for the whole group of patients , as well as in the subgroup of patients with comorbid major depression -LRB- P = 0.004 -RRB- but not in controls .
+
+18371940|Dopamine receptor gene expression in human amygdaloid nuclei : elevated D4 receptor mRNA in major depression . .
+
+18371940|Previous findings from this laboratory demonstrating changes in dopamine -LRB- DA -RRB- transporter and D2 receptors in the amygdaloid complex of subjects with major depression indicate that disruption of dopamine neurotransmission to the amygdala may contribute to behavioral symptoms associated with depression .
+
+18371940|In addition , relative levels of mRNA of DA receptors in the basal amygdaloid nucleus were measured postmortem in subjects with major depression and normal control subjects .
+
+18371940|Elevated DA receptor gene expression in depressive subjects further implicates altered dopaminergic transmission in the amygdala in depression .
+
+18329735|The development of the prefrontal cortex , hippocampus , amygdala and ventral striatum is described from a translational perspective as they relate to stress exposure , onset , pathogenesis and gender differences in depression .
+
+18289936|Patients with clinical depression showed areas of significantly lower current density than non-depressed patients in delta band at left anterior temporal , left midtemporal -LRB- including amygdala and hippocampus -RRB- , and both frontopolar cortices mostly on the right ; and in theta band at bilateral parietal lobe , anterior cingulate and medial frontal cortex .
+
+18257652|Poor functioning of amygdala has also been associated with anxiety , autism , depression , narcolepsy , post-traumatic stress disorder , phobias , frontotemporal dementia , and schizophrenia .
+
+18072812|Impairment of neuroplasticity in the hippocampus , amygdala and cortex is hypothesized to be the mechanism by which cognitive function , learning , memory and emotions are altered in depression .
+
+18043766|In the present study , we extended the paradigm to a sample of 35 inpatients suffering from depression to investigate the effect of amygdala reactivity on automatic negative judgmental bias and clinical characteristics in depression .
+
+17986682|This study compares amygdala and nucleus accumbens activation in children and adolescents at high and low risk for major depression under varying attentional and emotional conditions .
+
+17947358|Dysregulation of neuronal crh expression in the paraventricular nucleus of the hypothalamus correlates with some forms of depression , and amygdalar crh expression may modulate levels of anxiety .
+
+17825840|This pattern of altered function is consistent with animal models of stress responses and depression , where hypertrophic changes in the amygdala and atrophic changes in the ACC are observed .
+
+17825840|While the histological basis for GMC changes in adult clinical populations is poorly-known at present , the observed pattern is consistent with the direction of change , in animal models of anxiety and depression , of neuronal number and/or morphological complexity in both the amygdala -LRB- where it is increased -RRB- and ACC -LRB- where it is decreased -RRB- .
+
+17719567|Compared with control subjects , patients with depression showed an enhanced amygdala response to unattended fear-related stimuli -LRB- relative to unattended neutral -RRB- .
+
+17714920|Monoamines and dehydroepiandrosterone -LRB- DHEA -RRB- levels were measured in a genetic animal model for childhood depression in four subcortical structures : nucleus accumbens -LRB- Nac -RRB- , ventral tegmental area -LRB- VTA -RRB- , amygdala and hypothalamus .
+
+17699669|These findings indicate that a key feature underlying the pathophysiology of major depression is the counterproductive engagement of right prefrontal cortex and the lack of engagement of left lateral-ventromedial prefrontal circuitry important for the downregulation of amygdala responses to negative stimuli .
+
+17688985|However , within the MDD group , the severity of depression correlated with the activity of the left amygdala , bilateral inferior orbitofrontal areas , and the left insula to negative pictures , whereas there were no clear indications of association between specific cerebral regions and positive pictures .
+
+17598644|These experiments suggest that rapid neurotransmitters changes observed in the nucleus accumbens and amygdala , are possibly related to immobility and emotional states such as anxiety , aversion and/or depression caused by pain .
+
+17585888|Activation during successful inhibitory events in bilateral inferior frontal and left amygdala , insula , and nucleus accumbens and during unsuccessful inhibition -LRB- commission errors -RRB- in rostral anterior cingulate predicted post-treatment improvement in depression symptoms .
+
+17562698|In this critical review , we examine the feasibility of identifying biomarker of bipolar disorder by discussing existing findings regarding functional abnormalities in neural systems underlying emotion processing -LRB- amygdala centered -RRB- , working memory , and attention -LRB- dorsolateral prefrontal cortex centered -RRB- that persist through bipolar depression and remission and are bipolar specific rather than common to unipolar depression .
+
+17550594|The amygdala plays an important role in affective states and disorders such as anxiety and depression .
+
+17545449|The right amygdala volume was negatively correlated with visual new learning and not related to depression , anxiety , irritability , agitation or apathy at baseline or 12-month follow-up .
+
+17545449|However , baseline amygdala volume was negatively correlated with Hamilton depression scores at 12 months in healthy comparison subjects .
+
+17545449|It is not related to psychopathology except that small amygdalae may increase vulnerability to depression .
+
+17511971|This study examined amygdala volume and its potential association with early onset major depression .
+
+17511618|Reductions in the density and ultrastructure of oligodendrocytes are also detected in the prefrontal cortex and amygdala in depression .
+
+17406646|5-HTTLPR biases amygdala activity in response to masked facial expressions in major depression . .
+
+17406646|Increased amygdala reactivity has been discussed in the context of major depression .
+
+17406646|In the present study , amygdala reactivity to displays of emotional faces was measured by means of fMRI at 3T in 35 patients with major depression and 32 healthy controls .
+
+17404118|To examine the effect of the BDNF Val66Met polymorphism on hippocampal and amygdala volumes in patients with major depression and in healthy control subjects .
+
+17353912|The goal of this study was to identify new molecular targets associated with suicide and with major depression using oligonucleotide microarrays in the limbic system -LRB- amygdala , hippocampus , anterior cingulate gryus -LRB- BA24 -RRB- and posterior cingulate gyrus -LRB- BA29 -RRB- -RRB- .
+
+17350756|We correlated Beck Depression Inventory -LRB- BDI -RRB- scores from 16 adolescents with prefrontal , anterior cingulate , and amygdala activity during functional magnetic resonance imaging -LRB- FMRI -RRB- of the Stroop Interference task .
+
+17345879|Age-related processes , including arteriosclerosis , inflammatory and degenerative diseases , may compromise the integrity of prefrontostriatal pathways and amygdala leading to increased vulnerability to depression .
+
+17291590|The observed relation between reduced olfactory sensitivity and depressive symptoms could be mediated by functional deviations within brain structures subserving primary olfactory processing such as amygdala and piriform cortex which is in line with results showing abnormal activity pattern in the amygdala and other brain regions in depression .
+
+17289261|Angiotensin II suppresses long-term depression in the lateral amygdala of mice via L-type calcium channels . .
+
+17284168|Serotonergic genes modulate amygdala activity in major depression . .
+
+17284168|This study used an imaging genomics approach to investigate amygdala activity in major depression as a function of common functional polymorphisms in the serotonin transporter gene -LRB- 5-HTTLPR -RRB- and the serotonin receptor 1A gene -LRB- 5-HT -LRB- 1A -RRB- -1019 C/G -RRB- .
+
+17284168|In 27 medicated patients with major depression , amygdala responses to happy , sad and angry faces were assessed using functional magnetic resonance imaging at 3 Tesla .
+
+17259350|The integrity of the amygdala may influence mood disturbances in TLE patients with HS , as depression was associated with a relative preservation of the contralateral amygdala .
+
+17234600|We used a 5-HTT knock-out -LRB- KO -RRB- mouse to examine the effects of genetically driven loss of 5-HTT function for the following : -LRB- 1 -RRB- depression-related behavior in response to repeated stress , and pavlovian fear conditioning , extinction , and extinction recall ; and -LRB- 2 -RRB- dendritic morphology and spine density of Golgi-stained pyramidal neurons in the infralimbic cortex -LRB- IL -RRB- and the basolateral amygdala -LRB- BLA -RRB- .
+
+17215168|We examined the relationship between self-reported depression severity and both structural MRI volumetry and -LSB- -LRB- 18 -RRB- F -RSB- fluorodeoxyglucose positron emission tomography -LRB- PET -RRB- - measured resting metabolism of the amygdala and hippocampus of 18 patients with TLE .
+
+17215168|Significant positive relationships were noted between right and left amygdala volumes and depression .
+
+17215168|These findings indicate that both right and left amygdala volumes are associated with depression severity among persons with TLE .
+
+17156697|However , the existing literature on human psychiatry and behavior supports our reported evidence for a neurobiologic relationship between symptoms of anxiety and depression with amygdala structure and function .
+
+17062369|Furthermore , the control of motivational behaviour and dopamine release is apparently modified by hippocampal and amygdala activity , both brain regions showing pathological changes in schizophrenia and depression .
+
+17055560|It may also be relevant to other regions of the CNS where estrogen is known to exert profound effects , such as amygdala and hypothalamus ; and may provide greater insight into neurological disorders and psychiatric illness , including Alzheimer 's disease , depression and epilepsy .
+
+17032778|Based on functional MRI and perfusion data , we found support for a model by which life stress interacts with the effect of serotonin transporter genotype on amygdala and hippocampal resting activation , two regions involved in depression and stress .
+
+17027931|Increased amygdala and decreased dorsolateral prefrontal BOLD responses in unipolar depression : related and independent features . .
+
+17027931|This study explored relationships between amygdala and DLPFC activity during emotional and cognitive information processing in unipolar depression .
+
+17027931|Decreased relationships between the time-series of amygdala and DLPFC activity were observed within tasks in depression , but different depressed individuals showed each type of bias .
+
+17027930|These results confirm previous reports that bipolar depression is associated with abnormally increased metabolism in the amygdala , ventral striatum , orbitofrontal cortex , anterior cingulate , and anterior insula , and extend these results to bipolar disorder type II depressives on lithium or divalproex .
+
+17010993|Anticipation of aversive stimuli activates extended amygdala in unipolar depression . .
+
+17010993|Hamilton depression scores of the patients correlated positively with activation of the left and right ventral amygdala during expectation of negative stimuli .
+
+17010993|We interpret enhanced activation in the amygdala/SLEA as a possible consequence of altered future thinking in patients suffering from depression .
+
+16981862|This depression is almost always seen in hippocampus but less in amygdala .
+
+16950223|This study examined whether amygdala modulates memory for negatively valenced words before and after a sad mood induction in healthy individuals with and without a history of recurrent major depression .
+
+16950223|These results are consistent with cognitive diathesis-stress theories and suggest a role for the amygdala in modulating mood-congruent memory during transient sad mood in individuals who are vulnerable to depression relapse .
+
+16930719|Serotonin transporter gene status predicts caudate nucleus but not amygdala or hippocampal volumes in older persons with major depression . .
+
+16930719|Although hippocampal and amygdala volumes were smaller in those with depression as compared with control subjects , 5-HTT gene status did not predict this reduction in size .
+
+16924019|Lewy bodies in the amygdala increase risk for major depression in subjects with Alzheimer disease . .
+
+16924019|Major depression was present in 11 -LRB- 9 % -RRB- AD alone cases , and in 25 -LRB- 18 % -RRB- of the AD + LBs cases ; amygdala : 8 -LRB- 31 % -RRB- , scores 1 to 2 : 1 -LRB- 5 % -RRB- , scores 3 to 6 : 3 -LRB- 11.5 % -RRB- , and scores 7 to 10 : 13 -LRB- 14 % -RRB- .
+
+16924019|Major depression was associated with LBs , in general -LRB- relative risk -LSB- RR -RSB- = 3.06 , 95 % CI : 1.25 to 7.46 -RRB- , with amygdala only LBs -LRB- RR = 8.56 -LRB- 95 % CI : 1.83 to 40.3 -RRB- , and with LB scores 7 to 10 -LRB- RR = 3.83 , 95 % CI : 1.33 to 11.0 -RRB- .
+
+16924019|There was an association between all amygdala LBs cases -LRB- amygdala only LBs + LB scores 7 to 10 -RRB- and major depression -LRB- RR = 4.77 , 95 % CI : 1.78 to 12.7 -RRB- , but no association was noted between LBs and depression in the absence of amygdala LBs -LRB- RR = 0.96 , 95 % CI : 0.46 to 1.06 -RRB- .
+
+16924019|Lewy bodies -LRB- LBs -RRB- in the amygdala and in cortical areas increase the risk for major depression in Alzheimer disease .
+
+16924019|That is , all of the cases with cortical LBs also had LBs in the amygdala , making this region the critical area for the development of depression .
+
+16837173|It was speculated that ECT affected both the prefrontal cortex , commonly assumed to be involved in depression , and the amygdala , known to play a central role in the processing of emotional stimuli , through the limbic-cortical-striatal-pallidal-thalamic circuit .
+
+16828176|Moreover , it could provide a hint that amygdala MAPK activation might be involved in the formation of depression-like behavior .
+
+16815618|The amygdala has a role in the modulation of moods and emotion , processes that are known to be affected in people with psychiatric disorders such as schizophrenia and depression .
+
+16802879|The iSTART model shows how autistic behavioral symptoms may arise from prescribed breakdowns in these brain processes , notably a combination of underaroused emotional depression in the amygdala and related affective brain regions , learning of hyperspecific recognition categories in the temporal and prefrontal cortices , and breakdowns of adaptively timed attentional and motor circuits in the hippocampal system and cerebellum .
+
+16647726|In addition , chronic pain patients have an increased incidence of depression and anxiety , stress-related disorders that are frequently accompanied by disturbances in the limbic system -LRB- e.g. hippocampus and amygdala -RRB- and the HPA axis .
+
+16611092|Pharmacological and genetic studies in rodents have shown that GRPRs in brain areas such as the dorsal hippocampus and amygdala are importantly involved in regulating synaptic plasticity and aspects of behavior that might be altered in disorders such as anxiety , schizophrenia , depression , autism and dementia .
+
+26989796|Relevant sources were identified from PubMed and Medline databases using a combination of keywords including depression , pain , prevalence , co-morbidity , biological and psychological mechanisms , serotonin -LRB- 5-HT -RRB- , norepinephrine -LRB- NE -RRB- , hypothalamic-pituitary-adrenal -LRB- HPA -RRB- axis , amygdala , functional magnetic resonance imaging -LRB- fMRI -RRB- , antidepressant and psychological therapy .
+
+16563623|We investigated the possible involvement of nicotinic and dopaminergic signalling in the central nucleus of the amygdala -LRB- CeA -RRB- and dorsolateral bed nucleus of the stria terminalis -LRB- dlBNST -RRB- in the anhedonic depression-like effect of precipitated nicotine withdrawal in rats .
+
+16554740|A review and update of mechanisms of estrogen in the hippocampus and amygdala for anxiety and depression behavior . .
+
+16554740|Brain targets for E2 's effects on anxiety and depression include the hippocampus and amygdala .
+
+16554740|Administration of an ER antagonist to the hippocampus , but not amygdala , increases anxiety and depression behavior of naturally receptive female rats .
+
+16494851|The high levels of NK -LRB- 1 -RRB- receptor binding in the amygdala as well as preclinical studies demonstrating increased release of substance P and corresponding internalisation of NK -LRB- 1 -RRB- receptors in the basolateral amygdala in response to stressful stimuli suggest that the BLA may represent a potential site of action for NK -LRB- 1 -RRB- receptor antagonists in anxiety and/or depression .
+
+16482088|Since the amygdala CRF system mediates stress - and anxiety-related behaviors and alterations in amygdala function are associated with psychopathology , we examined amygdala CRF-BP gene expression in post-mortem brains from subjects with major depression , bipolar disorder , and schizophrenia as well as in controls .
+
+16476409|Correlation of amygdala volume with depression in BPD patients might indicate a causal relationship .
+
+16470804|Based on the anxiety and depression literatures , we predicted correlations with a network of brain structures , including ventral and medial prefrontal cortex -LRB- encompassing anterior cingulate cortex and orbitofrontal cortex -RRB- , insular cortex , anterior temporal pole , ventral striatum , and the amygdala .
+
+16460693|Emotional disorders such as depression and anxiety have been associated with hyperactivity of the amygdala , but it is unknown whether antidepressant treatment directly affects amygdala responses to emotionally significant information .
+
+16402133|Determining the regulatory systems that support PPTA expression in the amygdala may provide important insights into the causes of depression and anxiety related disorders and will provide avenues for the development of novel therapies .
+
+16380239|Does amygdalar perfusion correlate with antidepressant response to partial sleep deprivation in major depression ? .
+
+16380239|These novel amygdalar findings are consistent with the overarousal hypothesis of SD as well as other functional imaging studies showing increased baseline amygdalar activity in depression and decreased amygdalar activity with remission or antidepressant medications .
+
+16303186|While there is abundant evidence for a role of 5-HT and the amygdala in anxiety and depression , the role of 5-HT in this brain region in schizophrenia is less well understood .
+
+16258903|We propose that trigeminovascular projections from the medullary dorsal horn to selective areas in the midbrain , hypothalamus , amygdala , and basal forebrain are functionally positioned to produce migraine symptoms such as irritability , loss of appetite , fatigue , depression , or the quest for solitude .
+
+16254430|Logistic regression analysis was performed predicting MCI from anterior and mid-ventricular brain ratios , cortical atrophy measures , hippocampal volumes , volumes of amygdala and white matter hyperintensities after adjusting for age , gender , years of education , depression and physical disability .
+
+16213626|We present two examples of this kind of cross-talk : -LRB- i -RRB- the possibility that the success of well-being therapy following pharmacological treatment for depression as a means of preventing recurrent depressive episodes is based on the stimulation of enrichment of dendritic networks in the hippocampus and spine retraction in the basolateral amygdala ; -LRB- ii -RRB- the possibility that the release of intracerebral oxytocin is a mediating factor between persistently supportive social environments and reduced disease in later life , as exemplified by low levels of allostatic load .
+
+16205774|The present study seeks to determine out whether cell proliferation is altered in the hippocampus , subventricular zone -LRB- SVZ -RRB- , and basolateral amygdala of adult rats exposed to bilateral olfactory bulbectomy , another established model of depression and , if so , how imipramine effects bulbectomy-induced changes of cell genesis .
+
+16204204|Furthermore , theta pulse stimulation elicited long-term depression in the amygdala in nonimplanted and sham-implanted controls , whereas the same stimulation protocol stimulation caused LTP in kindled rats .
+
+16154203|In addition to investigating normal synaptic function , this preparation provides opportunities to investigate this synapse in animals which have received drugs chronically or have been manipulated genetically to model specific mental diseases known to involve prefrontal cortex and/or amygdala pathology -LRB- e.g. , schizophrenia , addiction , anxiety , and depression -RRB- .
+
+16056122|Using functional magnetic resonance imaging in a prospective study , we show that greater amygdala activation to emotional facial expressions among depressed patients predicts symptom reduction 8 months later , controlling for initial depression severity and medication status .
+
+16043128|In response to happy stimuli , anhedonia , but not depression severity per se , was positively and negatively correlated with ventromedial prefrontal cortex -LRB- VMPFC -RRB- and amygdala/ventral striatal activity , respectively .
+
+16039791|Administration of interleukin-1beta -LRB- 60 microg/kg , i.p. -RRB- induced the phosphorylation of ERK1/2 in areas at the interface between brain and blood or cerebrospinal fluid : meninges , circumventricular organs , endothelial like cells of the blood vessels , and in brain nuclei involved in behavioral depression , fever and neuroendocrine activation : paraventricular nucleus of the hypothalamus , supraoptic nucleus , central amygdala and arcuate nucleus .
+
+15936426|Ageing-related and disease-related processes , including arteriosclerosis and inflammatory , endocrine , and immune changes compromise the integrity of frontostriatal pathways , the amygdala , and the hippocampus , and increase vulnerability to depression .
+
+15931675|Thus , the present study adds novel evidence further supporting that the BNST and the central nucleus of the amygdala form part of an adrenal steroid-sensitive extrahypothalamic circuit that has been involved in fear and anxiety responses and in clinical syndromes such as melancholic depression , posttraumatic stress disorders , and addiction .
+
+15880108|Carriers of the short allele of a functional 5 ' promoter polymorphism of the serotonin transporter gene have increased anxiety-related temperamental traits , increased amygdala reactivity and elevated risk of depression .
+
+15880108|These genotype-related alterations in anatomy and function of an amygdala-cingulate feedback circuit critical for emotion regulation implicate a developmental , systems-level mechanism underlying normal emotional reactivity and genetic susceptibility for depression .
+
+15877308|In long-term depressive illness , the hippocampus and prefrontal cortex undergo atrophy , whereas the amygdala is hyperactive in anxiety and mood disorders and may undergo a biphasic change in structure -- increasing in size in acute depression and shrinking on long-term depression .
+
+15862518|Effects of depression , cigarette smoking , and age on monoamine oxidase B in amygdaloid nuclei . .
+
+15862518|Altered concentrations of dopamine transporter and D2/D3 receptors have been observed in the amygdaloid complex of subjects with major depression .
+
+15852010|Here we show that in lateral amygdala pyramidal neurons , SK channels are also activated by calcium influx through synaptically activated NMDARs , resulting in depression of the synaptic potential .
+
+15848808|Concurrent electrophysiological measurements identified a safety learning-induced long-lasting depression of CS-evoked activity in the lateral nucleus of the amygdala , consistent with fear reduction , and an increase of CS-evoked activity in a region of the striatum involved in positive affect , euphoric responses , and reward .
+
+15845098|Given the important role of the amygdaloid complex in the regulation of emotional behavior , we examined the mRNA levels of preprotachykinin A -LSB- PPT-A , a precursor of both SP and neurokinin A -LRB- NKA -RRB- -RSB- and 3H-SP binding sites in the amygdala of patients affected by bipolar disorder , major depression or schizophrenia as compared with matched control individuals .
+
+15724143|The decrease in relative activity of the left thalamus , left amygdala , left hippocampus , and left ventral striatum was significantly correlated with reduction in depression scores .
+
+15641704|Volumetric MRI analysis of the amygdala and hippocampus in subjects with major depression . .
+
+15641704|In order to explore the MRI volume of the amygdala and hippocampus in patients with major depression , quantitative MRI of the amygdala and hippocampus were studied in 22 patients with major depression and compared with 13 age-matched controls .
+
+15641704|It was concluded that the hippocampus and amygdala within limbic-cortical networks may play a crucial role in the pathogenesis of major depression .
+
+15607296|The purpose of this study was to measure amygdala and hippocampus volumes in pediatric major depressive disorder -LRB- MDD -RRB- and to address the question of neuroanatomical continuity with adult-onset depression .
+
+15607296|Smaller amygdalas are present early in the course of pediatric depression and may predispose to the development of this disorder or perhaps more generally of childhood mood disorders .
+
+15607296|Future research should examine the longitudinal course and functional correlates of amygdala volume abnormalities in childhood-onset depression , including their possible moderation by gender .
+
+15598548|Anatomical MRI study of hippocampus and amygdala in patients with current and remitted major depression . .
+
+15592465|s carriers also showed greater coupling between the amygdala and the ventromedial prefrontal cortex , which may contribute to the abnormally high activity in the amygdala and medial prefrontal cortex seen in major depression .
+
+15573884|Decreased 5-HIAA levels in the hippocampus , amygdala and nucleus accumbens were discovered at the stage of forming depression -LRB- 10 days of social stress -RRB- .
+
+15570508|In depression , there was an overactivation in hippocampal area during positive stimulation , whereas an overactivation of amygdala , orbital and prefrontal regions was seen during negative stimulation .
+
+15554576|Enlarged amygdala volume and reduced hippocampal volume in young women with major depression . .
+
+15554576|Two previous studies found enlarged amygdala size in subjects with recent-onset major depression .
+
+15554576|Our results are consistent with previous findings of structural abnormalities of amygdala and hippocampus in subjects with recent-onset major depression .
+
+15525780|Here , we show that low-frequency stimulation of afferents in the lateral amygdala with 100 pulses at 1 Hz releases endocannabinoids postsynaptically from neurons of the basolateral amygdala of mice in vitro and thereby induces a long-term depression of inhibitory GABAergic synaptic transmission -LRB- LTDi -RRB- via a presynaptic mechanism .
+
+15365705|Lack of inhibitory control of the hypothalamic pituitary adrenocortical -LRB- HPA -RRB- system is a core feature of depression ; main relay stations of this system are located in the amygdala and hippocampus , which are key regions for both disorders .
+
+15301993|In depression , alterations in rapid-eye-movement and slow-wave sleep appear linked to a sleep-related dysfunctional arousal in primary limbic and paralimbic structures -LRB- amygdala -RRB- , and hypofunction in frontal cortical areas .
+
+15271583|Effects of cyclic adenosine monophosphate response element binding protein overexpression in the basolateral amygdala on behavioral models of depression and anxiety . .
+
+15271583|To determine the role of CREB in the amygdala in animal models of depression and anxiety , a viral gene transfer approach was used to selectively express CREB in this region of the rat brain .
+
+15271583|In the learned helplessness model of depression , induction of CREB in the basolateral amygdala after training decreased the number of escape failures , an antidepressant response .
+
+15271583|Taken together , these data demonstrate that CREB expression in the basolateral amygdala influences behavior in models of depression , anxiety , and fear .
+
+15271583|Moreover , in the basolateral amygdala , the temporal expression of CREB in relation to learned helplessness training , determines the qualitative outcome in this animal model of depression .
+
+15255988|Here we show , using a combined electrophysiological and immunocytochemical approach , that spontaneous recovery of conditioned fear in mice is associated with a prolonged expression of long-term depression of synaptic transmission in the mPFC and the failure of induction of the immediate-early genesc-Fos and zif268 in the mPFC and the basolateral nucleus of the amygdala .
+
+15236346|Long-term depression in horizontal slices of the rat lateral amygdala . .
+
+15220855|These findings point to alterations in a circuit of brain regions hypothesized to include the frontal cortex , hippocampus , amygdala , striatum , and thalamus , that underlie symptoms of depression .
+
+15193295|Animal models of depression : olfactory lesions affect amygdala , subventricular zone , and aggression . .
+
+15119911|Thirty patients with DSM-IV major depressive disorder as well as 30 healthy control subjects matched for age , gender , and handedness were examined at admission to the hospital and 1 year later using a documentation of the medical history and high-resolution magnetic resonance imaging -LRB- MRI -RRB- for the presence of depression and to determine changes in hippocampal as well as amygdala volumes .
+
+15023569|A significant negative correlation was observed between binding potential in the amygdala and the negative and depression/anxiety symptom scores on the five-symptom subscale of the Positive and Negative Syndrome Scale .
+
+15023569|Decreased serotonin-1A receptor binding in the amygdala may underlie the affective components included in the symptoms of negative and depression/anxiety in schizophrenia .
+
+14997169|Volumetric analysis of the prefrontal cortex , amygdala , and hippocampus in major depression . .
+
+14980569|The amygdalae are important , if not critical , brain regions for many affective , attentional and memorial processes , and dysfunction of the amygdalae has been a consistent finding in the study of clinical depression .
+
+14960499|These findings suggest that pain catastrophizing , independent of the influence of depression , is significantly associated with increased activity in brain areas related to anticipation of pain -LRB- medial frontal cortex , cerebellum -RRB- , attention to pain -LRB- dorsal ACC , dorsolateral prefrontal cortex -RRB- , emotional aspects of pain -LRB- claustrum , closely connected to amygdala -RRB- and motor control .
+
+14706946|Abusers of MA provided higher self-ratings of depression and anxiety than control subjects and differed significantly in relative regional glucose metabolism : lower in the anterior cingulate and insula and higher in the lateral orbitofrontal area , middle and posterior cingulate , amygdala , ventral striatum , and cerebellum .
+
+14655115|In the control group there were significant differences between the left and right hemispheres in the volume of all the structures studied , whereas in the group with depression these difference in volume between the hemispheres concerned only the amygdaloid body and the lateral ventricle .
+
+26983772|Enlarged amygdala -LRB- in bipolar disorder -RRB- and smaller hippocampus -LRB- in unipolar depression -RRB- have been reported by several groups .
+
+14614090|Mediation of amphetamine-induced long-term depression of synaptic transmission by CB1 cannabinoid receptors in the rat amygdala . .
+
+14614090|Here we show that amphetamine induces long-term synaptic depression -LRB- LTD -RRB- in the amygdala .
+
+14614087|These data indicate that postsynaptic mechanisms are involved in synaptic plasticity in the thalamoamygdala pathway in fear conditioning and raise the possibility that : -LRB- 1 -RRB- downregulation of the NMDA receptor may protect against excitotoxicity of unchecked NMDA receptor recruitment during induction and consolidation of fear memories , -LRB- 2 -RRB- reduced NMDA current and protein may allow persistence of the '' capacity to reactivate '' amygdala pathways in NMDA receptor-dependent fear memories , or -LRB- 3 -RRB- a persistent long-term depression of NMDA transmission may occur after fear learning .
+
+14592637|The brain regions commonly involved in various types of epilepsies , such as the hippocampus and amygdala in temporal lobe epilepsy and subcortical nuclei in idiopathic generalized epilepsies , are important components of current models of depression .
+
+12953293|Structural changes in the hippocampus and amygdala , which are important brain structures for cognition and emotion , are representative of what may be occurring throughout the brain as a result of allostatic load resulting from the chronic stress of a disorder such as depression .
+
+12856295|The involvement of the nonclassical ascending auditory pathway with its subcortical connections to limbic structures -LRB- the amygdala -RRB- may explain some of the symptoms of some forms of tinnitus including hyperacusis and affective disorders , such as phonophobia and depression , which often accompany severe tinnitus .
+
+12849932|Receptor autoradiography of -LSB- -LRB- 3 -RRB- H -RSB- - clonidine binding presented herein compares densities of alpha -LRB- 2 -RRB- - adrenoceptors and I-sites -LRB- under a noradrenergic-mask -RRB- in Brodmann 's area 47 of the left orbitofrontal cortex -LRB- OFC -RRB- and in six amygdaloid nuclei of subjects with major depression -LRB- n = 12 -RRB- vs. controls with no psychiatric history -LRB- n = 11 -RRB- .
+
+12804127|Increased amygdala : hippocampal volume ratios associated with severity of anxiety in pediatric major depression . .
+
+12804127|Increased left and right amygdala : hippocampal volume ratios were associated with increased severity of anxiety but not increased severity of depression or duration of illness .
+
+12804127|These results suggest that alterations in amygdala : hippocampal volume ratios in pediatric MDD may more reflect severity of associated anxiety than depression .
+
+12724175|Taken together with converging evidence from neuroendocrine , lesion analysis , and postmortem studies of clinically depressed subjects , these data suggest that emotional/stress-response systems that include the amygdala are pathologically activated in major depression and that this activity is associated with dysfunction of the prefrontal cortex and monoamine neurotransmitter systems that normally modulate such responses .
+
+12724172|The present paper briefly summarizes the highlights of the different presentations , focusing on the functional diversity of the amygdala and its role in different neuropsychiatric disorders ; reviews the various brain imaging technologies currently available ; and discusses the major findings on the pathophysiology and treatment of depression , bipolar disorder , and anxiety disorders .
+
+12713644|Here , we investigated the effects of alpha2-adrenoreceptor activation on long-term depression and long-term potentiation in an in vitro slice preparation of the mouse basolateral amygdala .
+
+12713644|The present data suggest that alpha2-adrenoreceptor activation impairs the induction of long-term depression in the basolateral amygdala by a Gi/o-protein-mediated inhibition of presynaptic N-type Ca2 + - channels and activation of inwardly-rectifying K + - channels .
+
+12673250|We show that , in intercalated neurons of the amygdala , activity-dependent potentiation or depression of particular glutamatergic inputs leads to opposite changes in the strength of inputs ending at other dendritic sites .
+
+12667853|This novel real-time fMRI technology is applicable to a wide range of neuroscience studies , particularly those of the limbic system , and to neuropsychiatric conditions , such as depression , in which pathology of the amygdala has been implicated .
+
+12655317|Neurotrophic effects of electroconvulsive therapy : a proton magnetic resonance study of the left amygdalar region in patients with treatment-resistant depression . .
+
+12586453|Larger amygdala volumes in first depressive episode as compared to recurrent major depression and healthy control subjects . .
+
+12586453|The aim of our study was to test the hypothesis that amygdala volumes are reduced in patients with recurrent major depression compared with first episode patients .
+
+12586453|Patients with first-episode depression showed enlarged amygdala volumes compared with patients with recurrent major depression and healthy control subjects .
+
+12586453|No significant correlations were found between amygdala volumes and age of onset , illness duration , or severity of depression .
+
+12586453|Larger amygdala volumes in patients with first-episode depression may result from higher amygdala metabolism and blood flow .
+
+12586453|Prospective investigations to investigate amygdala changes during the course of depression are needed .
+
+12550739|Recent advances have been made in understanding the changes in neuronal plasticity in psychiatric disease at the molecular level -LRB- changes in neurotransmission , long-term potentiation , long-term depression , glutamate receptors , synaptic strength and neurotrophic support -RRB- and the systems level -LRB- changes in hippocampal , frontal and amygdala function in health and disease and the impact of stress on the hippocampal/frontal axis -RRB- , as well as in the impact of drugs and sites of action for therapeutic intervention .
+
+12390970|Detailed quantitation of the other amygdala subdivisions failed to reveal any other substantial anomalies or any associations with depression .
+
+12382206|Functional neuroimaging studies of the amygdala in depression . .
+
+12382206|Here we review human functional neuroimaging studies suggesting that the amygdala may play a key role in depression .
+
+12382206|Finally , we discuss functional neuroimaging studies of the amygdala in depression in light of the animal and human data .
+
+12372665|Dopaminergic abnormalities in amygdaloid nuclei in major depression : a postmortem study . .
+
+12372665|Here we show amounts of dopaminergic proteins in the amygdala , a key brain structure involved in the integration of emotions and stress , in subjects with major depression and in psychiatrically normal control subjects .
+
+12372665|The specific binding of -LSB- -LRB- 125 -RRB- I -RSB- RTI 55 to the DA transporter , -LSB- -LRB- 3 -RRB- H -RSB- SCH 23390 to the D1 receptor and -LSB- -LRB- 125 -RRB- I -RSB- epidepride to D2/D3 receptors were measured in the right amygdaloid complex in postmortem brains from 11 subjects with major depression and 11 matched control subjects .
+
+12372665|The binding of -LSB- -LRB- 125 -RRB- I -RSB- RTI 55 to DA transporter was significantly lower in the basal and central amygdaloid nuclei , whereas the binding of -LSB- -LRB- 125 -RRB- I -RSB- epidepride to D2/D3 receptors was significantly higher in the basal , central , and lateral amygdaloid nuclei in major depression compared with control subjects .
+
+12152079|In the basolateral amygdala , endocannabinoids and CB1 were crucially involved in long-term depression of GABA -LRB- gamma-aminobutyric acid -RRB- - mediated inhibitory currents .
+
+12071513|Specifically , whereas structural enlargement of the basal ganglia and amygdala have been observed in bipolar disorder , in unipolar depression , these structures appear to be smaller in patients than healthy subjects .
+
+11983184|Enlargement of the amygdala in patients with a first episode of major depression . .
+
+11983184|The aim of the present study was to measure the amygdala volumes in patients with a first episode of major depression .
+
+11983184|Thirty inpatients with a first episode of depression were compared with 30 healthy volunteers matched for age , gender , handedness , and education by performing structural magnetic resonance imaging -LRB- MRI -RRB- measures of the amygdala .
+
+11983184|No significant correlations were found between amygdala volumes and age , age of onset , illness duration , or severity of depression in the patient group .
+
+11983184|Enlarged amygdala volumes in patients with a first episode of major depression might be due to enhanced blood flow in the amygdala rather than to a neurodevelopmental structural predisposition to major depression .
+
+11943829|Paired stimulation resulted in depression of the test response in the amygdala , but a facilitation in the entorhinal cortex .
+
+11830178|Glucose metabolism in the amygdala in depression : relationship to diagnostic subtype and plasma cortisol levels . .
+
+11830178|In a previous positron emission tomography -LRB- PET -RRB- study of major depression , we demonstrated that cerebral blood flow was increased in the left amygdala in unipolar depressives with familial pure depressive disease -LRB- FPDD -RRB- relative to healthy controls -LSB- J. Neurosci .
+
+11830173|Expression of fear-conditioning is accompanied by increased paired-pulse depression within the amygdala . .
+
+11816318|Subjects with depression demonstrated lower left amygdala Cho-Cr ratios , compared with control subjects -LRB- paired t = 2.624 , df 10 , P = 0.025 -RRB- .
+
+11816318|Left amygdala NAA-Cr and right amygdala Cho-Cr and NAA-Cr did not differ significantly between subjects with depression and control subjects .
+
+11816318|In subjects with depression , simple regression revealed a negative trend between left amygdala Cho-Cr and Beck Depression Inventory -LRB- BDI -RRB- score -LRB- F = 3.509 , P = 0.098 -RRB- .
+
+11803449|Subjects with major depression or bipolar disorder show reduction of prodynorphin mRNA expression in discrete nuclei of the amygdaloid complex . .
+
+11803449|The expression of the prodynorphin mRNA was currently studied in the amygdaloid complex , a brain region critical for emotional processing , in subjects -LRB- 14-15 per group -RRB- diagnosed with major depression , bipolar disorder , or schizophrenia and compared to normal controls .
+
+11803449|No other amygdala nuclei studied showed any significant differences for the prodynorphin mRNA levels measured in the major depression and bipolar disorder subjects .
+
+11756516|The basolateral amygdala -LRB- BLA -RRB- is believed to be involved in schizophrenia , depression , and other disorders that display affective components .
+
+11752496|Research on the prefrontal cortex , anterior cingulate , hippocampus , and amygdala is reviewed and abnormalities in the structure and function of these different regions in depression is considered .
+
+11695953|We hypothesized that children with anxiety and depression may show atypical amygdala responses to emotional stimuli .
+
+11695953|Our results suggest that amygdala function is affected in both anxiety and depression during childhood and adolescence .
+
+11744249|Long-term depression in the basolateral amygdala of the mouse involves the activation of interneurons . .
+
+11744249|Long-term depression -LRB- LTD -RRB- in the basolateral amygdala , following low frequency stimulation -LRB- 1 Hz/900 pulses -RRB- of the lateral amygdala , was studied in an in vitro slice preparation of 2-3 weeks and 2-4 months old mice .
+
+11704071|We applied the masked faces paradigm to patients with major depression -LRB- n = 11 -RRB- and matched control subjects -LRB- n = 11 -RRB- during fMRI to compare amygdala activation in response to masked emotional faces before and after antidepressant treatment .
+
+11668663|Finally we illustrate the application of these rules by two examples : a -RRB- amygdala activation , a biological alteration shared by anxiety disorders and major depression and b -RRB- elevated plasma soluble interleukin 2 receptor , an unshared property by anxiety disorders and major depression .
+
+11359535|We have examined the effects of vaginocervical stimulation on paired-pulse depression of amygdala-evoked field potentials recorded in the external plexiform layer of the accessory olfactory bulb -LRB- AOB -RRB- and the single-unit activity of mitral cells antidromically stimulated from the amygdala in urethane-anaesthetized female mice .
+
+11282710|Hippocampus and amygdala pathology in depression . .
+
+11234779|The cellular mechanisms by which the amygdala participates in emotional learning are believed to be changes in efficacy of synaptic transmission , similar to long-term potentiation -LRB- LTP -RRB- and long-term depression -LRB- LTD -RRB- .
+
+11150336|Within the medial temporal lobe , special attention has been paid to the hippocampus -LRB- HC -RRB- and amygdala -LRB- AG -RRB- because of their role in memory , depression , emotion , and learning .
+
+11137053|These data indicate that 2 weeks of daily 20-Hz rTMS over the left prefrontal cortex at 100 % MT induce persistent increases in rCBF in bilateral frontal , limbic , and paralimbic regions implicated in depression , whereas 1-Hz rTMS produces more circumscribed decreases -LRB- including in the left amygdala -RRB- .
+
+11105660|Neuroimaging studies of major depression have identified neurophysiological abnormalities in multiple areas of the prefrontal cortex -LRB- PFC -RRB- , the amygdala , and related parts of the striatum and thalamus .
+
+11063977|Neuroimaging studies of major depression have identified neurophysiologic abnormalities in multiple areas of the orbital and medial prefrontal cortex , the amygdala , and related parts of the striatum and thalamus .
+
+11063975|Brain changes associated with early-onset major depression have been reported in the hippocampus , amygdala , caudate nucleus , putamen , and frontal cortex , structures that are extensively interconnected .
+
+10974356|In contrast , a convulsive hippocampal or amygdala seizure induced behavioral hypoactivity , perhaps by the spread of the seizure into the frontal cortex and opiate-mediated postictal depression .
+
+10729357|Input-specific long-term depression in the lateral amygdala evoked by theta frequency stimulation . .
+
+10729357|Here we report on homosynaptic long-term depression -LRB- LTD -RRB- of excitatory responses after stimulation of putative thalamic input fibers , but not of cortical inputs , to the rat lateral amygdala in vitro .
+
+10722182|Quantitative MRI of the hippocampus and amygdala in severe depression . .
+
+10722182|There is little evidence to support possible structural changes in the amygdala and hippocampus of patients with severe depression .
+
+10722182|Quantitative MRI of the amygdala and hippocampus , as well as proton spectroscopy -LRB- MRS -RRB- of mesial temporal structures were studied in 34 drug-resistant in-patients with major depression and compared with 17 age-matched controls .
+
+10704753|First studies indicate a link between amygdala atrophy , fear and aggression and between amygdala hypertrophy and depression .
+
+10704753|To investigate a possible relationship between amygdala volumes , aggression and depression , we measured the amygdala of 62 patients with temporal lobe epilepsy -LRB- TLE -RRB- with and without aggressive behavior or depression and 20 healthy volunteers using quantitative magnetic resonance imaging -LRB- MRI -RRB- .
+
+11124977|Activation of group II metabotropic glutamate receptors induces long-term depression of synaptic transmission in the rat amygdala . .
+
+11124977|A converse view predicts that agents that induce long-term depression -LRB- LTD -RRB- of synaptic efficacy in the amygdala may be useful in the amelioration of stress disorders .
+
+10624542|We found a significant positive correlation between left amygdala volumes -LRB- p = .02 -RRB- and a trend towards positive correlation between right amygdala volumes and depression -LRB- p = .06 -RRB- , as measured with the Beck Depression Inventory .
+
+10624542|This is the second report of a relationship between amygdala volumes and depressed mood , confirming an earlier finding in patients with bipolar disease , and the first study reporting a correlation between amygdala volumes and depression .
+
+10618023|Patients with depression had a statistically significant 19 % smaller left hippocampal volume than comparison subjects , without smaller volumes of comparison regions -LRB- amygdala , caudate , frontal lobe , and temporal lobe -RRB- or whole brain volume .
+
+10594049|Long-term depression of excitatory synaptic transmission in the rat amygdala . .
+
+10594049|Here , we show for the first time that low-frequency stimulation of the lateral nucleus at 1 Hz for 15 min elicited a long-term depression -LRB- LTD -RRB- in the basolateral amygdala -LRB- BLA -RRB- neurons .
+
+10580500|The depression in prefrontal spontaneous activity is related to amygdala activity but not to the freezing response itself .
+
+10415674|Functional neuroimaging studies of the anatomical correlates of familial major depressive disorder -LRB- MDD -RRB- and bipolar disorder -LRB- BD -RRB- have identified abnormalities of resting blood flow -LRB- BF -RRB- and glucose metabolism in depression in the amygdala and the orbital and medial prefrontal cortical -LRB- PFC -RRB- areas that are extensively connected with the amygdala .
+
+10415674|The amygdala metabolism in MDD and BD is positively correlated with both depression severity and '' stressed '' plasma cortisol concentrations measured during scanning .
+
+10415674|The orbital C metabolism is also abnormally elevated during depression , but is negatively correlated with both depression severity and amygdala metabolism , suggesting that this structure may be activated as a compensatory mechanism to modulate amygdala activity or amygdala-driven emotional responses .
+
+10405084|The hippocampus , amygdala and related functional circuits have been implicated in the regulation of emotional expression and memory processes , which are affected in major depression .
+
+10381776|Lateralized binding in amygdala , high locomotor activity , and sensory sensitivity correlated positively with greater sensitivity to SNC-80-induced depression in these measures .
+
+10336080|Cortical spreading depression reversibly disrupts convulsive motor seizure expression in amygdala-kindled rats . .
+
+10336080|To determine the role of the frontal cortex in the generalization of limbic seizures , we first produced unilateral cortical spreading depression to reversibly suppress neuronal activity in the motor cortex and then triggered an amygdala-kindled seizure .
+
+10336080|Three minutes following induction of unilateral spreading depression , stimulation of the ipsilateral kindled amygdala produced only a brief electrographic seizure , and completely failed to produce the bilateral electrographic and clonic convulsive seizures that were normally present during control trials .
+
+10336080|A very different outcome occurred when unilateral spreading depression was induced in the cortex contralateral to the kindled amygdala .
+
+10322186|Particular emphasis has been placed on the prefrontal cortex , anterior cingulate , parietal cortex , and the amygdala as critical components of the circuitry that may be dysfunctional in both depression and anxiety .
+
+10189618|Preclinical studies on long-term potentiation -LRB- LTP -RRB- and long-term depression -LRB- LTD -RRB- in hippocampal and amygdala slices , as well as clinical data from neuroimaging studies , have provided encouraging clues for potential frequency-dependent effects of rTMS .
+
+9893154|In addition , recent data reveal important bidirectional interactions between stress-system hormonal factors in depression and neural substrates implicated in many discrete behavioral alterations in depression -LRB- e.g. , the medial prefrontal cortex , important in shifting affect based on internal and external cues , the mesolimbic dopaminergic reward system , and the amygdala fear system -RRB- .
+
+9886229|The role of the amygdala in modulating emotional memory is highlighted , as well as some of its unique properties such as metaplasticity -LRB- i.e. , the differential direction of long-term adaptation , either potentiation or depression -RRB- in response to the same input as a function of the prior history of stimulation .
+
+9831467|The role of the amygdala in major depression was investigated .
+
+9674587|Patients with depression have impaired functioning in emotional tasks involving the amygdala , and have abnormal resting amygdala blood flow .
+
+9674587|To better understand the anatomical basis for these functional changes we measured the volumes of the total amygdala and of the core amygdala nuclei in 20 patients with a history of depression and 20 pair-wise matched controls .
+
+9464991|This represents the first demonstration of stimulus-dependent long-lasting synaptic depression in the amygdala .
+
+9464991|Thus , LFS in the in vitro amygdala slice can induce either enduring synaptic potentiation or depression , depending on whether a priming HFS train has been applied .
+
+9105961|5-HT1A receptor binding sites were measured , by saturation binding with -LSB- 3H -RSB- 8-OH-DPAT , in frontal and occipital cortex , hippocampus and amygdala obtained at post-mortem examination from suicide victims with a firm retrospective diagnosis of depression , and matched controls .
+
+8994053|Using whole-cell voltage-clamp and current-clamp recordings , this study shows for the first time that in control and kindled basolateral amygdala neurons , two pharmacologically distinct presynaptic mGluRs mediate depression of synaptic transmission .
+
+8985703|Finally , since our anatomical studies indicated that the perirhinal cortex densely innervates the frontal motor cortex , we examined the involvement of this latter region in amygdala kindled seizures using the reversible functional lesion of cortical spreading depression .
+
+8595196|Using low frequency -LRB- quenching -RRB- stimulation parameters -LRB- 1 Hz for 15 min -RRB- , similar to those that induce long-term depression -LRB- LTD -RRB- in vitro , we attempted to alter amygdala kindling in vivo in rats .
+
+8777899|Another finding was the occurrence of REM sleep ponto-geniculo-occipital -LRB- PGO -RRB- waves , coinciding with a depression of the frequency and amplitude of interictal amygdaloid and cortical spikes .
+
+8545073|We recorded entorhinal tetanic responses to 50-Hz kindling stimulations applied at the amygdala in conscious rats , which produced facilitation and depression during the train pulses , in order to analyze the relationship of the changes in the tetanic responses to the development of both after-discharges -LRB- ADs -RRB- and behavioral seizures .
+
+7858845|Paired-pulse depression of the N-methyl-D-aspartate receptor-mediated synaptic potentials in the amygdala . .
+
+7858845|An in vitro slice preparation of rat amygdala was used to study the paired-pulse depression of the N-methyl-D-aspartate -LRB- NMDA -RRB- receptor-mediated synaptic potential e.p.s.p.NMDA .
+
+8270597|Primary depression also is associated with abnormal activation of key brain areas , including discrete aspects of the frontal and temporal lobes , the amygdala , and the cingulate gyrus .
+
+1294197|In the present study we evaluated the potential role of these neurotransmitters in the postictal behavioral depression -LRB- PBD -RRB- , after-discharge -LRB- AD -RRB- duration , and seizure intensity in rats kindled in the medial preoptic area -LRB- MPOA -RRB- and amygdala -LRB- AMG -RRB- .
+
+1335269|Reversible blockade of the neocortex by spreading depression and of the parabrachial nucleus -LRB- PBN -RRB- and amygdala -LRB- AMG -RRB- by tetrodotoxin -LRB- TTX -RRB- injection was used to study lateralization of passive avoidance reaction -LRB- PAR -RRB- engrams in rats .
+
+1450903|Long-term effects of kindling consisted of facilitation of ACh release in the ventral striatum contralateral to the kindled amygdala and bilateral depression of DA release in the prefrontal cortex .
+
+1527602|These data along with other evidence suggest that a circuit involving the prefrontal cortex , amygdala , and related parts of the striatum , pallidum , and medial thalamus is involved in the functional neuroanatomy of depression .
+
+1587331|These results demonstrated that GABA infusion at the concentration of 100 micrograms.microliters-1 induced a strong ipsilateral depression in glucose utilization in the NBM and in some surrounding structures -LRB- e.g. , the lateral hypothalamic area , thalamus , and amygdala -RRB- as well as in the major cortical targets of NBM neurons -LRB- i.e. , the frontal , parietal , and temporal cortices -RRB- .
+
+1480730|One of these circuits , the limbic-thalamo-cortical circuit , which includes the amygdala , the medio-dorsal thalamus , and parts of the ventral and medial prefrontal cortex , may be engaged in abnormal reverberatory activity that maintains the cognitive and emotional set of depression .
+
+1928425|High-energy diet intake was associated with saccharin-induced depression of 2-deoxyglucose uptake in the inferior olive and increased utilization in the medial amygdaloid nucleus of both DR and DIO rats .
+
+1782545|Thalamic and most cortical areas showed reductions of the order of 30-45 % , whereas more modest depressions of 15-20 % were observed in some limbic structures -LRB- e.g. basolateral amygdala , anterior thalamic nuclei , nucleus accumbens , subiculum -RRB- .
+
+2018928|About 40 % of spreading depression -LRB- SD -RRB- waves elicited from the parieto-occipital cortex of anesthetised rats penetrated through the temporal lobe structures -LRB- amygdala -RRB- into the caudate nucleus .
+
+2272340|Systemically administered NECA was found to significantly reduce the rate of postictal spiking and to significantly increase the duration of postictal EEG depression in amygdala kindled rats .
+
+2153156|Benzodiazepine binding was measured in amygdala and hippocampus from 19 suicides in whom a firm diagnosis of depression was established retrospectively , and 19 well-matched controls .
+
+2620954|The development of amygdaloid kindling was assessed under conditions of pharmacological depression of the nodular areas of vestibulocerebellum and also following vestibular stimulation in chronically prepared cats .
+
+2753018|These depressions in cortical NE levels were not observed in other brain regions , specifically the hippocampus or the amygdala .
+
+3443185|During motor activity , there is a systematic correlation among increasing premotor , motor and amygdaloid multispike activities , increasing HR and depressed HR-rhythms with limbic initiation of motor and concomitant autonomic patterns , '' Immobile confrontations '' alone produces vagally induced HR-decrease and increased amplitudes of vagal HR-rhythms with a concomitant cortical multispike depression , a mirror image of the autonomic patterns after nociceptive stimulation .
+
+2888153|With IP treatment Conflict rates were increased , but after amygdaloid infusion both TO and Conflict rates were marginally reduced below control level , with a more consistent depression of punished responding .
+
+3785666|In the mammillary body , the rate of glucose utilization was more sensitive to depression than elsewhere in the brain -LRB- 55 % reductions following 0.3 mg/kg diazepam -RRB- , whilst in the lateral amygdala , the rate of glucose use was less sensitive -LRB- 8 % reductions following 0.3 mg/kg diazepam -RRB- .
+
+3123974|The electroencephalogram showed a sequence of alterations characterised by high voltage fast activity , spiking , bursts of polyspiking , electrographic seizures and postictal depression which first appeared in the amygdala and rapidly spread to hippocampal and cortical areas .
+
+4065271|Prolonged postictal depression in amygdala-kindled rats by the adenosine analog , L-phenylisopropyladenosine . .
+
+4065271|The present study demonstrated that systemic administration of the adenosine analog , L-phenylisopropyladenosine -LRB- L-PIA -RRB- , substantially prolonged the postictal depression and decreased the frequency of spiking that follows amygdala-kindled seizures in rats .
+
+6479105|The results obtained may be summarized as follows : -LRB- 1 -RRB- kindled generalized convulsions resulted in three consecutive postictal stages before recovery from postictal behavioral depression ; -LRB- 2 -RRB- in bilaterally kindled cats , PSI lasted for 3-4 h , which was longer than the postictal behavioral depression ; -LRB- 3 -RRB- no correlation was found between interictal spike frequency and decreased susceptibility to convulsion during PSI ; -LRB- 4 -RRB- the duration of PSI was prolonged significantly after secondary site amygdaloid kindling ; and -LRB- 5 -RRB- such changes were observed greater than 2 weeks after the last secondary site stimulation .
+
+6462448|When microinjected bilaterally in the cortical amygdala or periaqueductal gray -LRB- 5 micrograms/site -RRB- , morphine produced the same maximal depression of unit activity in the ventromedial nucleus as when administered intravenously .
+
+6543398|Two questions were asked : Does naltrexone attenuate the behavioural depression -LRB- BD -RRB- in other models of limbic epilepsy besides amygdala kindling ?
+
+6144066|The depression of release of glutamate from amygdaloid slices could be attributed to glutamate derived from glutamine .
+
+6315140|Paired-pulse depression was significantly increased following amygdala kindling and was further enhanced to near maximal levels by subsequent kindling in the dentate .
+
+6405015|Post mortem levels of thyrotropin-releasing hormone and neurotensin in the amygdala in Alzheimer 's disease , schizophrenia and depression . .
+
+6405015|The levels of neurotensin and thyrotropin-releasing hormone -LRB- TRH -RRB- in normal post mortem human amygdala have been compared with those in cases of schizophrenia , Alzheimer 's disease and depression .
+
+7178269|Role of amygdala in feeding and drinking induced by single cortical spreading depression in the rat . .
+
+7178269|Possible involvement of the amygdala in feeding and drinking induced by a single wave of unilateral cortical spreading depression -LRB- CSD -RRB- was studied in rats .
+
+7022252|Attenuation of morphine 's depression of serum luteinizing hormone by lesions in the amygdala . .
+
+7022252|Discrete bilateral electrolytic lesions of amygdaloid nuclei or the periaqueductal central gray -LRB- PAG -RRB- were employed to investigate the role of these extrahypothalamic regions in the morphine-induced depression of serum levels of LH in the male rat .
+
+7022252|Lesions of the cortical amygdaloid nucleus , but not the medical , central or basolateral nuclei , significantly attenuated the depression of serum levels of LH 60 min following the acute administration of morphine -LRB- 7.5 mg/kg -RRB- .
+
+7224718|Phenobarbital and diazepam caused marked depression on the amygdaloid kindled seizures , but the effect of phenytoin , carbamazepine and dipropylacetate on them was weak or negligible .
+
+7192046|In seven mongrel dogs the syndrome of depression was evoked by bilateral electrolytic lesions in lateral hypothalamus and/or dorsomedial amygdala .
+
+41280|When given clinically to rats in combination with clonidine , mianserin antagonizes both the depression of behaviour of the rats in the ` open field ' apparatus and also the effects of the alpha-agonist in reducing the concentration of normetanephrine in the amygdaloid cortex .
+
+392473|Dogs with electrolytic damage of dorsomedial amygdala and lateral hypothalamus manifested the syndrome of depression .
+
+221069|Endogenous opioids may mediate post-ictal behavioral depression in amygdaloid-kindled rats . .
+
+751424|Corticoamygdalar interaction in the acquisition and retrieval of the conditioned taste aversion -LRB- CTA -RRB- was studied in rats by combination of unilateral lesion of basolateral amygdala with unilateral functional decortication by cortical spreading depression -LRB- CSD -RRB- .
+
+209478|However , the onset of the amphetamine-induced depression occurred signficantly later in the amygdala .
+
+821771|Long-lasting depression of hippocampus-mammillary body evoked potentials following stimulation of the basal amygdala in cats . .
+
+987963|Lopramine showed no effect on the recruiting response induced by electrical stimulation -LRB- 8 Hz -RRB- of the centromedian thalamus and slightly enhanced the limbic afterdischarges elicited by either hippocampal or amygdaloid stimulation , while imipramine -LRB- 2 , 5 mg/kg -RRB- and amitriptyline -LRB- 1 -- 5 mg/kg -RRB- caused an initial depression followed by sustained enhancement of these afterdischarges .
+
+940860|Effect of amygdaloid lesions on eating elicited by cortical spreading depression . .
+
+14169335|Evoked responses recorded from the amygdala of the cat after sequentially pairing neocortical and hypothalamizic stimulation showed consistent suippression or depression of the response evoked by the test shocks , regardless of whether the cortical or subcortical site received the preceding conditioning shock .
+

@@ -1,0 +1,54 @@
+25713527|Results show that emotional discrimination in the right amygdala precedes that in the left amygdala and that emotional discrimination in both those regions precedes that in the right anterior VLPFC .
+
+25605886|Asymmetrical effects of unilateral right or left amygdala damage on auditory cortical processing of vocal emotions . .
+
+25576174|The right central nucleus of the amygdala -LRB- CeA -RRB- is critical for the lateral spinal ascending pain pathway , regulates descending pain pathways and is key in the emotional-affective components of pain .
+
+25298173|In this study , we used a pre - and post-treatment -LRB- escitalopram -RRB- design to analyze the relative differences between neural activity in the right and left amygdalae during exposure to emotional stimuli in currently depressed patients .
+
+25298173|Amygdala responses to four types of emotional stimuli did not significantly change -LRB- p > 0.05 -RRB- with treatment in either the right or the left amygdala .
+
+25298173|We found that the response between the right and left amygdala did not differ in terms of time series , although activity increased after pharmaceutical treatment for each emotion tested .
+
+24904065|Emotional cue-induced activation in right lateral OFC and left amygdala might relate to emotion-based risk-taking through negative urgency .
+
+24367308|Recent evidence suggests that the valence of emotionally laden encounters may generate lateralized , as opposed to symmetric release of this transmitter in the right or left amygdala .
+
+24241476|Therefore , we developed a task that trained participants to down-regulate activity of the right amygdala while being confronted with amygdala stimulation , i.e. negative emotional faces .
+
+23825407|Our results indicate that neither the right nor left amygdala is necessary for the heightened visual cortex BOLD responses observed during emotional stimulus presentation .
+
+22978709|PPI analyses showed that cocaine users had increased functional coupling between the dlPFC and emotion-related regions during Maintain > Observe , whereas they showed decreased functional coupling between the right IFG and the amygdala during Suppress > Maintain .
+
+22432905|Our results suggest that by using a localized robust clustering approach , it is possible to probe activation in the right dorsal amygdala that is directly related to individual real-time emotional experience .
+
+21757239|The interpretation of these findings could be that there is an emotional processing bias with disconnection bilaterally between amygdala to orbitofrontal cortices and in addition a right disconnection between amygdala and ACC as well as between ACC and prefrontal cortex possibly in line with a more prominent role for the right hemisphere in emotion processing .
+
+21621549|Connectivity between right parahippocampus and bilateral amygdala/periamygdala was also enhanced during correct post-sleep attribution of emotional contexts .
+
+20729768|We examined male and female adolescents -LRB- 8-18 years of age -RRB- that were scanned with structural brain MRI and looked for a correlation between volume of the right or the left amygdala and parent-reported ability of emotional control .
+
+20236805|Behavioral control , including both over - and under-control , is likely to be subserved by neural circuitry associated with emotion regulation including the right OFC and the amygdala .
+
+18982530|Greater effective connectivity from right LOFC to amygdala differentiated emotion expressions conducive to perceiver approach -LRB- happy , neutral , and fear -RRB- from angry expressions that elicit perceiver withdrawal .
+
+16880223|We assessed the effects of direct electric stimulations in either the right or the left amygdala on verbally self-reported emotions -LRB- Izard scale -RRB- and on psychophysiological markers of emotions by recording skin conductance responses -LRB- SCRs -RRB- and by measuring the electromyographic responses of the corrugator supercilii -LRB- EMGc -RRB- .
+
+16465484|Linkage of neuron spike activity in the right and left amygdala in food motivation and emotional tension . .
+
+16465484|Cross-correlation histograms were plotted to study the linkage of spike activity in simultaneously recorded neurons in the central nucleus of the right and left amygdala in rabbits in calm waking , after 24 hours of food deprivation , in satiation , and in emotional tension -LRB- on presentation of dogs -RRB- .
+
+15828421|-LSB- Correlation of unit activity of the right and left amygdala in food motivation and emotional stress -RSB- . .
+
+15828421|Correlation between activities of neurons in the right and left central nuclei of amygdala of rabbits recorded during quiet wakefulness , after 24-h food deprivation , after satiation and during emotional stress -LRB- demonstration of a dog -RRB- was studied by plotting crosscorrelation histograms .
+
+15155523|These deficits held for subjects with either left or right early amygdala damage and encompassed the understanding of both the beliefs and emotional states of others .
+
+12805102|Twelve patients with focal , stable bilateral lesions of the VM cortex or with right unilateral lesions of the amygdala or the right insular cortices , were tested on the Emotional Quotient Inventory -LRB- EQ-i -RRB- , a standardized psychometric measure of various aspects of emotional and social intelligence .
+
+11473792|The present study applied a visual half field paradigm with emotional facial expressions in patients with selective unilateral amygdalo-hippocampectomy -LRB- AHE -RRB- to elucidate the contributions of the left and right medial temporal lobe and amygdala to emotional learning .
+
+11467919|Right neostriatum and left amygdala were activated when subjects made explicit judgements of disgust , bilateral orbitofrontal cortex when they made judgement of happiness , and right frontal and insular cortex when they made judgements about any emotion .
+
+10330702|Predominant activation of the right hippocampus and right amygdala during perception and memorizing of visual picturesque images and solving the tasks provoking emotional stress , apparently , concerns the functional specialization of the right hemisphere in general .
+

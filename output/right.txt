@@ -1,0 +1,624 @@
+27065101|The important features were mainly from the frontal , temporal , ventricular , right hippocampal and left amygdala regions .
+
+27039344|We found convergent evidence for structural atrophy and functional disturbances in the right basolateral amygdala/hippocampus and the right central insula .
+
+27010578|Furthermore , there was no significant difference in the right hippocampus or bilateral amygdala volumes .
+
+26982819|We found significant relationships between factors in POMS and the right and left amygdala and left insula .
+
+26852326|This analysis revealed greater atrophy than hypometabolism in the right putamen and amygdala , and left insula and superior temporal gyrus , whereas hypometabolism was more severe than GM atrophy in the left caudate nucleus and anterior cingulate cortex .
+
+26781519|Decreased -LRB- less positive -RRB- SCC connectivity with the right parahippocampal gyrus and left amygdala distinguished melancholic rMDD patients from the nonmelancholic rMDD and HC groups -LRB- cluster-based familywise error-corrected p ? 0.007 over individual a priori ROIs corresponding to approximate Bonferroni-corrected p ? 0.05 across all seven a priori ROIs -RRB- .
+
+26771739|Using functional MRI , the authors examined whole brain resting-state functional connectivity with the left and right hippocampus and amygdala .
+
+26743811|While VBA showed no significant differences in the gray matter volumes of patients , SBA revealed significantly reduced cortical thickness in the right frontal pole and ROI-based analysis volume shrinkage in LGN bilaterally , right V1 and left amygdala .
+
+26682467|Seed-based analyses were conducted to quantify brain changes in functional connectivity with the right and left amygdala .
+
+26640379|Thus , larger right hippocampal and amygdalar reduction was associated with higher global and verbal MQ change after SAHE .
+
+26514618|The hierarchical regression analyses showed that their current depressive symptoms were associated with aberrant functional interaction between the right amygdala activity and right amygdala-rostral ACC connectivity .
+
+26497778|Time series were extracted from the right and left periaqueductal gray , and the right and left amygdala subregions .
+
+26388257|The degree centrality of the right basolateral nuclei group of the amygdala was positively correlated with the response to subsequent CBT .
+
+26386898|Significantly reduced volumes of both the left and right side caudate nuclei , thalami and right side amygdala were shown in patients when compared with controls .
+
+26313395|In non-responders compared to responders , we found increased pre-treatment activation in dorsolateral prefrontal cortex bilaterally , left orbitofrontal cortex , left frontal eye field , right parietal lobule and left amygdala .
+
+26299298|Connectivity between the right laterobasal amygdala and right hippocampus was positively correlated with levels of anxiety in BD but not in HC youth , and connectivity between the right laterobasal amygdala and right precuneus was negatively correlated with insight about bipolar illness .
+
+26283642|In depressed volunteers , changes in IL-18 were more pronounced -LRB- F2 ,25 = 3.6 , P = 0.03 -RRB- and linearly proportional to sadness-induced ?-opioid activation -LRB- left ventral pallidum , bilateral anterior cingulate cortices , right hypothalamus and bilateral amygdala -RRB- .
+
+26171720|PTSD symptoms inversely correlated with right and left hippocampal and left amygdala volumes .
+
+26095038|For inducing amygdala kindling and deep brain stimulation , bipolar stainless-steel electrodes were implanted in SD rats into right basolateral amygdala and right GPe , respectively .
+
+26073231|Significant stimuli-invoked deactivations relating to endogenous testosterone levels were also seen in the right and left amygdala/parahippocampal regions studies .
+
+26060327|Social support was positively correlated with right medial prefrontal cortical thickness while amygdala volume was negatively associated with social support and positively related to stress .
+
+25986964|Long-term AAS use is associated with right amygdala enlargement and reduced right amygdala rsFC with brain areas involved in cognitive control and spatial memory , which could contribute to the psychiatric effects and cognitive dysfunction associated with AAS use .
+
+25973783|The right or left amygdala volume did not differ between the study groups.The right and left amygdala volumes were highly correlated with levels of BDNF in the combined BD group and the valproate-treated group.Both R and L amygdala volumes were correlated with BDNF levels in healthy controls .
+
+25899094|Compared with the PWMLs-CN group , the PWMLs-CI group displayed decreased FA values in the right splenium of the corpus callosum and right posterior cingulum bundle ; lower fALFF values in the left frontal middle gyrus , left precentral gyrus , right angular gyrus and right precuneus ; and higher fALFF values in the right mid cingulum cortex , right hippocampus amygdala , right cerebellar hemisphere and left vermis .
+
+25857684|Groups also differed in activation of the right hippocampus and left amygdala during negative encoding , with a trend for higher activation in non-remitters compared with HCs .
+
+25735116|-LSB- On the right side of the amygdala salivary glands ectopic case report -RSB- . .
+
+25713527|Results show that emotional discrimination in the right amygdala precedes that in the left amygdala and that emotional discrimination in both those regions precedes that in the right anterior VLPFC .
+
+25665398|The influence of GABA -LRB- A -RRB- receptor agonist -LRB- muscimol hydrobromide , 0.1 ?g / 0.5 ?L -RRB- and antagonist -LRB- bicuculline methiodide , 0.2 ?g / 0.5 ?L -RRB- injections into the right and the left basolateral amygdala on the behavior of the high - and low-anxiety rats was investigated in elevated plus-maze test .
+
+25649923|In patients with ICDs , we found significant cortical thinning in fronto-striatal circuitry , specifically in the right superior orbitofrontal , left rostral middle frontal , bilateral caudal middle frontal region , and corpus callosum , as well as volume reduction in the right accumbens and increase in the left amygdala .
+
+25605886|Asymmetrical effects of unilateral right or left amygdala damage on auditory cortical processing of vocal emotions . .
+
+25605886|Furthermore , the left inferior frontal cortex was functionally connected with the intact amygdala in right-damaged patients , but only with homologous right frontal areas and not with the amygdala in left-damaged patients .
+
+25581710|Compared to non-stressed rats , which were exposed to neither unpredictable stress nor early weaning , stressed rats exhibited decreased Fos expression in the right superficial layers of the infralimbic cortex and increased Fos expression in the right basolateral amygdala and both sides of the central amygdala .
+
+25576174|The right central nucleus of the amygdala -LRB- CeA -RRB- is critical for the lateral spinal ascending pain pathway , regulates descending pain pathways and is key in the emotional-affective components of pain .
+
+25533294|We found that MD in MS was associated with increased local path length in the right hippocampus and right amygdala .
+
+25533294|Further analyses revealed that these effects were driven by an increased shortest distance between both the right hippocampus and right amygdala and a series of regions including the dorsolateral and ventrolateral prefrontal cortex , orbitofrontal cortex , sensory-motor cortices and supplementary motor area .
+
+25522395|Oxytocin also reduced connectivity between the bilateral amygdalae and between the right precuneus and the right and left amygdala -LRB- P < .05 -RRB- .
+
+25508394|Solutions of GABA -LRB- A -RRB- - receptor agonist -LRB- muscimol , 0.1 ?g / ?L -RRB- or antagonist -LRB- bicuculline methbromide , 0.5 ?g / ?L -RRB- were applied to the right or left basal nucleus of amygdala after conditioning .
+
+25464763|Solutions of GABA -LRB- A -RRB- - receptor agonist -LRB- muscimol , 0.1 ?g / ?L -RRB- or antagonist -LRB- bicuculline methbromide , 0.5 ?g / ?L -RRB- were applied to the right or left basal nucleus of amygdala after conditioning .
+
+25398299|In accordance with the model predictions , evidence for a double dissociation was found in the brain activation patterns : Secondary-level processes engaged parts of the limbic system-specifically , the right hemispheric amygdala .
+
+25389397|Compared to HC , BPD patients showed a stronger coupling of both seeds with a cluster in the right dmPFC and stronger positive amygdala connectivity with bilateral -LRB- para -RRB- hippocampus .
+
+25344944|The active and placebo groups exhibited different patterns of right and left amygdala activation with training .
+
+25298173|Right and left amygdalae activation in patients with major depression receiving antidepressant treatment , as revealed by fMRI . .
+
+25298173|A differential contribution of the right and left amygdalae to affective information processing has been proposed .
+
+25298173|In this study , we used a pre - and post-treatment -LRB- escitalopram -RRB- design to analyze the relative differences between neural activity in the right and left amygdalae during exposure to emotional stimuli in currently depressed patients .
+
+25298173|Amygdala responses to four types of emotional stimuli did not significantly change -LRB- p > 0.05 -RRB- with treatment in either the right or the left amygdala .
+
+25298173|However , the difference in neural activity between the right and left amygdalae was greater after treatment , and the variation in neural activity was larger in the left amygdala .
+
+25298173|We found that the response between the right and left amygdala did not differ in terms of time series , although activity increased after pharmaceutical treatment for each emotion tested .
+
+25191504|Low Time Echo MRS scans sampled voxels of interest -LRB- 1.5 × 1.5 × 2.0 -RRB- from both the right and left amygdala .
+
+25191504|On 1H MRS , there were no statistical significant differences of NAA/Cr ratio , Cho/Cr ratio , mI/Cr ratio before and after 12 weeks administration of 20 mg long-acting methylphenidate both in the right and left amygdala .
+
+25051163|The number of depressive episodes was negatively correlated with gray-matter volume in the right hippocampus and right amygdala .
+
+24935084|After 45 days of the pilocarpine-induced status epilepticus , male Wistar rats were submitted to a surgical procedure for the implantation of a bipolar electrical stimulation electrode in the right basolateral amygdala and were allowed to recover for seven days .
+
+24904065|Emotional cue-induced activation in right lateral OFC and left amygdala might relate to emotion-based risk-taking through negative urgency .
+
+24736182|Severity of adversity experienced at age 10-11 contributed to larger right but not left amygdala volume in adulthood .
+
+24666527|In patients with social anxiety disorder -LRB- SAD -RRB- it has been reported that selective serotonin reuptake inhibitors -LRB- SSRIs -RRB- and placebo induce anxiolytic effects by attenuating neural activity in overlapping amygdala subregions , i.e. left basolateral and right ventrolateral amygdala .
+
+24666527|Functional couplings were evaluated with a seed region approach using voxel values from the left basolateral and right ventrolateral amygdala .
+
+24367308|Recent evidence suggests that the valence of emotionally laden encounters may generate lateralized , as opposed to symmetric release of this transmitter in the right or left amygdala .
+
+24367308|This question was addressed by determining if Arc expression is differentially distributed across the right and left amygdala following exposure to positively or negatively valenced learning conditions respectively .
+
+24367308|Presenting a positively valenced event involving an unexpected increase in food reward magnitude following bar pressing , resulted in significantly greater Arc expression in the left , but not right basolateral amygdala -LRB- p < 0.01 -RRB- .
+
+24258969|The voxel-wise approach showed pre-treatment hypoactivation in ventro-limbic regions -LRB- cluster including right hippocampus and left amygdala ; cluster size 528 ; p cluster < 0.004 -RRB- and facial perception involved in ventral-posterior regions -LRB- bilateral lingual gyrus , calcarine fissure and occipital superior gyrus , -LRB- k = 1,508 , p < 0.001 -RRB- and fronto-temporal regions .
+
+24258969|The region of interest approach also confirmed hypoactivation in right and left amygdala -LRB- cluster corrected p = 0.035 and 0.043 , respectively -RRB- .
+
+24241476|Therefore , we developed a task that trained participants to down-regulate activity of the right amygdala while being confronted with amygdala stimulation , i.e. negative emotional faces .
+
+24210457|In patients with lTLE , fear ratings were comparable to those of healthy subjects and were correlated with relatively stronger activations in the right compared to the left amygdala .
+
+24179291|Longer sleep was also associated with stronger negative functional connectivity between the right ventromedial prefrontal cortex and amygdala .
+
+24126454|During acquisition -LRB- CS + / - differentiation -RRB- , higher levels of neuroticism were associated with a stronger interaction between the right amygdala and the right hippocampus as well as the right amygdala and prefrontal cortical regions , specifically ventromedial prefrontal cortex , dorsolateral prefrontal cortex , and anterior cingulate cortex .
+
+24059042|Forty-three volunteers were examined at right and left amygdala using stimulated-echo acquisition mode -LRB- STEAM -RRB- , and point-resolved spectroscopy series -LRB- PRESS -RRB- with and without saturation bands .
+
+24040385|However , significantly reduced FC with the right amygdala was observed in the right middle occipital gyrus in the amygdala negative network .
+
+23990890|During imitation , higher right hemispheric activation emerged in the happy compared to the non-emotional condition in the right anterior insula and the right amygdala , in addition to the pre-supplementary motor area , middle temporal gyrus and the inferior frontal gyrus .
+
+23981357|In the TBI adolescents , the rACC was found to be significantly less functionally connected to medial prefrontal cortices and to right temporal regions near the amygdala -LRB- height threshold T = 2.5 , cluster level p < .05 , FDR corrected -RRB- , while the right amygdala showed a trend in reduced functional connectivity with the rACC -LRB- height threshold T = 2.5 , cluster level p = .06 , FDR corrected -RRB- .
+
+23974947|In addition , a region of interest analysis in bilateral amygdala showed activation in the right superficial amygdala during periods of increasing tension -LRB- compared with decreasing tension -RRB- .
+
+23946006|Averted vs direct gaze induced increased activation in the right dorsal amygdala regardless of facial expression and head orientation .
+
+23946000|A positive association of cognitive reappraisal with right and tendentially left amygdala volume and of neuroticism with left amygdala volume -LRB- marginally significant -RRB- was found .
+
+23880959|There was a significant left versus right relative GM amygdala volume decrease in patients with SZ or BD .
+
+23825407|Our results indicate that neither the right nor left amygdala is necessary for the heightened visual cortex BOLD responses observed during emotional stimulus presentation .
+
+23806980|Reduced right premotor cortex activity and altered left amygdala-supplementary motor area connectivity were associated with longer disease duration and greater disease severity , respectively .
+
+23772062|Male rats were implanted with a combination infusion cannula-stimulating electrode assembly into the right basolateral amygdala .
+
+23688672|Right laterobasal amygdala activity was found to mediate negative valence -LRB- elicited by unpleasant stimuli -RRB- while left centromedial activity was characterized by an interaction of valence by arousal -LRB- arousing pleasant stimuli -RRB- .
+
+23681887|Irrespective of task , alexithymia was associated with a blunted response of the right STG and the bilateral amygdalae to angry , surprised and neutral prosody .
+
+23460411|Notably , both effects in right PrC paralleled activity patterns in broader networks of regions that also included the right fusiform gyrus and the amygdala , regions frequently implicated in face processing in prior research .
+
+23452685|There was some evidence of greater overlap -LRB- less differentiation of connectivity patterns -RRB- of the right basolateral and centromedial amygdala networks in the adolescents with , relative to those without , GAD .
+
+23352275|Specifically , left and right ventral amygdala volume was positively associated with motor impulsivity , and left dorsal amygdala was negatively associated with aggression .
+
+23228730|Kindling of the right basolateral amygdala profoundly affected spontaneous firing behavior and repetitive discharge characteristics of pyramidal neuronal electrophysiological properties .
+
+23204608|Kindling stimuli were delivered via a bipolar electrode placed in the right central nucleus of the amygdala .
+
+23204603|Areas of sex-specific , OSA-related FA reductions appeared in females relative to males , including in the bilateral cingulum bundle adjacent to the mid hippocampus , right stria terminalis near the amygdala , prefrontal and posterior-parietal white matter , corpus callosum , and left superior cerebellar peduncle .
+
+23064258|MCI APOE ?4 carriers compared with non-carriers showed increased brain atrophy in right hippocampus and rostral amygdala , superior and middle temporal gyrus , and right parietal operculum , including inferior frontal gyrus , inferior parietal , and supramarginal gyrus .
+
+23063420|Elevated frequencies of myeloid dendritic cells were positively associated with abnormal right and left amygdala enlargement , severity of gastrointestinal symptoms and increased repetitive behaviors .
+
+23056477|These results suggest that early altered resting-state functional connectivity of the PCC with the left superior temporal gyrus , right hippocampus and amygdala could predict the severity of the disease and may be a major risk factor that predisposes patients to develop PTSD .
+
+23055092|Right hippocampal volume was negatively correlated with amygdala responses in the PO-MDD group , but not in the healthy comparison group .
+
+23029500|The results showed a positive association between the describing facet of mindfulness on the FFMQ and gray matter volume in the right anterior insula and the right amygdala .
+
+22978709|PPI analyses showed that cocaine users had increased functional coupling between the dlPFC and emotion-related regions during Maintain > Observe , whereas they showed decreased functional coupling between the right IFG and the amygdala during Suppress > Maintain .
+
+22861166|Asymmetric time-dependent activation of right central amygdala neurones in rats with peripheral neuropathy and pregabalin modulation . .
+
+22861166|Hemispheric lateralization of pain processing in the amygdala has recently been brought to light because , independently of the side of the peripheral injury , the right central nucleus of the amygdala -LRB- CeA -RRB- showed higher neuronal activity than the left in models of inflammatory pain .
+
+22643947|In comparison with healthy controls , the patients showed a significant hypometabolism in the right piriform cortex and bilateral amygdala and parahippocampal areas where the olfactory neurons primarily project .
+
+22617448|Anger measures were correlated to RSFC involving the right and the left amygdala on a voxel-by-voxel basis across all individuals .
+
+22617357|Conjunction analysis revealed a common rCBF-attenuation from pre - to post-treatment in responders to SSRIs and placebo in the left basomedial/basolateral and right ventrolateral amygdala .
+
+22569152|In addition , puberty was related to right hippocampus and amygdala volumes , after controlling for ICV .
+
+22432905|Our results suggest that by using a localized robust clustering approach , it is possible to probe activation in the right dorsal amygdala that is directly related to individual real-time emotional experience .
+
+22367971|FMRI data analysis revealed that PTSD subjects showed a significantly higher activation in right insula and left amygdala that we did not observe in healthy subjects ; on the contrary , healthy controls showed a greater activation of left lingual gyrus .
+
+22209122|Comparisons between pre - and post-ECT metabolic activity revealed decreased regional metabolism in the frontotemporal neocortical areas after ECT , while increased metabolism was found in the right medial temporal structures including amygdala and pons .
+
+22206802|Fiber tract bundle volumes were larger on the right side for the amygdala , hippocampus , frontal lobe , and occipital lobe .
+
+22101997|Volumes of the right and left hippocampus , the right and left amygdala , temporal and frontal lobes and the total brain volume were measured by a radiologist who was unaware of the diagnosis .
+
+22101997|Children with DS had a significantly smaller right and left hippocampus volume and a significantly smaller right and left amygdala volume than did the control group .
+
+22054872|An age-related attenuation was also present during encoding , but only in right parahippocampus and amygdala .
+
+22024246|Correctly answered walking figure trials were uniquely associated with increased activity in two right hemisphere STS clusters and right amygdala .
+
+21984582|In type 1 diabetic subjects , higher HbA -LRB- 1c -RRB- was associated with lower activation in the right parahippocampal gyrus and amygdala -LRB- R -LRB- 2 -RRB- = 0.45 , P < 0.002 -RRB- .
+
+21893168|Electrodes were implanted into the right basolateral amygdala and the right or bilateral ANT of Sprague-Dawley rats .
+
+21884712|Emotional images proved more distracting across all participant groups , including those with right or left amygdala lesions .
+
+21874014|A category-specific response to animals in the right human amygdala . .
+
+21867720|In addition , the amount of time spent in the corners of the room was negatively correlated with the right amygdala as well as the total amygdala size .
+
+21861391|Under the influence of afobazole the asymmetry with right dominance in interhemispheric interaction of amygdalar neurons decreased .
+
+21849259|In electrical kindling , bipolar stimulating and monopolar recording electrodes were implanted stereotaxically in the right basolateral amygdala of male Sprague-Dawley rats .
+
+21799213|The experience of childhood trauma was a significant predictor of right and total amygdalar volumes and the hippocampal/amygdalar complex volume as a whole .
+
+21784302|Stimulants had a normalizing effect on both the activity in the right amygdala and the connectivity between the amygdala and LPFC .
+
+21783174|Premutation carriers had significantly smaller left and right amygdala volume and reduced right amygdala activation during the task relative to control subjects .
+
+21757239|The interpretation of these findings could be that there is an emotional processing bias with disconnection bilaterally between amygdala to orbitofrontal cortices and in addition a right disconnection between amygdala and ACC as well as between ACC and prefrontal cortex possibly in line with a more prominent role for the right hemisphere in emotion processing .
+
+21717780|During heroin-visual stimulation , the markedly activated brain areas -LRB- increase of blood oxygen level-dependent signal -RRB- of fMRI were bilateral middle frontal gyrus , left cingulate gyrus , bilateral insula , occipital cortex , left cuneus , cerebellum , bilateral thalamus , right hippocampus and right amygdala etc. which are closely related to the human 's craving psychological activities .
+
+21709179|The classification analysis implicated right HPC and amygdala early in the task when the speed-up from trial to trial was greatest .
+
+21709179|Right HPC and amygdala support active integration of object and location information , while right PRc and TPc are involved when object and spatial representations become unitized into a single representation .
+
+21667303|A voxel-wise analysis revealed a correlation between grey matter reduction and cognitive decline in the right hippocampus and amygdala as well as in the left thalamus .
+
+21621549|Connectivity between right parahippocampus and bilateral amygdala/periamygdala was also enhanced during correct post-sleep attribution of emotional contexts .
+
+21557954|When deaf subjects imagined sounds , the left inferior frontal gyrus , the right posterior temporal gyrus and the right amygdala were less activated compared to controls .
+
+21551226|Results showed that , after controlling for well-established risk factors for atrophy , adults who reported financial hardship had smaller left and right hippocampal and amygdalar volumes than those who did not report hardship .
+
+21516202|Greater female local connectivity in the right hippocampus and amygdala was also noted , regardless of age .
+
+21501165|For both breastfeeding and formula-feeding mothers , greater activations in the right superior frontal gyrus and amygdala were associated with higher maternal sensitivity at 3-4 months postpartum .
+
+21467047|We find that bonobos have more gray matter in brain regions involved in perceiving distress in both oneself and others , including the right dorsal amygdala and right anterior insula .
+
+21390505|Patients , relative to HC , exhibited greater changes over time in the right VLPFC and amygdala , left subgenual anterior cingulate cortex and left caudate for the angry face condition , and in right middle temporal gyrus for the happy face condition .
+
+21106206|Exposure to a brief inescapable foot shock led to a volume reduction in both left HPC and right central amygdala two months later .
+
+21093493|Proportional deformations of the right medial amygdala , a key segment of this neurocircuit , were seen in both polydipsic groups , and correlated with the volume of the 3rd ventricle , which lies adjacent to the neuroendocrine nuclei .
+
+21088708|As expected , unpleasant pictures strongly activated the right and left amygdala , the right hippocampus , and the medial occipital lobe , whereas pleasant pictures elicited significant activations in left occipital regions , and in parts of the medial temporal lobe .
+
+21081170|Moreover , right and left amygdala activation for target trials was found correlated to the behavioural measure of target detection .
+
+21075229|An exploratory connectivity analysis showed that activity in these prefrontal regions was linked and was also associated with activity in brain regions typically responding to threat , the right anterior insula and amygdala .
+
+21041620|The ASD group exhibited larger right and left amygdalae , by 12.7 % and 11.0 % , respectively , relative to the TD group .
+
+20939663|Norepinephrine concentrations in the left but not right basolateral amygdala were elevated in groups presented with a positive experience of an unexpected increase in food reward after bar pressing -LRB- p < .01 -RRB- , relative to respective controls .
+
+20939663|In contrast , exposure to negatively valenced events involving a reduction in expected food rewards after bar pressing or presentation of a footshock during fear conditioning produced significant increases in norepinephrine output sampled from only the right but not left basolateral amygdala .
+
+20870689|We found a significant reduction in -LSB- -LRB- 11 -RRB- C -RSB- Ro15 4513 binding in the nucleus accumbens , parahippocampal gyri , right hippocampus and amygdala in the alcohol-dependent compared with the healthy control group .
+
+20729768|We examined male and female adolescents -LRB- 8-18 years of age -RRB- that were scanned with structural brain MRI and looked for a correlation between volume of the right or the left amygdala and parent-reported ability of emotional control .
+
+20554871|Finally , we present evidence of right hemispheric lateralization of mGluR5 modulation of amygdalar nociceptive processing .
+
+20554871|We demonstrate that unilateral pharmacological activation of mGluR5 in the CeA produces distinct behavioral responses depending on whether the right or left amygdala is injected .
+
+20554871|We also demonstrate significantly higher levels of mGluR5 expression in the right amygdala compared with the left under baseline conditions , suggesting a potential mechanism for right hemispheric lateralization of amygdala function in pain processing .
+
+20541374|In comparisons of AD with MCI , rCBF was reduced in the posterior cingulum only , while profound rVOL reductions occurred in both right and left amygdala and in the right hippocampus , and as a trend , in the left hippocampus .
+
+20537659|10 Sprague-Dawley rats underwent the placement of an electrode in the right basolateral nucleus of the amygdala -LRB- BLn -RRB- .
+
+20535125|Our results showed age was positively correlated with the activation of right occipital fusiform gyrus and amygdala , and negatively correlated with the activation of right insula and inferior frontal gyrus .
+
+20357121|Medial temporal memory predictors were modulated by scene repetition : the right anterior hippocampus and right amygdala predicted memory for novel scenes only , whereas posterior hippocampi predicted memory for repeated scenes only .
+
+20336623|This study investigated the dendritic morphology of neurons located in the right and left basolateral amygdala -LRB- BLA -RRB- and infralimbic -LRB- IL -RRB- cortex following chronic nicotine exposure during adolescence or adulthood .
+
+20236805|Behavioral control , including both over - and under-control , is likely to be subserved by neural circuitry associated with emotion regulation including the right OFC and the amygdala .
+
+20226638|We performed a meta-analysis of structural MRI studies that investigated right and left amygdala volume in pediatric and adult patients with BD .
+
+20226638|Studies were searched for in '' Pub Med '' -LRB- last search June 2007 -RRB- , and data for right and left amygdala volume in cm -LRB- 3 -RRB- were extracted and combined in a meta-analysis .
+
+20225222|However , hyper-connectivity observed with other regions -LRB- right hippocampus and amygdala , and other cortical structures -RRB- suggests a more pervasive alteration of brain connectivity in this disease .
+
+20162030|Over the following days , the patient had no further haemoptysis and so far clinical examination showed no evidence of the original mass -LRB- slight haemorrhagic suffusion of the right anterior amygdala region -RRB- .
+
+19951270|Several days after MR-compatible cannula placement in right basolateral amygdala , anesthetized rats were imaged at 7 T. Relative cerebral blood flow -LRB- CBF -RRB- was measured before and 60 min after infusion of 10 nmol KA , cAMPA , ATPA , or normal saline using arterial spin labeling .
+
+19931399|Right and left amygdala volumes were larger -LRB- p < 0.05 -RRB- or trended larger , respectively , in the medicated BD sample compared with the unmedicated BD sample .
+
+19900527|Bipolar stimulating and monopolar recording electrodes were implanted stereotaxically in the right basolateral amygdala of male Sprague-Dawley rats .
+
+19776221|Reductions in perceived stress correlated positively with decreases in right basolateral amygdala gray matter density .
+
+19739247|The amygdala increased 86.49 % in males and 72.94 % in females with males exhibiting a larger right than left amygdala .
+
+19720500|Lack of laterality in the effects of right and left amygdala kindling on weight gain in female rats . .
+
+19720500|Female Wistar rats were kindled from the left or right basolateral amygdala to a criterion of 40 stage 5 seizures .
+
+19686780|Subsequently we investigated if well-adapted -LRB- less anxious -RRB- and mal-adapted -LRB- extremely anxious -RRB- stressed animals differed in the structure of dendritic trees of their output neurons of the right basolateral amygdala -LRB- BLA -RRB- .
+
+19663654|A significantly smaller volume was found in both the right and left hippocampi and amygdala of patients with BPD compared to healthy controls .
+
+19643146|Given that amygdala function is importantly modulated by dopamine -LRB- DA -RRB- , the present study examined the effects of left vs. right unilateral DAergic depletion targeting the basolateral amygdala in male and female rats .
+
+19633214|Lower gray matter volumes in FES compared with controls were also found in the anterior cingulate and right insula but not the amygdala .
+
+19622684|Group differences in hemispheric laterality of rGMR were observed following placebo administration , reflecting lower rGMR in the right hippocampus and ventral amygdala , and higher rGMR in the left ventral amygdala in the PTSD + group compared to the PTSD - group .
+
+19616634|We present additional data on demographic attributes of our sample and correlations analyzed separately on left and right hemispheres of the amygdala and hippocampus .
+
+19569130|Furthermore , the anterior cingulate and prefrontal volume correlated with performance on the Continuous Performance Test while the right hippocampus and amygdala volume correlated with Visual Memory Test in the DLB group .
+
+19524090|Our results revealed significant decreases in bilateral insula and left somato-motor activity during the recall of observer memories , paired with a small relative increase in right posterior amygdala activity coincident with the recall of field memories .
+
+19297506|There was marked atrophy of the right hippocampus and right amygdala , with mean volumes reduced by 41 and 51 % , respectively -LRB- left hippocampus and amygdala volumes were reduced by 18 and 33 % , respectively -RRB- .
+
+19234776|Magnetic resonance spectroscopy was used to measure N-acetyl aspartate -LRB- NAA -RRB- , creatine/phosphocreatine -LRB- Cre -RRB- , choline/choline containing compounds -LRB- Cho -RRB- , and Myoinositol -LRB- mI -RRB- in the right and left amygdala .
+
+19218865|Consistent with proposed specializations of the right and left amygdala in aversive conditioning , we hypothesize that right amygdala-rostral anterior cingulate cortex interactions mediate learning to avoid errors , whereas left error-related amygdala activation underpins detrimental negative affect .
+
+19175394|The effects of right and left amygdala kindling on the female reproductive system in rats . .
+
+19175394|Female Wistar rats were kindled from the left or right basolateral amygdala to a criterion of 40 stage V seizures .
+
+18982530|Greater effective connectivity from right LOFC to amygdala differentiated emotion expressions conducive to perceiver approach -LRB- happy , neutral , and fear -RRB- from angry expressions that elicit perceiver withdrawal .
+
+18932226|We found that chewing caused an increase in Fos-ir that was selective for the right hemisphere of the mPFC along with a decrease in Fos-ir that was selective for the right central nucleus of the amygdala -LRB- CeA -RRB- , a region that may regulate dopamine neurotransmission in mPFC .
+
+18835454|Emotion-specific responses were found after 120 ms in the right anterior areas with right amygdala activation observed only later -LRB- approximately 200 ms -RRB- .
+
+18819571|Male Wistar rats were implanted with one tripolar and two monopolar electrodes in right basolateral amygdala and dura surface , respectively .
+
+18717711|On viewing fearful faces , healthy controls demonstrated left lateralized , while right TLE patients showed bilateral amygdala activation .
+
+18605860|Analyses using functional magnetic resonance imaging revealed that psychosocial resources were associated with greater right ventrolateral prefrontal cortex and less amygdala activity during a threat regulation task but were not associated with less amygdala activity during a threat sensitivity task .
+
+18559854|Fifty of them also participated in PET measurements of cerebral blood flow , used for analyses of functional connections from the right and left amygdalae .
+
+18550763|Consistent with animal models centrally implicating the hippocampus and amygdala in a network supporting context conditioning , CXT + compared with CXT - significantly activated right anterior hippocampus and bilateral amygdala .
+
+18485556|The mean left and right hippocampal and amygdala volumes of the patients were smaller than those of the healthy controls .
+
+18458208|The presence of threat-related negative connectivity between the right ventrolateral prefrontal cortex and the amygdala suggests that the prefrontal cortex modulates the amygdala response to threat .
+
+18423575|In trauma subjects , listening to trauma scripts versus neutral scripts resulted in decreased flow in the right amygdala and left amygdala/perirhinal cortex , and symptom scores correlated negatively with right hippocampal flow changes .
+
+18372291|Results revealed that the right amygdala and left amygdala/substantia innominata were sensitive to the pupil size of others , exhibiting increased activity for faces with relatively large pupils .
+
+18263796|Higher unpleasantness of dyspnea was associated with neuronal activations in the limbic system-that is , in the right anterior insula and in the right amygdala -LRB- respective Z values = 3.93 and 3.15 ; P < 0.05 -RRB- .
+
+18263796|The results of the present brain imaging study suggest that the unpleasantness of subjectively perceived dyspnea is processed in the right human anterior insula and amygdala .
+
+18004139|The functional connectivity analysis revealed only a change of correlated activations between right and left amygdala , and not medial prefrontal cortex , after levodopa administration .
+
+17987064|We explored this hypothesis by mapping the functional coupling of right and left amygdalae in functional magnetic resonance imaging data acquired from 19 patients with major depressive disorder and 19 healthy volunteers , each scanned twice -LRB- at baseline and 8 weeks later -RRB- during performance of an implicit facial affect processing task .
+
+17970731|The effect of CB -LRB- 1 -RRB- receptor antagonism in the right basolateral amygdala on conditioned fear and associated analgesia in rats . .
+
+17970731|The present study investigated the effects of administration of the cannabinoid -LRB- 1 -RRB- -LRB- CB -LRB- 1 -RRB- -RRB- receptor antagonist SR141716A into the right basolateral amygdala -LRB- BLA -RRB- on expression of conditioned fear , formalin-evoked nociceptive behaviour , fear-conditioned analgesia and associated alterations in monoamine levels in discrete rat brain areas .
+
+17889563|For patients with MDD , this involved the medial frontal gyrus , and right insula and amygdala regions , whereas for those OCD patients without MDD , the rostral anterior cingulate cortex was involved .
+
+17717191|Rats were implanted with a combination infusion cannula-stimulating electrode assembly into the right basolateral amygdala .
+
+17579718|Finally , BOLD activity within right anterior insula and amygdala predicted the corresponding changes in perceived intensity ratings at both a group and an individual level .
+
+17574755|Region of interest analyses revealed positive associations between reported dietary omega-3 intake and gray matter volume in the subgenual ACC , the right hippocampus and the right amygdala , adjusted for total gray matter volume of brain .
+
+17548755|In 8 of the 15 perpetrators , enlargement of the anterior temporal horn of the right lateral ventricle that adjoins the amygdala could be recognized by routine qualitative clinical assessment .
+
+17443901|Different volumes of saline were injected into the right or left cPC of amygdaloid-kindled rats , and its effect on generalized seizures was observed .
+
+17306772|Subjects with FH - had robust activation to the faces in the region of the right and left amygdalar complexes -LRB- p 's < .05 -RRB- , while subjects with FH + had no such activation -LRB- p 's > .46 -RRB- .
+
+17239834|CPP blocked the predator stress-induced increase in pCREB-lir in the right lateral PAG and in several amygdala nuclei .
+
+17215168|Significant positive relationships were noted between right and left amygdala volumes and depression .
+
+17215168|These findings indicate that both right and left amygdala volumes are associated with depression severity among persons with TLE .
+
+17203018|We demonstrated a tight coupling of metabolic activity between right OFC and ventral amygdala in healthy subjects with dorsoventral differences in amygdala circuitry , not present in IED-BPD .
+
+17199057|In the individual temperature condition , patients with PTSD showed increased activation in the right putamen and bilateral insula , as well as decreased activity in the right precentral gyrus and the right amygdala .
+
+17010993|Hamilton depression scores of the patients correlated positively with activation of the left and right ventral amygdala during expectation of negative stimuli .
+
+16880223|We assessed the effects of direct electric stimulations in either the right or the left amygdala on verbally self-reported emotions -LRB- Izard scale -RRB- and on psychophysiological markers of emotions by recording skin conductance responses -LRB- SCRs -RRB- and by measuring the electromyographic responses of the corrugator supercilii -LRB- EMGc -RRB- .
+
+16638081|The removal of this marked neuroanatomical region and the resulting disconnection and asymmetry between right and left amygdala-hippocampal region might be seen as an evidence for this region aetiologically being involved in the patient 's PTSD symptoms .
+
+16571552|BIZ ratings were not significantly correlated with either the left or right anterior hippocampus or amygdala volumes .
+
+16510224|In addition , right but not left amygdala activation in response to the masked angry faces was significantly related to the number of angry faces detected .
+
+16487943|The reality distortion dimension , but not neuroleptic medication dose , was positively associated with the right parahippocampal gyral and right amygdalar response to neutral faces in SZ .
+
+16465484|Linkage of neuron spike activity in the right and left amygdala in food motivation and emotional tension . .
+
+16465484|Cross-correlation histograms were plotted to study the linkage of spike activity in simultaneously recorded neurons in the central nucleus of the right and left amygdala in rabbits in calm waking , after 24 hours of food deprivation , in satiation , and in emotional tension -LRB- on presentation of dogs -RRB- .
+
+16380833|Assessed in terms of autocorrelation histogram shape , greater changes in the nature of neuron spike activity associated with changes in state occurred on the left side than on the right in both the hypothalamus and amygdala .
+
+16380239|We hypothesized : -LRB- 1 -RRB- baseline perfusion in right and left amygdalae will be greater in responders than in nonresponders ; -LRB- 2 -RRB- following partial sleep deprivation -LRB- PSD -RRB- , perfusion in responders ' right and left amygdalae would decrease .
+
+15947057|Right and left amygdala are hypothesized to play distinct , but complementary , roles that influence somatic and cognitive responses to facial expressions .
+
+15885519|Right hippocampus and amygdala were significantly larger than the left in all groups .
+
+15846031|During the same surgery some animals were implanted with an electrode in the right basolateral amygdala -LRB- BLA -RRB- to allow the electrical stimulation of this structure .
+
+15828421|-LSB- Correlation of unit activity of the right and left amygdala in food motivation and emotional stress -RSB- . .
+
+15828421|Correlation between activities of neurons in the right and left central nuclei of amygdala of rabbits recorded during quiet wakefulness , after 24-h food deprivation , after satiation and during emotional stress -LRB- demonstration of a dog -RRB- was studied by plotting crosscorrelation histograms .
+
+15828421|When a rabbit saw a dog , the number of common inputs to neurons increased and the leading role of the right amygdalar neurons grew -LRB- 57 % -RRB- due to an increase in inhibitory influences from the right to the left amygdala .
+
+15795000|Anxiolytic and anxiogenic effects of kindling -- role of baseline anxiety and anatomical location of the kindling electrode in response to kindling of the right and left basolateral amygdala . .
+
+15795000|Effects of kindling of right and left basolateral amygdala -LRB- BLA -RRB- on plus maze anxiety was studied .
+
+15753036|Event-related fMRI showed right-lateralized brain activations for fearful minus neutral left-hemifield faces in right visual areas , as well as more activity in the right than in the left amygdala .
+
+15710312|Qualitative and quantitative ADCs for left and right hippocampus and the amygdala of the controls and the patients were determined .
+
+15689961|Patients with schizophrenia showed impaired neural responses to salient stimuli in the right ventral striatum -LRB- VS -RRB- , and they exhibited elevated tonic activity levels in the right VS and bilateral amygdala , inversely correlated with overall symptom severity .
+
+15633706|Activation in the right extended amygdala was obtained for fearful faces and fearful audio-visual pairs but not for fearful voices only .
+
+15546702|Furthermore , a significant left-smaller-than-right volumetric asymmetry of the amygdala was detected in male patients with schizophrenia .
+
+15538143|After treatment that inhibited sensory distortions , CNS GABA levels increased in the cingulate , insula , and amygdala but significantly only in the left insula and in the right and left amygdala .
+
+15451366|Anxiolytic effects of kindling role of anatomical location of the kindling electrode in response to kindling of the right basolateral amygdala . .
+
+15451366|Previous work has suggested that kindling of the right basolateral amygdala -LRB- BLA -RRB- is predominantly anxiogenic .
+
+15336519|The challenge condition was associated with activation in both right superior temporal sulcus and right amygdala , which might relate to increased social vigilance and anxiety , respectively .
+
+15276825|However , kindling from the left basal amygdala induced increases in body weight that were four times greater than control rats and two times greater than the rats kindled from the right side of the basal amygdala .
+
+15254095|Although there were no differences between groups in terms of total cerebral volume , children with autism -LRB- 7.5-12 .5 years of age -RRB- had larger right and left amygdala volumes than control children .
+
+15178947|These patients underwent T -LRB- 1 -RRB- - weighted MRI imaging , and gray matter volumes for right and left orbitofrontal lobes and amygdalas were derived via segmentation and region of interest tracing , normalizing for total intracranial volume .
+
+15169855|The results demonstrate a significantly stronger relationship in men than in women between activity of the right hemisphere amygdala and memory for those slides judged as arousing , and a significantly stronger relationship in women than in men between activity of the left hemisphere amygdala and memory for arousing slides .
+
+15155523|These deficits held for subjects with either left or right early amygdala damage and encompassed the understanding of both the beliefs and emotional states of others .
+
+15145315|Magnetic resonance imaging -LRB- MRI -RRB- revealed a space-occupying lesion over the right temporal lobe near the amygdala .
+
+15124712|Kindling stimuli delivered via a bipolar electrode placing in the right central nucleus of the amygdala .
+
+15110029|With subsequent reversal of the conditioning contingency , face B -LRB- new CS + -RRB- elicited enhanced responses in right orbitofrontal cortex , while face A -LRB- old CS + -RRB- continued to evoke increased responses in right ventral amygdala .
+
+15072680|Furthermore , subjects with right unilateral amygdala damage performed somewhat worse than subjects with left unilateral amygdala damage .
+
+15044074|In the right basolateral amygdala , basal concentrations of 5-HT , 5-HIAA , glutamate and serine were elevated but basal level of GABA was diminished in lesioned animals relative to controls .
+
+14970831|No significant changes in either right or left amygdala volume were evident among healthy comparison subjects from the baseline to the follow-up scan .
+
+14741673|These results are discussed in terms of the functional association between the right PFC and the amygdala and its influence on cognitive processing .
+
+14663183|More negative interpretations of surprised faces were associated with greater signal changes in the right ventral amygdala , while more positive interpretations were associated with greater signal changes in the ventral mPFC .
+
+14659478|Specifically , I hypothesize that the right hemisphere amygdala modulates right hemispheric processing of global/central aspects of a situation -LRB- an effect more pronounced in males -RRB- , while the left hemisphere amygdala modulates left hemispheric processing of more local/fine detail aspects of a situation -LRB- an effect more pronounced in females -RRB- .
+
+14636318|Female Wistar rats were implanted in the right basolateral amygdala with a long-term , bipolar electrode .
+
+12805102|Twelve patients with focal , stable bilateral lesions of the VM cortex or with right unilateral lesions of the amygdala or the right insular cortices , were tested on the Emotional Quotient Inventory -LRB- EQ-i -RRB- , a standardized psychometric measure of various aspects of emotional and social intelligence .
+
+12724169|We reviewed and reanalyzed data from our laboratory , indicating that subjective feelings of fear and distress are correlated with regional cerebral blood flow -LRB- rCBF -RRB- in the right but not the left amygdala during anxiety provocation in individuals with social anxiety disorder , specific phobias .
+
+12552033|The mean total volumes of the right and left hippocampal formations and amygdala did not differ significantly between any of the three groups .
+
+12434631|The mean right and left hippocampal volumes were 2.12 cm3 -LRB- SD = 0.31 -RRB- and 2.07 cm3 -LRB- SD = 0.3 -RRB- and the mean right and left amygdaloid volume were 1.19 cm3 -LRB- SD = 0.19 -RRB- and 1.2 cm3 -LRB- SD = 0.2 -RRB- respectively .
+
+12434631|The mean asymmetry between the right and left hippocampus and amygdala was 3.17 % and 3.48 % , respectively .
+
+12042183|In smokers , the fMRI signal was greater after exposure to smoking-related images than after exposure to neutral images in mesolimbic dopamine reward circuits known to be activated by addictive drugs -LRB- right posterior amygdala , posterior hippocampus , ventral tegmental area , and medial thalamus -RRB- as well as in areas related to visuospatial attention -LRB- bilateral prefrontal and parietal cortex and right fusiform gyrus -RRB- .
+
+11801297|Predator stress appeared to potentiate right and depotentiate left hemisphere afferent amygdala transmission .
+
+11801297|Potentiation in left hemisphere amygdala afferents and efferents predicts anxiolytic-like effects , while potentiation in the right hemisphere amygdala afferents predicts anxiogenic-like effects .
+
+11772693|For Down 's syndrome , smaller volumes of the right and left amygdala , hippocampus , and posterior parahippocampal gyrus were significantly associated with greater age ; this association was not seen in the anterior parahippocampal gyrus .
+
+11677064|There was a nearly significant left-greater-than-right asymmetry of the amygdala in the schizophrenic group but not in the normal group .
+
+11568425|Differential contribution of right and left amygdala to affective information processing . .
+
+11513822|A region-of-interest analysis demonstrated differential change in BOLD signal in the right but not left amygdala across CS + versus CS - viewing .
+
+11496145|Happy faces produced greater right than left amygdala activation for males but not females .
+
+11473792|The present study applied a visual half field paradigm with emotional facial expressions in patients with selective unilateral amygdalo-hippocampectomy -LRB- AHE -RRB- to elucidate the contributions of the left and right medial temporal lobe and amygdala to emotional learning .
+
+11467919|Right neostriatum and left amygdala were activated when subjects made explicit judgements of disgust , bilateral orbitofrontal cortex when they made judgement of happiness , and right frontal and insular cortex when they made judgements about any emotion .
+
+11296093|Compared with the neutral imagery control condition , imagery-induced drug craving was associated with bilateral -LRB- right hemisphere amygdala activation greater than left -RRB- activation of the amygdala , the left insula and anterior cingulate gyrus , and the right subcallosal gyrus and nucleus accumbens area .
+
+11312562|The right and left basolateral amygdala and right frontal cortex were implanted with concentric bipolar electrodes .
+
+11287374|Based on these task and behavioural effects , we examined functional connectivity of the right prefrontal cortex and left amygdala in both groups by determining those areas whose activity was correlated with activity in these regions .
+
+11241871|Despite the many studies highlighting the role of the amygdala in fear perception , few have examined differences between right and left amygdalar responses .
+
+11241871|Initial observation of extracted time series of both amygdalae to these stimuli indicated more rapid decreases of right than left amygdalar responses to fearful faces , and increasing magnitudes of right amygdalar responses to neutral faces with time .
+
+11241871|There was more significant nonstationarity of right than left amygdalar responses to neutral , and left than right amygdalar responses to fearful faces .
+
+11241871|These findings indicate significant variability over time of both right and left amygdalar responses to fearful and neutral facial expressions and are the first demonstration of specific differences in time courses of right and left amygdalar responses to these stimuli .
+
+10978480|Effects of baseline anxiety on response to kindling of the right medial amygdala . .
+
+10978480|The effects of kindling of the right anterior medial amygdala of Wistar rats was studied .
+
+10958248|A new finding is that increased local excitability in the right basal amygdala -LRB- reduced threshold for evoked response -RRB- , and LTP in the right amygdalo-PAG pathway , may be important for maintenance of increases in defensive behavior .
+
+10913507|Right and total amygdala volumes were significantly larger in generalized anxiety disorder subjects .
+
+10891648|During the task , activation of the right anterior medial temporal region including the amygdala was increased in the psychogenic amnesic patient .
+
+10683842|Repeated visual stimulation resulted in neural habituation bilaterally in the secondary visual cortex and in the right medial temporal cortex including the amygdala and the hippocampus .
+
+10619632|Greater serotonin in the right versus left amygdala relates to greater anxiety .
+
+10581226|Furthermore , the comparison of abstract and concrete words indicated that abstract word processing was associated with selective activations -LRB- right temporal pole and amygdala , bilateral inferior frontal cortex -RRB- , while no brain areas were more active in response to concrete words .
+
+10561935|Significant associations were found between left hippocampal volume and the immediate , delayed , and percent retention scores of the Logical Memory Test ; between the left mammillary body volume and the Logical Memory Test delayed and percent retention scores ; immediate Visual Reproduction performance was significantly related to the right and left amygdala volumes , and right mammillary body volume ; only the right amygdala and right mammillary body volume were associated with the delayed Visual Reproduction trial .
+
+10510979|Bipolar nichrome stimulation and recording electrodes were stereotaxically implanted into the right and left basolateral amygdala .
+
+10420552|Effects of novel or relevant -LRB- a single exposure to experimental chamber -RRB- and irrelevant -LRB- 20 exposures to experimental chamber -RRB- stimuli on the levels of serotonin -LRB- 5-HT -RRB- and its metabolite 5-hydroxyindoleacetic acid -LRB- 5-HIAA -RRB- in the left and right hippocamp and amygdala were studied in male and female rats .
+
+10330702|Predominant activation of the right hippocampus and right amygdala during perception and memorizing of visual picturesque images and solving the tasks provoking emotional stress , apparently , concerns the functional specialization of the right hemisphere in general .
+
+10073475|MK-801 , in a variety of sites in the left but not right lateral amygdala , blocked the effects of predator stress on risk assessment .
+
+9808311|In our mainly right-handed normals , the right HC and amygdala were on average 0.05 and 0.03 ml larger respectively than on the left .
+
+9766770|Both the patients with schizophrenia and those with affective psychosis had significant left-less-than-right asymmetry of the posterior amygdala-hippocampal complex .
+
+9461057|A beta also induced reactive astrocytosis and neuronal shrinkage within the right hippocampus and amygdala , respectively .
+
+9267774|Bradycardia induced from stimulation of the left versus right central nucleus of the amygdala . .
+
+9105578|We previously reported finding differential effects of unilateral infusion of lidocaine into the right and left amygdalae prior to a retention test 24 h after one-trial inhibitory avoidance training .
+
+9105578|As indicated by initial response latencies on the first retention test , unilateral inactivation of either the right or the left amygdala severely impaired retention performance for the escape training regardless of the number of prior escape training trials received .
+
+9105578|These results suggest that the differential involvement of the right and left amygdalae may be limited to certain training conditions .
+
+8891302|Male Wistar rats received electrodes into the right basolateral amygdala and were subsequently kindled until fully generalized seizures could be elicited .
+
+7576208|Differential effects of pretraining inactivation of the right or left amygdala on retention of inhibitory avoidance training . .
+
+7576208|Unilateral infusions of lidocaine into the right or left amygdala did not affect acquisition .
+
+7576208|The findings are consistent with others indicating involvement of the amygdala in acquisition and consolidation of aversively motivated learning and suggest possible differential involvement of the right and left amygdalae in memory consolidation .
+
+7633882|There was no significant alteration in the membrane-associated PKC activity of the kindled group in the right hippocampus or amygdala/pyriform cortex in any seizure-free interval after the last amygdala seizure .
+
+7796168|Muscimol injected into the right or left amygdaloid complex differentially affects retention performance following aversively motivated training . .
+
+7796168|These results suggest differential involvement of the right and left amygdala in memory .
+
+7719727|Differential involvement of the right and left amygdalae in expression of memory for aversively motivated training . .
+
+7719727|These results suggest that the right and left amygdalae may make differential contributions to the expression of memory , and that the contribution of the right amygdala may be more important to the expression of memory for aversively motivated training .
+
+8535852|The estral index diminished in almost all animals with a lesion in the right side of medial amygdala .
+
+8535852|Lesions of the right medial amygdala , when performed on diestrus-1 , resulted in a significant decrease in the number of rats ovulating compared to controls -LRB- 4/8 vs. 8/8 , p < 0.05 -RRB- .
+
+8535852|In a second experiment , administration of GnRH did not restore ovulation in rats with lesions of the right medial amygdala .
+
+7950308|All bilateral structures were symmetric or nearly symmetric in volume , with the exception of a slightly larger right neocortex and amygdala , and larger left lateral ventricle .
+
+8363448|Two neuroradiologists independently and blindly measured the volume of the right and left amygdalas on high-resolution contiguous slices .
+
+8417581|There were no differences between the two schizophrenic subgroups in left caudate or right and left amygdala/hippocampus complex volumes .
+
+8417581|Both schizophrenic subgroups had larger left caudate volumes and smaller right and left amygdala/hippocampus complex volumes than the normal subjects .
+
+1449382|Schizophrenic patients , compared with healthy controls , had significantly smaller right and left amygdala/hippocampal complex volumes , smaller right and left prefrontal volumes , and larger left caudate volumes .
+
+1449382|A secondary analysis revealed reductions in the right and left amygdala and the left hippocampus .
+
+1625526|The contents of NA and DA in right and left amygdala decreased significantly in lesioned animals with respect to sham lesioned animals , but hypothalamic levels were not different between groups .
+
+1751619|Only in the schizophrenic group was P300 latency correlated negatively with the area of the right and left cingulate cortex and positively with the difference in size between the right and left amygdala .
+
+1681980|In the present study we examined the anticonvulsant effect of dopamine agonists by unilateral microinjections into the nucleus accumbens in rats kindled from the right basolateral amygdaloid nucleus .
+
+2068205|The right medial amygdaloid nucleus was electrically stimulated once a day for establishment of kindling .
+
+2727137|Afterdischarge threshold , initial and final afterdischarge duration , and kindling rate were the same in rats kindled in the left or right basolateral amygdala .
+
+3135200|The electrical activity recordings of sensorimotor cortex -LRB- SMC -RRB- , visual cortex , and right and left amygdalae revealed progressive changes as naloxone was administered : -LRB- A -RRB- slow spindle activity -LRB- 4-6 Hz -RRB- in SMC , -LRB- B -RRB- 12 Hz rhythmic activity in both amygdalae , -LRB- C -RRB- generalized paroxysms , and -LRB- D -RRB- spontaneous tonic-clonic electrographic seizures .
+
+3295918|After a brief review of results reported so far regarding the stereotactic treatment of seizures , the author describes the results achieved with eight patients on whom stereotactic coagulation was performed in the right or left amygdala-hippocampus complex between 1976 and 1983 on account of drug-resistant partial seizures .
+
+3730193|One month following the left hemispherectomy , the cats were electrically stimulated daily at the after-discharge threshold intensity in the right lateral amygdala .
+
+2996714|Microinjections of IBO -LRB- 10 micrograms -RRB- into the right basolateral amygdaloid nucleus -LRB- BsA -RRB- reduced the concentration of TRH receptors in this nucleus by over 50 % , when compared to the contralateral BsA and to vehicle-injected control rats .
+
+4029337|At 80 days of age , a bipolar electrode was placed either in the right basolateral amygdala or the right angular bundle of entorhinal cortex .
+
+6489500|In contrast , the S1 strain maze-bright animals have a significantly greater right amygdala than left .
+
+6669327|Neuropsychiatric investigation revealed developmental lags in speech and other psychosocial skills and , on computer tomography , a circumscribed lesion -LRB- cystic defect -RRB- lateral to the right nucleus amygdalae .
+

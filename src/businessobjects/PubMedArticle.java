@@ -1,5 +1,9 @@
 package businessobjects;
 
+/**
+ * @author gokdeniz
+ * This class is the base class for PubMed Articles
+ * */
 public class PubMedArticle {
 
 	private String pmid;

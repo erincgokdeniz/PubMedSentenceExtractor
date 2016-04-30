@@ -9,8 +9,18 @@ import java.util.regex.Pattern;
 import utils.FileUtils;
 import utils.StringUtils;
 
+
+/**
+ * @author gokdeniz
+ * This class extracts the sentences that contains brain regions with the moods..
+ * */
 public class MoodProcessor {
 
+	/**
+	 * This method gets the list of sentences containing brain regions and checks the cooccurrence of a mood
+	 * @param moods : This is the list of moods coming from configuration file
+	 * @param typeToSentenceType : map of sentences for each type ("main"/"left"/"right"/"left_or_right")
+	 * */
 	public void searchCoOccurrence(List<String> moods,Map<String, List<String>> typeToSentenceMap){
 		
 		List<String> listOfAmygdala = new ArrayList<String>();
@@ -39,6 +49,12 @@ public class MoodProcessor {
 		
 	}
 
+	/**
+	 * This method checks the patterns of moods in the given sentences
+	 * @param sentences : List of sentences that may contain moods
+	 * @param mood : Regular expression of a mood
+	 * @return : List<String> : sentences containing the mood
+	 * */
 	private List<String> retrieveSentencesWithMood(List<String> sentences, String mood) {
 		Pattern p;
 		Matcher matcher;

@@ -1,21 +1,21 @@
 package service;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.Stack;
 
 import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
-import businessobjects.ArticleSet;
 import businessobjects.PubMedArticle;
 
+/**
+ * @author gokdeniz
+ * This class is used the SAX Parser to get Article Title, PMID and Abstract Text
+ * */
 public class SAXHandler extends DefaultHandler{
 
-	Map<String, ArticleSet> documentMap = new HashMap<String, ArticleSet>();
 	List<PubMedArticle> articles = new ArrayList<PubMedArticle>();
 	PubMedArticle pubmedArticle = null;
 
@@ -92,7 +92,10 @@ public class SAXHandler extends DefaultHandler{
 	private final String ARTICLE_ID		= "ArticleId";
 	private final String ARTICLE_TITLE	= "ArticleTitle";
 
-	
+	/**
+	 * This method retrieves the articles after parsing
+	 * @return : List<PubMedArticle> list of articles
+	 * */
 	public List<PubMedArticle> getArticles(){
 		return articles;
 	}

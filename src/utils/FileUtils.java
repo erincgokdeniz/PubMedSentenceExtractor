@@ -17,7 +17,10 @@ import java.util.Map;
 import businessobjects.PatternObject;
 import businessobjects.PubMedArticle;
 
-
+/**
+ * @author gokdeniz
+ * This class is used for static file operations
+ * */
 public class FileUtils {
 
 	private static final String publicationsPath = "./abstracts/";
@@ -29,9 +32,9 @@ public class FileUtils {
 	public static final String abstractsPath = "./toolkit/pubmed_result.xml";
 	
 	/**
-	 *  @param type : brain region term
-	 *  @return List<PubMedObject> : List of abstracts as PubMedObjects
-	 * This method is used to retrieve the list of PubMed abstracts 
+	 * This method is used to retrieve the list of PubMed abstracts (from file system)
+	 * @param type : brain region term
+	 * @return List<PubMedObject> : List of abstracts as PubMedObjects
 	 * */
 	public static List<PubMedArticle> getFiles(){
 			
@@ -120,7 +123,9 @@ public class FileUtils {
 			} 
 		
 	}
-	
+	/**
+	 * This method retrieves the brain region patterns from configuration file 
+	 * */
 	public static List<PatternObject> getListOfPatterns(){
 		
 		List<PatternObject> patternList = new ArrayList<PatternObject>();
@@ -153,9 +158,11 @@ public class FileUtils {
 		
 		return patternList;
 	
-}
-
-public static List<String> getListOfMoods(){
+	}
+	/**
+	 * This method retrieves the mood patterns from the configuration file
+	 * */
+	public static List<String> getListOfMoods(){
 		
 		List<String> moodList = new ArrayList<String>();
 		
@@ -179,6 +186,5 @@ public static List<String> getListOfMoods(){
 		return moodList;
 	
 	}
-	
-}
-
+		
+}	

@@ -9,6 +9,10 @@ import javax.xml.parsers.SAXParserFactory;
 import businessobjects.PubMedArticle;
 import utils.FileUtils;
 
+/**
+ * @author gokdeniz
+ * This class contains the SAX Parser initiation and data retrieval
+ * */
 public class XMLService {
 
 	private List<PubMedArticle> articles;

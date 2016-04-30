@@ -17,7 +17,10 @@ import edu.stanford.nlp.process.DocumentPreprocessor;
 import service.XMLService;
 import utils.FileUtils;
 import utils.StringUtils;
-
+/**
+ * @author gokdeniz
+ * This class is used to process the sentences to find the relevant ones
+ * */
 public class SentenceProcessor {
 
 	protected List<String> sentences = null;
@@ -38,7 +41,11 @@ public class SentenceProcessor {
 		xmlService.init();	
 	}
 
-	
+	/**
+	 * This method gets the list of abstracts and search for each pattern in the sentences
+	 * @param patterns : List of patterns that defines a brain region
+	 * @return List<String> : type and the sentences for each type
+	 * */
 	public Map<String, List<String>> processSentences(List<PatternObject> patterns){
 	
 		Pattern p = null;
@@ -48,6 +55,7 @@ public class SentenceProcessor {
 		String sentenceDetail = null;
 		int numberOfSentences = 0;
 		
+		// Retrieve the all abstracts from pubmed xml
 		List<PubMedArticle> pubMedList = xmlService.getArticles(); 
 
 		// For each publication scan all the patterns..
